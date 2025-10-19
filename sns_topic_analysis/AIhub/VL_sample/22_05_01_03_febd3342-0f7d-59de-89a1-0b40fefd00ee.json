@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "febd3342-0f7d-59de-89a1-0b40fefd00ee",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "12:44:00",
+            "utterance": "조심히 잘갓남"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "12:44:00",
+            "utterance": "점심 뭐먹엇낭"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "12:44:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "12:58:00",
+            "utterance": "안먹고 잤다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "12:58:00",
+            "utterance": "ㅇ늘따라 와이리 피곤하지"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "13:19:00",
+            "utterance": "후 난 배아파서 보니"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "13:19:00",
+            "utterance": "그거 시작한당"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "13:27:00",
+            "utterance": "우ㅜㅇㅇ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "13:27:00",
+            "utterance": "시기적절하게 시작하는구만"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "13:28:00",
+            "utterance": "얼른 밥먹구 약먹자"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "13:59:00",
+            "utterance": "담주 월 재택확정"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "14:00:00",
+            "utterance": "오호"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "14:00:00",
+            "utterance": "다행이넹"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "14:00:00",
+            "utterance": "코로나때문인가"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "14:01:00",
+            "utterance": "중국음식 시켯오"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "14:02:00",
+            "utterance": "오옹 더 심해지니깐"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "14:02:00",
+            "utterance": "ㅋㅋ부모님이랑 같이먹나"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "14:03:00",
+            "utterance": "이제 술 마시지말아야겟다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-27",
+            "time": "14:03:00",
+            "utterance": "심각해져서 이제 술집 안갈래"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-27",
+            "time": "14:06:00",
+            "utterance": "엄마랑 이모랑 ㅇㅅㅇ"
+        }
+    ]
+}

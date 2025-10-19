@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd96dd9c-0e3d-52d6-86ff-2d336e88d600",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "23:14:00",
+            "utterance": "할부지 사진 찾음"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "23:14:00",
+            "utterance": "나 고삼때 폰있었잖어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "23:14:00",
+            "utterance": "거기에 옮겨둔거"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "23:15:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "23:15:00",
+            "utterance": "울할부지쓰"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "23:15:00",
+            "utterance": "야 이런 데이터 바로바로 어케 찾냐"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "23:16:00",
+            "utterance": "대박이다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "23:16:00",
+            "utterance": "그 나 갠카에 있었어"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "23:16:00",
+            "utterance": "보물이네보물"
+        }
+    ]
+}

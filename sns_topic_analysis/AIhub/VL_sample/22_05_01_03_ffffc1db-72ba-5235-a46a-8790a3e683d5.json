@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffffc1db-72ba-5235-a46a-8790a3e683d5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:14:00",
+            "utterance": "아 근데 이따 롤 한판 하실?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-30",
+            "time": "12:20:00",
+            "utterance": "ㅇㅋㅇㅋ몇시에?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:24:00",
+            "utterance": "음..........................."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:24:00",
+            "utterance": "몇시에 하지"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:24:00",
+            "utterance": "아니면 아예 내일해도 괜찮고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:24:00",
+            "utterance": "내일은 하루종일 게임할 수 있다 이거야"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-30",
+            "time": "12:29:00",
+            "utterance": "내일 무슨 날임??"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-30",
+            "time": "12:29:00",
+            "utterance": "왜 하루종일 할수있는겨?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:34:00",
+            "utterance": "주말이니까?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-30",
+            "time": "12:34:00",
+            "utterance": "내일은 뭐 할일 없자너"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-30",
+            "time": "12:35:00",
+            "utterance": "아 주말은 킹정이지~!"
+        }
+    ]
+}

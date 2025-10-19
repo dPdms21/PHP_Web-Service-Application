@@ -1,0 +1,199 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "69874974-6123-5ef9-82e9-4172e7249763",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:09:00",
+            "utterance": "#@이름#목사님한테"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:09:00",
+            "utterance": "물어봐달라고햇던거"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "근데 교회에 많이 온대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "내가 잘못했네"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "누가"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "그건아니도"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "오늘 만난 오빠"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "그 오빠는 대학때부터 알던오빤데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "자기 교회에서도"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "건반치던 누나가"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "신천지 교회에서 건반치러갔다가"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "엥"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:10:00",
+            "utterance": "교회애들 몇명 끌고 나갘ㅅ대"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "헐 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "일반 교회에는"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "건반치고 그런거"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "봉사로 해라 이런곳이 많은데"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "월급주는구나"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "신천지 교회는 그렇게 돈을 따박따박 준대"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-22",
+            "time": "21:11:00",
+            "utterance": "그래서 음악하는 사람들이 그런데 많이 빠진대"
+        }
+    ]
+}

@@ -1,0 +1,104 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe530324-a5c0-5be3-b774-8721bf32eca0",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 7,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-10-08",
+            "time": "09:31:00",
+            "utterance": "응응 맞아..."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-10-08",
+            "time": "09:31:00",
+            "utterance": "겨울에 허리 자주 아파 허허허"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-10-08",
+            "time": "09:33:00",
+            "utterance": "응응 그래서 따숩게 입고다녀야해ㅜ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-10-08",
+            "time": "09:41:00",
+            "utterance": "응응.. 벌써 손이 시리기 시작했어 허허허\\"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-10-08",
+            "time": "09:45:00",
+            "utterance": "아...? 벌써?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-10-08",
+            "time": "09:45:00",
+            "utterance": "히융... 빨리 내가 손잡아줘야하는데ㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-10-08",
+            "time": "10:00:00",
+            "utterance": "허허허허"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-10-08",
+            "time": "10:01:00",
+            "utterance": "이번주부터 기온많이 떨어지니까 옷따숩게 입고다녀구"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-10-08",
+            "time": "10:04:00",
+            "utterance": "응응!"
+        }
+    ]
+}

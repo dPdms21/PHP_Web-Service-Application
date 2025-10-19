@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdfe41b0-6f7a-5658-b0f6-ec9842b44ae9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_건강/미용_질병/병원"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:28:00",
+            "utterance": "완전 맘놓고 다이어트 신경도 못썼는데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:28:00",
+            "utterance": "이번주 토욜 병원 가야되는날"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:28:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ망했당!"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-12-07",
+            "time": "14:29:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ이번주 뭘 했길래!!!!!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:30:00",
+            "utterance": "두통 있는날이 많았어서 ㅠㅠ 저녁약을 못먹은게 꽤 된다 ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-12-07",
+            "time": "14:30:00",
+            "utterance": "아... 두통ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-12-07",
+            "time": "14:30:00",
+            "utterance": "맞다 니 요새 머리아프단 얘기 꽤 자주 한거 같다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:31:00",
+            "utterance": "저녁 약 생략 -> 저녁에 뭔갈 먹게 됨 -> 다이어트 안녕"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:31:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ일정 완벽한거 봐"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-12-07",
+            "time": "14:31:00",
+            "utterance": "그래서 어제부터 급히 약 꼬박 먹고 저녁 금식 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

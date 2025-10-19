@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd331f24-079c-564a-895f-cffff6f56884",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-10",
+            "time": "17:44:00",
+            "utterance": "집 가서 자지마"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-10",
+            "time": "17:45:00",
+            "utterance": "아 버스에서 딥슬립함"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-10",
+            "time": "17:46:00",
+            "utterance": "언니 왜 없지?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-10",
+            "time": "17:46:00",
+            "utterance": "집에 갔다구 ㅡㅡ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-10",
+            "time": "17:47:00",
+            "utterance": "언니한테 깨우라고 할라고 했는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-10",
+            "time": "17:47:00",
+            "utterance": "피곤한데 진짜"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-10",
+            "time": "17:47:00",
+            "utterance": "알람 켜놔..."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-10",
+            "time": "17:47:00",
+            "utterance": "시끄러운걸로"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-10",
+            "time": "17:47:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-10",
+            "time": "17:47:00",
+            "utterance": "그럼 고양이가 알람 듣고 깨워줌"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd723f36-967a-5201-b8f1-1a16116ec286",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_금융_상태/은행"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "09:46:00",
+            "utterance": "나오늘 스시집 이번달월급받앗오"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "09:46:00",
+            "utterance": "뱅기몇개끊고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "09:46:00",
+            "utterance": "돈"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "09:46:00",
+            "utterance": "육백모앗다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "09:46:00",
+            "utterance": "일한지4개월만에"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-27",
+            "time": "10:07:00",
+            "utterance": "오"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-27",
+            "time": "10:07:00",
+            "utterance": "내사랑돈잘모으네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "10:08:00",
+            "utterance": "하ㅠ 이각박한"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "10:08:00",
+            "utterance": "밴쿠버에서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-27",
+            "time": "10:08:00",
+            "utterance": "한달에 130마넌씩저툭한거임"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-27",
+            "time": "10:26:00",
+            "utterance": "내돈도관리해줘 ㅎ"
+        }
+    ]
+}

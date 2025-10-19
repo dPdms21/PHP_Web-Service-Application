@@ -1,0 +1,113 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e43a319b-4f2e-5417-b2df-f70c38cffa62",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "사회/경제_자기계발_취업/이직"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "앞으로 20년 안에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "사무직 근로자의 50퍼가 사라진대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "마자 너무 슬픈이야기 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "근데 20년뒤면 우리도"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "50살임..ㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "근데 지금도 이미"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "취업하기 힘든걸...ㅎㅎ.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "그것도 맞지"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "정말 힘든 세상이야"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-26",
+            "time": "22:20:00",
+            "utterance": "내말이 ㅠㅠ"
+        }
+    ]
+}

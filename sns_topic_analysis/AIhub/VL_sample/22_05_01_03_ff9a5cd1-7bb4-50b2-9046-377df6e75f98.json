@@ -1,0 +1,121 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff9a5cd1-7bb4-50b2-9046-377df6e75f98",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장",
+                "생활/행사_반복생활_공공시설/교통"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "나 오늘  버스가  늦어서   지각한다ㅠ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "지금 회사 가는  길이야 ㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "아이고 어쩌다가"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "무슨 사고가 난건지 아무리 기다려도 안오는거야"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "오늘 그쪽에 무슨 사고 소식은 없었는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "무슨 행사하나?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "몰라 ㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:52:00",
+            "utterance": "마음 졸여 죽겠네.."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:53:00",
+            "utterance": "팀장님한테 먼저 말해놔야 하나"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-03-03",
+            "time": "07:53:00",
+            "utterance": "지금시간이면 간당간당 하지만 괜찮을꺼야"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-03-03",
+            "time": "07:53:00",
+            "utterance": "조마조마 ㅠ"
+        }
+    ]
+}

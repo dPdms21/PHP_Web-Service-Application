@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "44b54e41-328e-598c-950e-8a26ab046035",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "13:14:00",
+            "utterance": "사재기해가는 중국인들도.."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "13:14:00",
+            "utterance": "아옼ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "18:31:00",
+            "utterance": "하 구니까....."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "18:31:00",
+            "utterance": "마스크동난다동나 ㅜ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "19:44:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "19:45:00",
+            "utterance": "중국내에서도 마스크 잘 안낀다던데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "19:45:00",
+            "utterance": "다 우리나라사람들한테 되팔고있는듯.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "19:45:00",
+            "utterance": "비싸게"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "21:06:00",
+            "utterance": "와.. 그런거면진짜나쁜놈들이네 ㅜ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "21:06:00",
+            "utterance": "그냥손이나잘씻고다녀야지 ㅜㅜ"
+        }
+    ]
+}

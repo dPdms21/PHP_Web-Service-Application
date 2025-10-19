@@ -1,0 +1,136 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b31910e8-b8cc-54ff-ac2c-11909cbdc813",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 13,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:06:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:06:00",
+            "utterance": "우리가 1월 1일에 엄마생일선물로 디올에서 가방 샀잖아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:06:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:06:00",
+            "utterance": "주문한 걸 받을 수 있는지 확실치 않다는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "이게 말이 돼...?이게 가능해?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "..?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "너그런그때 가방안받앗어?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "주문해서 기다려야된대서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "그게 무슨 갈같지도않은소리야"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "지금 한달넘게 기다리는중인데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:07:00",
+            "utterance": "솔직히 이렇게 오래 못받을지도 몰랐고"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-12",
+            "time": "19:08:00",
+            "utterance": "무슨 우수고객들한테 먼저 빼돌리나 싶을정도로 내차례가 이렇게 안올 수가 있나.."
+        }
+    ]
+}

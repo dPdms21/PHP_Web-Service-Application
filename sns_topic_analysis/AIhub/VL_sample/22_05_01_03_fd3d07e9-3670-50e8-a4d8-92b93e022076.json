@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd3d07e9-3670-50e8-a4d8-92b93e022076",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 9,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:39:00",
+            "utterance": "허구덩"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:39:00",
+            "utterance": "안대는구납"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:39:00",
+            "utterance": "이룬 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:39:00",
+            "utterance": "지금 퇴근행 ? ?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:40:00",
+            "utterance": "바빠수 점 곤란한가부당 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:47:00",
+            "utterance": "빕을들렷다강"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:47:00",
+            "utterance": "\"62타구오믄맞지아늘카,\""
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:47:00",
+            "utterance": "?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:48:00",
+            "utterance": "아님내가한대앞가깡?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:48:00",
+            "utterance": "놉"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:48:00",
+            "utterance": "지굼 나가꺼얍 아라떱 62타구가_ 구러면 !! 빨리 가성"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:48:00",
+            "utterance": "밥럼 아라떵쿠쿠"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:52:00",
+            "utterance": "부부엄 쟈철타떱?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:53:00",
+            "utterance": "우웅이제금정수얍"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:55:00",
+            "utterance": "으웃 !! 내가이거야딩"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:56:00",
+            "utterance": "바뷰럼"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-01-29",
+            "time": "18:56:00",
+            "utterance": "버그탁더?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:59:00",
+            "utterance": "으닝 곧 빕스얍"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-01-29",
+            "time": "18:59:00",
+            "utterance": "바루나우서 62타여디"
+        }
+    ]
+}

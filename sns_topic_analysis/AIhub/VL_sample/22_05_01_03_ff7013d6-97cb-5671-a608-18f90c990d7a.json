@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff7013d6-97cb-5671-a608-18f90c990d7a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-26",
+            "time": "00:43:00",
+            "utterance": "일단 막걸리 일병 클리어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-26",
+            "time": "00:43:00",
+            "utterance": "이병 갑니다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-26",
+            "time": "00:43:00",
+            "utterance": "나는 맥주 마시면 라면 끓일 거 같아서"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-26",
+            "time": "00:43:00",
+            "utterance": "참는다ㅜㅜ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-26",
+            "time": "00:44:00",
+            "utterance": "그럼 라면을 끓이고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-26",
+            "time": "00:44:00",
+            "utterance": "어쩔수없는듯 맥주를 마셔"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-26",
+            "time": "00:44:00",
+            "utterance": "해결~"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-26",
+            "time": "00:46:00",
+            "utterance": "내일 식사 때 그럴겤ㅋㅋㅋㅋ"
+        }
+    ]
+}

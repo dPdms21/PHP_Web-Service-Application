@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "a92f8adb-b311-5790-a4fe-62c75007743a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-03",
+            "time": "12:26:00",
+            "utterance": "지류 영수증 종이에서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-03",
+            "time": "12:26:00",
+            "utterance": "발암물질이 나온대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-03",
+            "time": "12:27:00",
+            "utterance": "나도 들었어"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-03",
+            "time": "12:27:00",
+            "utterance": "그래서 영수증을 받으면"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-03",
+            "time": "12:27:00",
+            "utterance": "바로 버리는 편이야"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-03",
+            "time": "12:27:00",
+            "utterance": "잘하고 있었네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-03",
+            "time": "12:27:00",
+            "utterance": "언니도 가급적 영수증은"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-03",
+            "time": "12:27:00",
+            "utterance": "바로 버려야겠어"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-03",
+            "time": "12:28:00",
+            "utterance": "발암물질이 나오는 줄은 몰랐어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-03",
+            "time": "12:28:00",
+            "utterance": "응 너무 뒤늦게 안 거 같아서 유감"
+        }
+    ]
+}

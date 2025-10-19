@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff16fba6-ab37-5f15-a4c6-15114e1342d2",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 17,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_미디어"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "제주특별자치도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "제주특별자치도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "10:38:00",
+            "utterance": "똥몰카ㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "10:38:00",
+            "utterance": "똥?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "10:38:00",
+            "utterance": "봐봐ㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "10:39:00",
+            "utterance": "#@시스템#동영상#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "10:41:00",
+            "utterance": "된장?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:01:00",
+            "utterance": "응ㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:04:00",
+            "utterance": "너는내운명보맨?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "11:18:00",
+            "utterance": "똥싸맨"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:19:00",
+            "utterance": "영화안봔?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "11:19:00",
+            "utterance": "응 무삳"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:19:00",
+            "utterance": "그거봐봐 진짜 황정민 오빠같애ㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "11:19:00",
+            "utterance": "아란 오늘볼게"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:19:00",
+            "utterance": "그거보고 펜트하우스1회부터보던지ㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "11:20:00",
+            "utterance": "오빠  한의원가서 더입원할가?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:21:00",
+            "utterance": "그것도똑같이입원비나오나?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "11:21:00",
+            "utterance": "나온다네"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "11:21:00",
+            "utterance": "누구한테물어봔?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-01-16",
+            "time": "11:22:00",
+            "utterance": "조천 새마을금고 #@이름#부장"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T17",
+            "participantID": "P01",
+            "date": "2021-01-16",
+            "time": "12:12:00",
+            "utterance": "#@시스템#사진#"
+        }
+    ]
+}

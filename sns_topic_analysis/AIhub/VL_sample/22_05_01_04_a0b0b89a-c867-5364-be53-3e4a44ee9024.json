@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "a0b0b89a-c867-5364-be53-3e4a44ee9024",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:47:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:47:00",
+            "utterance": "지구가"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:47:00",
+            "utterance": "파란색이라하잔아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:47:00",
+            "utterance": "그치"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:47:00",
+            "utterance": "근데 원래 파란색이 아니구 회색이라는 말이 있데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "와 회색이야 ?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "근데 아름답게 긍정적으로 얘기하려구"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "파란색이라고 했다는 설도 있었어"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "와 뭐야 이 똑똑함은"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "회색빛이라구하면 너무 우울하니까"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "뇌피셜이야"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "그런거같아...."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "나사에서 그렇게 숨겼다는"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-13",
+            "time": "00:48:00",
+            "utterance": "설이있데"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:49:00",
+            "utterance": "허허"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:49:00",
+            "utterance": "다 아스팔트로"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:49:00",
+            "utterance": "포장도로 해서 그런가"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:49:00",
+            "utterance": "자연이 사라져가는걸"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-13",
+            "time": "00:49:00",
+            "utterance": "그리 표현한건가"
+        }
+    ]
+}

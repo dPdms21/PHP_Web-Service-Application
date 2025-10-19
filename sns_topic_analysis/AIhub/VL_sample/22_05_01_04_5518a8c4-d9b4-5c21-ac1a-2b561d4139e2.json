@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5518a8c4-d9b4-5c21-ac1a-2b561d4139e2",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-15",
+            "time": "13:11:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-15",
+            "time": "13:12:00",
+            "utterance": "이것봐봐 너무 행복한 썰이야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-15",
+            "time": "13:12:00",
+            "utterance": "진짜여도 너무 좋을 것 같아ㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-15",
+            "time": "13:13:00",
+            "utterance": "앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-15",
+            "time": "13:13:00",
+            "utterance": "괜차나~ 너무 귀엽다ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-15",
+            "time": "13:13:00",
+            "utterance": "괴담이긴 괴담인데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-15",
+            "time": "13:13:00",
+            "utterance": "너무 귀여운 괴담이야"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-15",
+            "time": "13:15:00",
+            "utterance": "그치 진짜였으면 좋겠는 괴담이야ㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-15",
+            "time": "13:15:00",
+            "utterance": "진짜여도 너무 귀여워ㅠㅠ"
+        }
+    ]
+}

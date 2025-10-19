@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd6349b2-69a5-5380-9fc7-7713880a89ef",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "18:12:00",
+            "utterance": "이제 #@이름#이 데릴러가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "18:12:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "22:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋ 머 햇오"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:42:00",
+            "utterance": "카페갔다사"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:42:00",
+            "utterance": "술머고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:42:00",
+            "utterance": "헤헤"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "22:43:00",
+            "utterance": "ㅋㅋㅋ 어디갓오 슐"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:43:00",
+            "utterance": "수영쓰"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:43:00",
+            "utterance": "육회랑 연어먹오"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:43:00",
+            "utterance": "와라와!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "22:44:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "22:44:00",
+            "utterance": "짯나"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "22:44:00",
+            "utterance": "빤니와!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "23:09:00",
+            "utterance": "나는"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "23:09:00",
+            "utterance": "편맥큐 하러가유"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "23:09:00",
+            "utterance": "누구랑이지~~~"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-10-11",
+            "time": "23:10:00",
+            "utterance": "#@이름# #@이름#"
+        }
+    ]
+}

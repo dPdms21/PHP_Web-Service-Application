@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "4a0e4738-0cc1-5ba4-a985-d73a1e19b350",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:23:00",
+            "utterance": "막 이런 얘기도 있고 울아빠 좀 특이함"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "헐헐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "뭐야"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "보통이 아니야"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "흥미로워"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "하나의 홍콩러로"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "엄마ㅜ점보러가면 무당 아줌마들이 아빠 조금만 뭐 했어도 무당 될 수도 있었다고 신랑이 약간 신기 비슷하게 있다 막 이랬었엉"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "그래서 꿈도 잘꾸고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "잠꼬대도 #@기타# 많이하는데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "내가 홍콩방에사"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "잠꼬대는 귀신이 말거는거란 글을 읽고"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:24:00",
+            "utterance": "그때부터 아빠 잠꼬대하먄 무거워서 방문닫고 넷플보자녀"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "무서월 ㅠ흑"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "저기요ㅠㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "울어매"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "잠꼬대 진짜 말처럼 하시거든요"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "......"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-14",
+            "time": "00:25:00",
+            "utterance": "죄송함다"
+        }
+    ]
+}

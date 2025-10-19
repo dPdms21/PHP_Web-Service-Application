@@ -1,0 +1,181 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ba8a58ab-e2ff-5fff-88ce-d355e5ef2223",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "아니지금 십삼만이"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "설에"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "제주도"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "갓다자나"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "엥"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "확실히말해"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "이동 가능했냐?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "어제 #@이름#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "나한테"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "90000만명"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "죽었다고"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:48:00",
+            "utterance": "구만명 썰도"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:49:00",
+            "utterance": "중국인 간호사 영상에서 나와서"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:49:00",
+            "utterance": "마자"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:49:00",
+            "utterance": "아직 안확실 아냐?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2020-01-26",
+            "time": "23:49:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-01-26",
+            "time": "23:49:00",
+            "utterance": "에휴"
+        }
+    ]
+}

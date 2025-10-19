@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "16944868-a716-5c22-bc3d-7f227e8b9b9b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:22:00",
+            "utterance": "아니 ㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "일단"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "올라고 예견돼 잇엇다고?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "코로나가"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "젤큼"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "애초에?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "자영업이 #@기타#되서"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "이거 러시아는 이미알고있었어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "쓰읍 그러쿤"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "코로나"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "터지기전부터"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "흑사병같은"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "병 하나터질거라고"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "전#@기타#썰은"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "러시아는 이미암"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-03-18",
+            "time": "15:23:00",
+            "utterance": "원래 돌고돌자나"
+        }
+    ]
+}

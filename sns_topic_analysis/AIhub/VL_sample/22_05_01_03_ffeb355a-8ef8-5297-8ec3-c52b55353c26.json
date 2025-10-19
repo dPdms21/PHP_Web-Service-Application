@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffeb355a-8ef8-5297-8ec3-c52b55353c26",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "16:20:00",
+            "utterance": "그럼나두 갈래"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "16:20:00",
+            "utterance": "ㅎㅎㅎㅎ히히백조가 도와줄래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "16:22:00",
+            "utterance": "ㅋㅋㅋㅋ그래그래"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "16:22:00",
+            "utterance": "개춥다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "16:35:00",
+            "utterance": "오늘 갑자기 너무 추워졌지.."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "16:35:00",
+            "utterance": "진짜아침에 깜짝놀라땅"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "16:42:00",
+            "utterance": "맞제 ㅋㅋㅋ옷 뜨시게 입고댕기"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "16:42:00",
+            "utterance": "글뱅이 마냥 다니지말고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:35:00",
+            "utterance": "패딩줘라 줘"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:35:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:35:00",
+            "utterance": "그거 훔치러간당"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:35:00",
+            "utterance": "오리털"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "18:36:00",
+            "utterance": "ㅋㅋㅋㅋ내꺼말고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "18:36:00",
+            "utterance": "니꺼 사입어 따신걸로"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:39:00",
+            "utterance": "왜준다햇쟈나"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:39:00",
+            "utterance": "줘"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-10-12",
+            "time": "18:39:00",
+            "utterance": "ㅡㅡ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "18:55:00",
+            "utterance": "싫다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "18:55:00",
+            "utterance": "니가 사입어라"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-10-12",
+            "time": "18:55:00",
+            "utterance": "옷 사라 겨울옷!!"
+        }
+    ]
+}

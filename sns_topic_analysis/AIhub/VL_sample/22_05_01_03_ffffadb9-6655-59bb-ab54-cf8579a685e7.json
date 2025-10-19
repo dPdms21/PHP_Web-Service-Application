@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffffadb9-6655-59bb-ab54-cf8579a685e7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "14:26:00",
+            "utterance": "밥럼"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "14:26:00",
+            "utterance": "일은잘되구잇납"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "14:39:00",
+            "utterance": "놉수"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "14:39:00",
+            "utterance": "킁킁킁킁"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "14:39:00",
+            "utterance": "킁킁킁킁킁"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "14:40:00",
+            "utterance": "바뷰럼"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "14:40:00",
+            "utterance": "구럼 나는 퇴근하구 집가야겟당"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "14:40:00",
+            "utterance": "쿠쿵"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "14:40:00",
+            "utterance": "칼퇴각이얍?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "14:51:00",
+            "utterance": "아망?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "15:08:00",
+            "utterance": "바부럼"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "15:08:00",
+            "utterance": "우리방은"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "15:08:00",
+            "utterance": "한 5시쯤에 보구 알려줘두댕 ? >…<"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "15:09:00",
+            "utterance": "구래랑 바부러망ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "15:09:00",
+            "utterance": "야근각일거같긴한뎅 확팅랭"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "15:59:00",
+            "utterance": "바부럼"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-01-25",
+            "time": "15:59:00",
+            "utterance": "우라방이 야근각인거같다는건강?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "16:28:00",
+            "utterance": "우웅"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-01-25",
+            "time": "16:29:00",
+            "utterance": "야근넘앙~"
+        }
+    ]
+}

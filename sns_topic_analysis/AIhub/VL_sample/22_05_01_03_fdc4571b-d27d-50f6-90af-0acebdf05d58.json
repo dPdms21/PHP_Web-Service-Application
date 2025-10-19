@@ -1,0 +1,213 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdc4571b-d27d-50f6-90af-0acebdf05d58",
+            "numberOfParticipants": 4,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 7,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_일상경험",
+                "문화/건강_건강/미용_질병/병원"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P04",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-14",
+            "time": "09:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "09:59:00",
+            "utterance": "아니탈모입니다 이건 아니거 걍 앞쪽이 뒤보다 머리숱이 없긴하다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "09:59:00",
+            "utterance": "탄수화물마니먹지말고 커피먹지말거 짠거먹지말거 기름진거 먹지말고 잠마니자고 운동하고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "09:59:00",
+            "utterance": "그러면서 스트레스받지말래"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-04-14",
+            "time": "09:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "뭘 먹으라는겅야..."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "그렇게 하는게 더 스트레스"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "딱지는 떨어졌니?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "웅 거의다떨어져가"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "근데 내가 처음갔던 피부과 선생님이 그랬거든"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "자기는 주근깨 레이저한번에 다 없애줄수있다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:00:00",
+            "utterance": "근데 그러고 나면 그전에 안보이던 더 희미한 노란 애들이 보일텐데"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:01:00",
+            "utterance": "나는 찐한애들만 업어져도 좋을거같다 걔네는 신경도 안쓰고 살아왔다 그랬더니"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:01:00",
+            "utterance": "사람 마음이 화장실 갈때 마음이랑 나갈때 마음이 다르다고"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:01:00",
+            "utterance": "그러고 나면 그 노란 희미한 애들이 또 마음에 안들거라고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:01:00",
+            "utterance": "근데 그게 지금다니는 피부과와보니까 기미라는거야"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:02:00",
+            "utterance": "근데 맞는말이야 딱지떨어지고 나니까 그 아이들이 눈에 들어오면서.."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-14",
+            "time": "10:02:00",
+            "utterance": "걔네들도 없앴어야하는데 시펔ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P04",
+            "date": "2020-04-14",
+            "time": "10:04:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P04",
+            "date": "2020-04-14",
+            "time": "10:04:00",
+            "utterance": "딱지떨어지면서 다 없어졌어 진짜?"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T07",
+            "participantID": "P04",
+            "date": "2020-04-14",
+            "time": "10:04:00",
+            "utterance": "아니 근데 그거 단백질 영양제 같은거 먹어봐"
+        }
+    ]
+}

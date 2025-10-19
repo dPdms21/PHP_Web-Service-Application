@@ -1,0 +1,205 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdf0e36d-695e-5f83-9fb0-fca44853f775",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "50대 이상",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-01-05",
+            "time": "12:48:00",
+            "utterance": "예매했으까?.."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "13:49:00",
+            "utterance": "이제 하러 가용"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "13:49:00",
+            "utterance": "이제서야 점심시간이라서! 하규 자리 알려드릴게오 ㅠㅠ!"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "14:00:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "14:01:00",
+            "utterance": "약간 뒷쪽 맨 오른쪽 자리에요-!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "14:01:00",
+            "utterance": "요거 내가 갖고 있을테니까 매장으로 나중에 와서 가져가세용💜🙆🏻‍♀️"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-01-05",
+            "time": "14:17:00",
+            "utterance": "땡큐.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2019-01-05",
+            "time": "14:33:00",
+            "utterance": "고맙당^^"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2019-01-05",
+            "time": "14:39:00",
+            "utterance": "여보 어제계란 처럼 3판있는것 하나사죠  조금빨리와서~~"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-01-05",
+            "time": "14:53:00",
+            "utterance": "응.ㅇ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "16:01:00",
+            "utterance": "우리가게 먼저 와주기!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "16:19:00",
+            "utterance": "#@주소#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "17:41:00",
+            "utterance": "쇼핑 잘하구 영화 잘 봐용 :) 끝나면 10층으로 올라갈게요! ㅎㅎ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-05",
+            "time": "17:45:00",
+            "utterance": "맛나게 잘 먹었다 그리고 이제 10층 올라 와서 커피 한잔 마시고 있어 고마워 이따 봐."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "18:00:00",
+            "utterance": "굳🙆🏻‍♀️💜"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "18:00:00",
+            "utterance": "네~~~ ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "20:43:00",
+            "utterance": "이제끝"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "20:43:00",
+            "utterance": "올라갈게용"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "20:49:00",
+            "utterance": "올라가는 길을 못찾아가지고...!"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "20:49:00",
+            "utterance": "걍 일단 1층 내려왔는데, 10층 올라갈까요?"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-05",
+            "time": "21:01:00",
+            "utterance": "#@시스템#사진#"
+        }
+    ]
+}

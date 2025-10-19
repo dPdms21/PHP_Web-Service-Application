@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "55fc65e1-c0f3-5585-a2b1-5bc4f864b7dc",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "19:36:00",
+            "utterance": "어른스럽누"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "19:36:00",
+            "utterance": "크크크"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "19:36:00",
+            "utterance": "빨리 나도저식탁써보고싶어!"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "19:55:00",
+            "utterance": "구하라 자살했다내..헐"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "왓?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "인터넷에"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "떳어..."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "이거 진짜 누가 살해하고 다니는거 아니냐"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "무슨"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "구하라 설리 애도하더니"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "갑자기 자살해버린다고"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "아 너무 이상하다 요즘"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "19:56:00",
+            "utterance": "ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "20:03:00",
+            "utterance": "그니까.."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "20:03:00",
+            "utterance": "요즘왜ㅣ래"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-24",
+            "time": "20:03:00",
+            "utterance": "마음이아프다"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "20:07:00",
+            "utterance": "어리고 세상 누린것같던 연예인이 그러니까"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "20:08:00",
+            "utterance": "이게 막 믿기지가 않우"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "20:08:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-24",
+            "time": "20:08:00",
+            "utterance": "오빠 설계중이에요~~~?"
+        }
+    ]
+}

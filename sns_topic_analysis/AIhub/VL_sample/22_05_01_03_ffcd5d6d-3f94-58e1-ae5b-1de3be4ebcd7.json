@@ -1,0 +1,143 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffcd5d6d-3f94-58e1-ae5b-1de3be4ebcd7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:25:00",
+            "utterance": "#@URL# 이거 봐봐"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:25:00",
+            "utterance": "이거해 빨리 신청하셈ㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:25:00",
+            "utterance": "최대 700만원 벌 수 있대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-13",
+            "time": "23:29:00",
+            "utterance": "언제까지여?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "12월까지래~"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "아깜빡하고 대화자에 너 안넣음"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "빨리 신청 ㄱㄱ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "여러 톡방, 단체톡방"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "다되는거야?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "ㅇㅇ 공지 읽어보셈"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "내일할게"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "대신 그 톡방 참여자가"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "지금 배터리가 읎음"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:30:00",
+            "utterance": "동의해줘야돼"
+        }
+    ]
+}

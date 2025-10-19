@@ -1,0 +1,206 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "9ac0240a-2b8d-53d3-8479-2fa77f151377",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:22:00",
+            "utterance": "지들도 조금 가격 맞추는거같더라구여"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:22:00",
+            "utterance": "옆매장이랑 차이안나게"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:22:00",
+            "utterance": "근데 요즘 보세값도 너무쎄서"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:23:00",
+            "utterance": "브랜드 옷 세일가가 저렴할따도..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "요즘은 진짜 준명품들이 잘나와서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "사람들 보세 잘 안찾는거가타여"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "여주만가됴..진짜 가격이.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "굿"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "보세에 남자는 모르겟는데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "여자 청바지 10만원씩하고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "코트도 20-30"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:24:00",
+            "utterance": "카피도 너무많고 ㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:25:00",
+            "utterance": "여주가서 20-30짜리 코트사는게 나아요 ㅜ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-05",
+            "time": "16:26:00",
+            "utterance": "마자염"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-05",
+            "time": "16:26:00",
+            "utterance": "남자는 아예 요즘은 전부 명품만 찾졍"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-05",
+            "time": "16:26:00",
+            "utterance": "명품들도 가격별로 다양해서"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:28:00",
+            "utterance": "작년말 올초"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:28:00",
+            "utterance": "탤아비 옷사느라"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:28:00",
+            "utterance": "흑흑 전 동생이 남겨놓고간 옷 챙겨왓어요"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-05",
+            "time": "16:28:00",
+            "utterance": "주섬주섬"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2021-02-05",
+            "time": "16:29:00",
+            "utterance": "동영상 소리없이 봤는데도"
+        }
+    ]
+}

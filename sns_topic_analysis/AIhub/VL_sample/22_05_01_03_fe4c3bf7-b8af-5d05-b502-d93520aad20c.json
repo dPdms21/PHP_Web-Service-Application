@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe4c3bf7-b8af-5d05-b502-d93520aad20c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "10:14:00",
+            "utterance": "아ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "10:14:00",
+            "utterance": "웅웅 헤깔랴따"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "10:22:00",
+            "utterance": "ㅋㅋㅋ귀요미"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:12:00",
+            "utterance": "앜ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:12:00",
+            "utterance": "아고 회의 방금 끝나쪄"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:12:00",
+            "utterance": "밖으로 점심 묵으러 간다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:13:00",
+            "utterance": "헐????"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:13:00",
+            "utterance": "ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:13:00",
+            "utterance": "뭐무거 ㅜ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:24:00",
+            "utterance": "웅웅 보쌈 먹으러 와져"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:24:00",
+            "utterance": "자긴 뭐 무져?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:28:00",
+            "utterance": "나 걍 지정식당이욤 옴뇸뇸"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:28:00",
+            "utterance": "ㅎㅎㅎ 잘했어"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:28:00",
+            "utterance": "옴뇸뇸 먹었어?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:30:00",
+            "utterance": "ㅋㅋㅋㅋ 웅웅"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:30:00",
+            "utterance": "별루여쬬"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:48:00",
+            "utterance": "ㅎㅎ 그랬구나~"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:49:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-23",
+            "time": "13:50:00",
+            "utterance": "웅웅 ㅋㅋ 맛있니?"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-09-23",
+            "time": "13:51:00",
+            "utterance": "ㅋㅋ 걍 보통이야ㅎㅎ"
+        }
+    ]
+}

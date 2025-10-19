@@ -1,0 +1,101 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "8d65f62f-54e3-5c64-a431-d9d6282daadf",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "회원권 1억이래"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "돈 #@기타#번다..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "엥 미핀"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "#@기타#비싸네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "1억이면"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "걍 전새살둣"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-06-09",
+            "time": "21:19:00",
+            "utterance": "싼게1억임"
+        }
+    ]
+}

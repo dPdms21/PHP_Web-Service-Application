@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff74c47e-d2ae-538b-8d0b-c2e851be015e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 6,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_건강/미용_미용"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:48:00",
+            "utterance": "뭔가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:48:00",
+            "utterance": "치사해"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:50:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:50:00",
+            "utterance": "이것바"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:50:00",
+            "utterance": "관리 일도 안해주ㅏㅅ어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:50:00",
+            "utterance": "겁나 대충해주고"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:51:00",
+            "utterance": "난 독다방앞이유!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:51:00",
+            "utterance": "가는중 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:51:00",
+            "utterance": "머먹징"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:51:00",
+            "utterance": "생각하구잇어"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:53:00",
+            "utterance": "녱~"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:57:00",
+            "utterance": "ㅋㅋㅋㅋ와 근데 진짴ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:57:00",
+            "utterance": "큐티클까진 아니어도"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-16",
+            "time": "17:57:00",
+            "utterance": "잘라줄 수는 있는거 아니냥"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:58:00",
+            "utterance": "구니깐ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-16",
+            "time": "17:59:00",
+            "utterance": "이따 올영가서 손톱깎이랑 가는거 사야지"
+        }
+    ]
+}

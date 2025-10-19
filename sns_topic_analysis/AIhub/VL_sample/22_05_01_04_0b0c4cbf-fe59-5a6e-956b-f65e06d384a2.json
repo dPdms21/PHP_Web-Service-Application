@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0b0c4cbf-fe59-5a6e-956b-f65e06d384a2",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:15:00",
+            "utterance": "아 나는 보는 눈이 너무 많아서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:15:00",
+            "utterance": "못자"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:15:00",
+            "utterance": "..저도"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:15:00",
+            "utterance": "안잤어요 ...!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:15:00",
+            "utterance": "졸았어요 ..!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:16:00",
+            "utterance": "ㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:16:00",
+            "utterance": "그거나그거나,,,,,,"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:21:00",
+            "utterance": "ㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:21:00",
+            "utterance": "ㅠㅠ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:21:00",
+            "utterance": "집에"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:21:00",
+            "utterance": "갈래 ,,ㅠㅠ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:21:00",
+            "utterance": "너 담주 커피머신 청소래"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "아앗,,!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "벌서 ?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "그 안오시는분들 많아서"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "아핫,,!"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "우리가 당겨서 한대"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "나부터야 ?,,,ㅎㅎ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "이번주 나"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-02-01",
+            "time": "15:22:00",
+            "utterance": "아 웃겨"
+        }
+    ]
+}

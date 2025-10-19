@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "87332",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_건강정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "오늘 뉴스 헤드라인 봤었어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "오늘?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "아니 나 뉴스 잘 안 봐 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "요즘 백신 많이 맞는 추세잖아! 너도 알지?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "웅 맞아 지금 뭐 3차까지 간다 얘기도 많던데 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그치 너는 백신 어떤 거 맞았어?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "난 모더나 키키"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "난 화이자 맞았어 ㅠㅠ 모더나 부럽다... 모더나 맞고 싶었는데 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "안돼 ㅠㅠ 모더나 맞고 부산에서 1명 사망했다더라"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "헐 모더나도 사망자가 나왔어?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "응 오늘 부산에서 사망자가 나왔다는데?..."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "헐 소름이네 ㅠㅠ 1차였데 2차였데?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "2차였는데 20대여서 사람들이 더 논란이 집중 되었나 봐!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "아 근데 오히려 20대들이 맞는게 더 안 좋다는 말도 있긴 하더라 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그래? ㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그래서 그런지 난 20대고 모더나 맞아서 더 무서워"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그래도 모더나가 좀더 나중에 나와서 더 좋다고 하잖아 ㅠㅠ 괜찮아~"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "응 그냥 조심해야지 ㅠㅠ백신 요즘 겁난다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "웅 근데 3차까지 말 나오니까 더 무서워 ㅠㅠ"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e8e076be-37cd-5794-9bb6-04cc64ce5813",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 15,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "충청북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:19:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:19:00",
+            "utterance": "예사 왜 일을 저따구로해"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:19:00",
+            "utterance": "일반예매도 취소표 엄청 많이 생겼대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-06-12",
+            "time": "00:19:00",
+            "utterance": "엥"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:19:00",
+            "utterance": "선예매 자리였다고 다 취소 시켰대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-06-12",
+            "time": "00:19:00",
+            "utterance": "에엥"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "그냥 #@기타#거 아니야?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "뭐하자는거지"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "일을 왜 그따구로해"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "열받네"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "내가 그런건 아니지만"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "플미들 때문에 이지경,,,,,"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:20:00",
+            "utterance": "세상은 요지경,,,,"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-06-12",
+            "time": "00:21:00",
+            "utterance": "요지요지"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-06-12",
+            "time": "00:21:00",
+            "utterance": "요지경"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd8734a9-1bd3-5da1-adbe-87320ae96adb",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 16,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:34:00",
+            "utterance": "흥"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:34:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:34:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:34:00",
+            "utterance": "나도 그말 아렁"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:34:00",
+            "utterance": "그래도 이야기 들어줄 친구가 있어서 행복하다"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:34:00",
+            "utterance": "내편들어주는 친구"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "내가 엄청 날씬해져서 니네 만날라했더만"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "고마워"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "토요일 낮에 함 보자~~ 조만간"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "ㅇㅇ 좋아좋아"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "샐러드 먹자"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "아님 ㅎㅎㅎ 암튼 맞춰서 보면 되징"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "걷고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "콜~~~~"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "ㅇㅇ 나 언제든 좋아"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "난 좋아 요즘 만보 걷기 하려고 하고 있음"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "막 나갈꺼야"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2018-05-24",
+            "time": "23:35:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

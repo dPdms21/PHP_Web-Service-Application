@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd594218-8f4d-59c6-945b-7652da7eb276",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "40대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "13:28:00",
+            "utterance": "않했어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "13:29:00",
+            "utterance": "너 요즘 정신없어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "13:29:00",
+            "utterance": "그래서 오늘 왠만한건 짐 날라야된다고도 얘기했는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "13:29:00",
+            "utterance": "요즘 정신있으면 못갈것 같다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "13:29:00",
+            "utterance": "못살것"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:22:00",
+            "utterance": "14일부로 발령난단다ㅜㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:22:00",
+            "utterance": "저녁에 NC나 갈까?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:22:00",
+            "utterance": "옷이나 보게"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "15:55:00",
+            "utterance": "14일?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "15:55:00",
+            "utterance": "10월 14일부터?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:55:00",
+            "utterance": "ㅇ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "15:55:00",
+            "utterance": "어머니 짐 옮겨야한다며"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:56:00",
+            "utterance": "내일도있잖아"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "15:56:00",
+            "utterance": "내일은 나 8시에 공부있어"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:56:00",
+            "utterance": "이따가 같다와서 몇개라도 나르든지"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "15:56:00",
+            "utterance": "나랑 애들이랑 같이해도됨"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "18:11:00",
+            "utterance": "혹시 종탑 헌금했어?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "18:11:00",
+            "utterance": "계속 걸리네ㅠㅠ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-09-30",
+            "time": "18:31:00",
+            "utterance": "않했어"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2019-09-30",
+            "time": "18:33:00",
+            "utterance": "않할거지?"
+        }
+    ]
+}

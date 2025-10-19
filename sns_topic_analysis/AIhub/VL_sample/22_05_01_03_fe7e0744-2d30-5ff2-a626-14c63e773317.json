@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe7e0744-2d30-5ff2-a626-14c63e773317",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-07",
+            "time": "23:00:00",
+            "utterance": "와 포항이다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-07",
+            "time": "23:06:00",
+            "utterance": "드뎤ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-07",
+            "time": "23:06:00",
+            "utterance": "추카추카"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-07",
+            "time": "23:06:00",
+            "utterance": "다온건아니잖아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-04-07",
+            "time": "23:08:00",
+            "utterance": "이제 도착!ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-07",
+            "time": "23:09:00",
+            "utterance": "생각보다 빨리도착한거같은데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-07",
+            "time": "23:09:00",
+            "utterance": "그러게요"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-07",
+            "time": "23:09:00",
+            "utterance": "기사님도"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-07",
+            "time": "23:09:00",
+            "utterance": "1시간 반도 안걸리게"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-07",
+            "time": "23:09:00",
+            "utterance": "패스트 드라이버인가봄"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-07",
+            "time": "23:09:00",
+            "utterance": "패스트 드라이버 ㅋㅋㅋㅋ"
+        }
+    ]
+}

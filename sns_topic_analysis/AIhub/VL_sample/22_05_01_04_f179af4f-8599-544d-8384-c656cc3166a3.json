@@ -1,0 +1,143 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f179af4f-8599-544d-8384-c656cc3166a3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:35:00",
+            "utterance": "지성적이 안나온게"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:35:00",
+            "utterance": "우리나라에"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-03",
+            "time": "02:35:00",
+            "utterance": "??"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "선수촌 아파트가 온수가 안나와서"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "룸메가 온수를 다써서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "온수가안나왔다고 이빨깐거야"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "우리나라 보일러는 죄송하지만 두번태운다구요"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "#@기타#ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "미국은 물을"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "온수가 왜안나왘ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "미리뎁혀놧다가"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "저장해놓는방식이라"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "온수를 남이다쓰면"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-03",
+            "time": "02:36:00",
+            "utterance": "안나온대"
+        }
+    ]
+}

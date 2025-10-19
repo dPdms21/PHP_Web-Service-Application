@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fec1df6e-c4b8-5956-8444-8758e8d8d9c4",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_취미/여가_미디어"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "21:01:00",
+            "utterance": "먹으랴궁 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-10",
+            "time": "21:11:00",
+            "utterance": "배곺퐈.."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "21:51:00",
+            "utterance": "ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "21:51:00",
+            "utterance": "오뜩행"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "21:52:00",
+            "utterance": "어지럽거나 그러진 않지??"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-10",
+            "time": "22:04:00",
+            "utterance": "갠챠낭 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-10",
+            "time": "22:04:00",
+            "utterance": "난 이제 앨리스 본답"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "22:07:00",
+            "utterance": "ㅎㅎㅎㅎㅎㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "22:07:00",
+            "utterance": "재밌게봐용 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "22:07:00",
+            "utterance": "나도 배부르다 이제 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-10",
+            "time": "23:06:00",
+            "utterance": "회의 잘하고 잇나"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-10",
+            "time": "23:17:00",
+            "utterance": "웅웅 #@이름#갔오 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-10",
+            "time": "23:52:00",
+            "utterance": "배고프다진짜루"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "00:18:00",
+            "utterance": "ㅜㅜㅜㅜㅜㅜ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "00:18:00",
+            "utterance": "내일까지만"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "00:18:00",
+            "utterance": "참으면"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "00:18:00",
+            "utterance": "먹을수있오!!"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-11",
+            "time": "00:18:00",
+            "utterance": "좀만힘내요 ㅠㅠ"
+        }
+    ]
+}

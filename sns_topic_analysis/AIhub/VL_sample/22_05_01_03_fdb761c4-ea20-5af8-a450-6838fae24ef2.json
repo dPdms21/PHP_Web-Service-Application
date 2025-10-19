@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdb761c4-ea20-5af8-a450-6838fae24ef2",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 14,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "09:49:00",
+            "utterance": "굿모닝 내꾸우♡ 푹자구 일났으료낭♡"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:07:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:07:00",
+            "utterance": "#@이름#야아 굿모닝이얌ㅎㅎ 잘 자또요??"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:08:00",
+            "utterance": "앙앙ㅎㅎ 코오 자또용ㅎㅎ 내꾸도 잘잤으료낭♡^♡"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:08:00",
+            "utterance": "응응ㅎㅎ 푸욱 잘 자따믄♡"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:09:00",
+            "utterance": "헤헤 다행이네♡ 똑 아침두 묵어꾸옹?>_<"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:12:00",
+            "utterance": "헤헤 아까 엄마랑 아빠랑 일찍 먹어또용ㅎㅎ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:12:00",
+            "utterance": "슬슬 나갈 준비 해야게또아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "조아조앙ㅎㅎ 똑 큐브 가긋네유ㅎㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "안도와줘도 되류낭♡"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "응응ㅎㅎ 냬구는 아침 먹어도??"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "#@이모티콘#하하#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "#@이름#이랑 #@이름#언니란 둘이서 해볼께유♡"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "또 누가 오류낭ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "앙앙ㅎㅎ 나두 복숭아랑 달걀 묵어또ㅎㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "내꾸 오고픔 와두 되고요♡"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:13:00",
+            "utterance": "작품을 못봐가지궁ㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:14:00",
+            "utterance": "궁금하긴 했눈디ㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2019-09-01",
+            "time": "10:14:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2019-09-01",
+            "time": "10:19:00",
+            "utterance": "헤헤 고럼 언능 와유 내꾸♡"
+        }
+    ]
+}

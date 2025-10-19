@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "118de63a-8b97-5bab-a447-ef99c7a2a009",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위",
+                "사람/관계_인물정보_인물정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "힘들어서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "ㅜㅜㅜㅜㅜㅜ#@이름#"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "시험기간에진짜"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "스트레스받아서 오늘 수학시간 보건실갔어요"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "걔는배려가없는거야"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "잘했어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "하진짜"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "너무안쓰러운데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "제가 걔한테 나 좋아하는거맞냐고하니까"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:43:00",
+            "utterance": "그런생각하게해서미안하다고 내가 더 잘하겠다고 그랬는데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "...?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "근데오늘그런식이야..?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "왜이럴까요 어제저녁부터 갑자기"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "부끄러운건가"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "원래안그럼?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "원랜 장난치고 그랬는데"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "개오바쎄바"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "걔가 저한테 #@기타# 라고 장난식으로 욕하고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "18:44:00",
+            "utterance": "#@기타#????할말이있고안할말이있지"
+        }
+    ]
+}

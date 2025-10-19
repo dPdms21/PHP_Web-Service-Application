@@ -1,0 +1,185 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e156f8b8-6a38-5e99-8d68-cc6fe19fe613",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_금융_상태/은행",
+                "사회/경제_쇼핑/거래_상품"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "19:59:00",
+            "utterance": "너 연금저축 든거 있어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "19:59:00",
+            "utterance": "잘아니?ㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:02:00",
+            "utterance": "흠..이게 연금저축인지 잘 모르겠어.."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:02:00",
+            "utterance": "잘 모르기도 하고ㅠㅠㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:02:00",
+            "utterance": "그냥 돈 안까먹고 넣어놓는 걸로 하나 들어놓은게 있긴 한디.."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:03:00",
+            "utterance": "연말정산용?ㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:04:00",
+            "utterance": "연금은 그걸로 든다고 하는데ㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:08:00",
+            "utterance": "연말정산용인가..? 그것도 모름...ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:09:00",
+            "utterance": "ㅋㅋㅋㅋ또 인터넷보니 연금상품 들지말라고 하고ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:09:00",
+            "utterance": "어렵군ㅋㅋㄱ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:10:00",
+            "utterance": "그거 늘 설왕설래임ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:10:00",
+            "utterance": "나는 KDB 연금보험인듯..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:11:00",
+            "utterance": "엄마가 그거 다 사기라고 해약하라고 했는데 일단 3년 넣었어...ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:11:00",
+            "utterance": "그러고 내일 무슨 회사로 온다던디 뭐 설명해준다고"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:23:00",
+            "utterance": "어 인터넷 보니 안좋다가 거의 80퍼인듯ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:23:00",
+            "utterance": "고소득자 아니면 하지말라는데ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:23:00",
+            "utterance": "3년 넣었으면 해지하면 원금보장 안되겠다ㅠ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-15",
+            "time": "20:23:00",
+            "utterance": "존버..."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-15",
+            "time": "20:24:00",
+            "utterance": "ㅋㅋㅋㅋ그래서 그냥 5년까지 넣어볼까 싶어..ㅋㅋㅋ"
+        }
+    ]
+}

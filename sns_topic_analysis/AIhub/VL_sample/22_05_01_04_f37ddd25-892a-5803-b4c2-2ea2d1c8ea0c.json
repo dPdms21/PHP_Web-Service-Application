@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f37ddd25-892a-5803-b4c2-2ea2d1c8ea0c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "그런 얘기가 있잖아"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "디즈니도 동영상 플랫폼"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "만든다는 얘기"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "그게뭔데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "무조건 결제해야지"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "넷플처럼"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "디즈니에서 만드는"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "그런 거 있을 거래"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "나중에"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "헐맞아!!!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "나도 들음"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-13",
+            "time": "02:15:00",
+            "utterance": "너무 기대돼 난 그게"
+        }
+    ]
+}

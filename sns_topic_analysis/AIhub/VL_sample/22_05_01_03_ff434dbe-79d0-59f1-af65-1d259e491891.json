@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff434dbe-79d0-59f1-af65-1d259e491891",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "16:50:00",
+            "utterance": "나는 버스 안이야"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "16:50:00",
+            "utterance": "별내집 가고 있어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "16:54:00",
+            "utterance": "벌써? 난 이제 밥 먹으랴규"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "17:07:00",
+            "utterance": "웅 일찍 왔어"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "17:08:00",
+            "utterance": "오빠 힘들었을텐데 밥 든든하게 먹어요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "17:08:00",
+            "utterance": "응 이제 먹는중 왜 일찍 왔어 오랫만에 데이트하는데.."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "17:32:00",
+            "utterance": "#@이름#야 나 이제 출발해"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "17:41:00",
+            "utterance": "응 오뻐 조심히 와"
+        }
+    ]
+}

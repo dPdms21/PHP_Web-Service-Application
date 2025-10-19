@@ -1,0 +1,117 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff61276e-b52d-5ff2-a8c7-1e4c7b801ac6",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "아티움 갓냥"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "가는즁이지"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "기차나서 출근포기"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "퇴근만 본다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅌㅌㅌㅌㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "아티움에 우리애솔로 배너 세기말로 만들어놨다는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "보고 놀라지마라...."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "내일 출국 봐야해서 체력 아껴야대..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-26",
+            "time": "18:23:00",
+            "utterance": "홀 내가 찍어다주께^^"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2018-11-26",
+            "time": "18:24:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ보고 경악할거야"
+        }
+    ]
+}

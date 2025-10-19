@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcfe323c-8b26-5afc-b755-1240d78454b3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_건강/미용_미용"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "그냥 피어싱 오른쪽"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "한개만 뚫는게"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "나을까?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "웅 ㅋ 많이해도"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "결국 빼게되더라구"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "막 머리만지거"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "마스크 차고 벗고 하느라"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "이너컨츠 뚫은데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "건들었더니"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "귀 빨개졌어"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "이거"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "갠찮은건가..?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "응 피만안난거면"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:47:00",
+            "utterance": "괜찮아 ㅎ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:48:00",
+            "utterance": "근데 최대한"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-26",
+            "time": "13:48:00",
+            "utterance": "휴,, 피어싱관리 힘들다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:48:00",
+            "utterance": "조심하는게"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-26",
+            "time": "13:48:00",
+            "utterance": "좋긴하지"
+        }
+    ]
+}

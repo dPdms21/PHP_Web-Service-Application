@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffe6ef65-3e3e-56a3-8f56-f5c6c2a10469",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:37:00",
+            "utterance": "ㅇㅅㅇ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:37:00",
+            "utterance": "나가지마"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:37:00",
+            "utterance": "가지마"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:37:00",
+            "utterance": "같이가"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-22",
+            "time": "17:37:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:37:00",
+            "utterance": "버리지마라"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "애기짓하네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "살라드"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "물까"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "운동가기즌에"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "흠"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "흠"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "그럼 너무 촉박한디ㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "홈"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "함"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "힘"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "끝나고 살라드"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-07-22",
+            "time": "17:38:00",
+            "utterance": "횸"
+        }
+    ]
+}

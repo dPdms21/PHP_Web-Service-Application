@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f99c986a-d370-5f57-871b-5637e4cadc20",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_생활정보공유"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "이온음료가 실제로 몸에 좋은거지?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "응 자세히는 모르는데 이온이 좋다고하더라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "목마를때 먹으면 갈증이더 해소되는건가?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "응 그것도있지 물은 그렇게 갈증을 해결해주지못하잖아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "그래서 운동하고 이온음료먹는거구나"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "응 아무래도 흡수가 빠른가봐~"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "옛날에 술먹고 이온음료먹으면 더 취한다는 말도있었는데 거짓이구나"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-22",
+            "time": "18:44:00",
+            "utterance": "응 오히려 술깨게 해줘서 좋은거지~ 몸에좋아"
+        }
+    ]
+}

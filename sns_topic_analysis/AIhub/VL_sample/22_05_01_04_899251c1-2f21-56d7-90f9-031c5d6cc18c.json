@@ -1,0 +1,136 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "899251c1-2f21-56d7-90f9-031c5d6cc18c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 13,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:44:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:44:00",
+            "utterance": "언제 헤어졌냐고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:44:00",
+            "utterance": "구라디"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:44:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ왜 구라얔ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "나 오늘 헤어졌어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "오늘 새벽 ?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "ㅜㅜㅜㅜㅜ왜..?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "물어봐도대?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "당근 물어봐도되지!!!!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "걍 싸우고 그랬는데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "내가 만나면 만날수록"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "그냥 더이상 별로 안만나고 싶어서"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:45:00",
+            "utterance": "헤어지자했어"
+        }
+    ]
+}

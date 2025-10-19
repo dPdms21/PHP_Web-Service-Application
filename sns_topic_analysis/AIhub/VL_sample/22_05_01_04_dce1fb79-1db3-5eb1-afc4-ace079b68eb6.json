@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "dce1fb79-1db3-5eb1-afc4-ace079b68eb6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "외국에서는 더 심하게 들이대?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "한국남자들은 치근덕대는거 좀 대충에둘러 거절하면 알아서 자리옮기는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "외국애들한테는 너 싫어"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "이렇게 얘기해야 꺼진대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ믓디자"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "믓지다"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "#@이름#는 기숙사살아 그럼?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "저번에 한번 클럽에서 21살 남자외국인이 자기한테 너무들이대서 떼어내느라식겁했대"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:00:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:01:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:01:00",
+            "utterance": "#@이름#짱웃기지 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:01:00",
+            "utterance": "이런얘기엄청즐겁게해 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:01:00",
+            "utterance": "한국인들 edm좋아하는데 춤못추겠다고"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:01:00",
+            "utterance": "자기는 남미음악같은 그런노래가좋다면서"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-11-05",
+            "time": "17:01:00",
+            "utterance": "우리나라는 edm, 힙합밖에 모르는것같아 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-11-05",
+            "time": "17:02:00",
+            "utterance": "#@이름#랑 취향이 비슷할것같아"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-11-05",
+            "time": "17:02:00",
+            "utterance": "응 유럽은 하우스음악되게좋아해"
+        }
+    ]
+}

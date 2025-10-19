@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "85a5dc45-8b5f-59cc-b6ec-043065fabc4c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:31:00",
+            "utterance": "신발 세탁"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "하긴 해야하는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "안한지 오래됐니?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "응 ㅎ... 한 3개월째"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "안하고 신고 있어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 3개월이면 뭐..."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "무난하지?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": ".응 ㅎ;"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "근데 사실 운동화는"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "빨아서 신으면"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "상한댔어(?)"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "누가 그런말을"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "했니..."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "원래 그래서 신고 닳을때쯤에"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-31",
+            "time": "17:32:00",
+            "utterance": "버리는거라했어..."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:33:00",
+            "utterance": "누가 대체 (이마짚)"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-31",
+            "time": "17:33:00",
+            "utterance": "그런말을..."
+        }
+    ]
+}

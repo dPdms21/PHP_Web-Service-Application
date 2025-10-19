@@ -1,0 +1,104 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe490db6-ebd7-5a11-80db-893963876de7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "23:29:00",
+            "utterance": "봉투를 구길거까진없자나 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "23:29:00",
+            "utterance": "경비아저씨아니야?ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "아닐거같아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "주민일듯"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "흠~"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "하튼 뜯어서 챙겨갔어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "그러넹"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "앞에 스티커 붙어있어서"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "23:30:00",
+            "utterance": "혹시나 하고 열어봤나본데"
+        }
+    ]
+}

@@ -1,0 +1,197 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe5a259b-fcc8-518b-a47c-de2e58653c80",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 14,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "코쟁이놈들"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "히밤"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "미개해진짜?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "쓰고다니면"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "오히려 보균자로 보는 느낌이라"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "나 그냥 요즘 밖에안나갔으"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:38:00",
+            "utterance": "#@시스템#삭제#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "캔버라에 확진자 3인가 4인데 사람들 마스크안쓰고 학교는 안하는데 기숙사에서 파티는 하고 휴지는 털렸대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "큐ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "헐..."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "ㅋㅋㅋㅋ뭐 여기도 대충 비슷해"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "학부생애들이 개념이없어서.."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "아니 확진자 없는데 학교쉬는거도이상하고 와중에 저러는 애들도 이상해"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:39:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ물론 예방차원에서쉴수는잇지만..ㅡ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:40:00",
+            "utterance": "하"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:41:00",
+            "utterance": "너무 힘들다"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:41:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P02",
+            "date": "2020-03-20",
+            "time": "11:41:00",
+            "utterance": "빨리 그냥 집 가고싶어"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T14",
+            "participantID": "P01",
+            "date": "2020-03-20",
+            "time": "11:41:00",
+            "utterance": "오서와"
+        }
+    ]
+}

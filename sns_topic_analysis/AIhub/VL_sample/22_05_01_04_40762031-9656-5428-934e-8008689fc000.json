@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "40762031-9656-5428-934e-8008689fc000",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:17:00",
+            "utterance": "ㅋㅋㅋㄱㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "16:17:00",
+            "utterance": "와 진짜구경온학생은 50명정도인건가?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:17:00",
+            "utterance": "50명도안될걸?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "16:18:00",
+            "utterance": "처...참..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "16:18:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:18:00",
+            "utterance": "그중에서 또 몇명은 다른 학과에서보낸학생이거든"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:18:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "16:18:00",
+            "utterance": "ㅋㅋㅂㄱㅋㅋ진짜구경간애30명은되겠니..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:20:00",
+            "utterance": "뭔가씁쓸해ㅋㅋ처음정치시작할땐 뭐 기대된다 어쩐다 엄청핫이슈였는데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "16:20:00",
+            "utterance": "그러게...사람이어쩌다이렇게추락했는지"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "16:21:00",
+            "utterance": "근데 그 프랑스남자는왜라인이좋대?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:25:00",
+            "utterance": "카톡이 더 귀엽긴한데"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:25:00",
+            "utterance": "한국와서알았고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:25:00",
+            "utterance": "라인은 프랑스있을때부터써서"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:25:00",
+            "utterance": "친숙해서좋대"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:25:00",
+            "utterance": "유럽엔 이런 귀여운캐릭터가없다면서"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:26:00",
+            "utterance": "그리고 있어도 일본캐릭터인데"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:26:00",
+            "utterance": "그건 너무여성스러워서 별로래"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-13",
+            "time": "16:26:00",
+            "utterance": "라인이나 카톡은 중성적이래ㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-04-13",
+            "time": "17:31:00",
+            "utterance": "오 글쿠나....ㅋㅋㅋㅋㅋ진짜신기하다"
+        }
+    ]
+}

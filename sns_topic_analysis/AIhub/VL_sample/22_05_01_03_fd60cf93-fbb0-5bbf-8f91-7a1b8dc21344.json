@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd60cf93-fbb0-5bbf-8f91-7a1b8dc21344",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "휴"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "저녁먹으러왓뉸데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "#@이름#목사님과 #@이름#와 한 테이블"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "오"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "목사님킬러"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "미스터 #@이름#와 친해질 절호의 찬스..!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-16",
+            "time": "19:36:00",
+            "utterance": "미스터#@이름#!"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "20:14:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "20:14:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "20:15:00",
+            "utterance": "큩큩 미스터 #@이름#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-08-16",
+            "time": "21:16:00",
+            "utterance": "온니 집 잘 들어갔어요??"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "21:22:00",
+            "utterance": "우웅ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "21:22:00",
+            "utterance": "저녁 다같이 먹고 방금 들어와땨"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-08-16",
+            "time": "21:26:00",
+            "utterance": "#@이름# 의성에서 함께할 수 있어서 넘나 좋았어요 언제나 그랬지만 기꺼이 함께 감당해주어서 고맙고,, 부산 잘 다녀오구 서울와서 맛있눈거 먹자요🧡"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-08-16",
+            "time": "21:29:00",
+            "utterance": "#@이모티콘#"
+        }
+    ]
+}

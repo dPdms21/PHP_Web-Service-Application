@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c719f533-ade2-5ee1-9e52-96bbc53d9084",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-20",
+            "time": "15:48:00",
+            "utterance": "우리나라 서쪽에 있는 섬이 팔릴뻔했대 1억에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-20",
+            "time": "15:48:00",
+            "utterance": "그래? 섬이 1억밖에안해?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-20",
+            "time": "15:48:00",
+            "utterance": "그니깐 ㅜ 중국한테 넘어갈뻔했나봐"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-20",
+            "time": "15:48:00",
+            "utterance": "섬주인이 안판거야??"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-20",
+            "time": "15:48:00",
+            "utterance": "1억이 아니었나 10억이었나? 무튼 비싸서안샀대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-20",
+            "time": "15:49:00",
+            "utterance": "거기 팔았으면 다 중국땅이라고 우길수도있었네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-20",
+            "time": "15:49:00",
+            "utterance": "그러니깐 ㅜ 개인 이득취하려고 팔라고했나봐"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-20",
+            "time": "15:49:00",
+            "utterance": "너무하다 ㅜ 좀 가지고있지.."
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd4aba1d-155d-5edc-b2c8-7938513eb75a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "강원도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "17:26:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "17:26:00",
+            "utterance": "연락 주께요 !"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "17:26:00",
+            "utterance": "나도 사랑해 #@이름#아 ! ❤🧡💛💚💙💜"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "17:26:00",
+            "utterance": "웅웅!❤️🧡💛💚💙💜"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "17:26:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "17:26:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "나 이제 집가욯"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "넹넹 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "힛ㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "난 7시 예약이라!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "15분쯤"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "아아 ㅎ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "나갈라고 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "아아 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "알겠어용 ㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "그럼 다하면 연락주세요 ㅎ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "내가 집들어가면 연랏줄겡 ㅎ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-07-10",
+            "time": "18:00:00",
+            "utterance": "넹넹 ㅎㅎ 아라떠욧 !"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:01:00",
+            "utterance": "사랑해 #@이름#아!❤️🧡💛💚💙💜"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-07-10",
+            "time": "18:01:00",
+            "utterance": "#@이모티콘#"
+        }
+    ]
+}

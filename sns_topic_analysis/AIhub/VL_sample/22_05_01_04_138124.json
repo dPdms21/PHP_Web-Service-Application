@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "138124",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_직장"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "우한 코로나 폭로 기자는 감금 되었다네 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "무섭다 고마 그런 거 보면"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "그건 중국에서 퍼트린 게 사실이란 말인 듯?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "아마도 그렇지 않을까"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "2년 동안 이게 무슨 개고생 회사도 바쁘고 키키"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "이제 생각하니 벌써 2년이나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "회사는 왜 계속 바쁜 거지 근데 키키"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-11-10",
+            "time": "00:00:00",
+            "utterance": "바쁘면 좋은 건데 우린 별로"
+        }
+    ]
+}

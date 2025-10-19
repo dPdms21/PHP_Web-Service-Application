@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd0c435c-cf01-5b32-841b-5282aec04723",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-06-22",
+            "time": "00:05:00",
+            "utterance": "도차쿠!!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:09:00",
+            "utterance": "꿌"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:09:00",
+            "utterance": "난 씻고 나왔떠용"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-06-22",
+            "time": "00:14:00",
+            "utterance": "빠르당"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "헤헿"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "오빠도 얼른 씻소와용"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "씻그왓어요"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "뀨ㅛ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "바로 자나용??"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "누워잇아영"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-06-22",
+            "time": "00:31:00",
+            "utterance": "인터넷좀 하다가 자야징"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:32:00",
+            "utterance": "헿 어킹"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "00:32:00",
+            "utterance": "자기전에 연악래욤"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-06-22",
+            "time": "00:32:00",
+            "utterance": "유키용!!!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "01:22:00",
+            "utterance": "이제 자려고용!"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "01:22:00",
+            "utterance": "잘자욤"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-06-22",
+            "time": "01:22:00",
+            "utterance": "😘😘😘"
+        }
+    ]
+}

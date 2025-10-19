@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "7a3fd28f-6fec-5d89-bf27-f75fe440d775",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 15,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_가정"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "40대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "40대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:37:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:37:00",
+            "utterance": "복비랑 이사비까지? 좋다.."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:37:00",
+            "utterance": "그래야지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:37:00",
+            "utterance": "머리는 아팠지만 지원해주니..좋네."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:37:00",
+            "utterance": "당연히 줘야지"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:37:00",
+            "utterance": "우리는 계약이 안끝난건데 나가라고하니"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "아 이건 원래 안주면 안아가지"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "거긴 다 보내고 부시는거야? 왜 날짜도 안되었ㄴ는데 다 내보내는거지?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "안나가지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "어 부신데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "아하.."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "건축주가 옆건물이랑 두개를 다 샀어"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:38:00",
+            "utterance": "그래도 안나가고 계약서 있음 안나가도돼"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:39:00",
+            "utterance": "돈이 많으신 분인가보당"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:39:00",
+            "utterance": "건축주들은 돈이있지"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:39:00",
+            "utterance": "그래서 버티면 안나가면 골치아프니까 몇천도 쥐어주고 나가달라고한데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:39:00",
+            "utterance": "몇천이나?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:39:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "13:39:00",
+            "utterance": "대박이네.."
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "13:40:00",
+            "utterance": "부동산 사장이 아는 건축주는 내보내는데 두집이 안나가서 한집은 5천줬데"
+        }
+    ]
+}

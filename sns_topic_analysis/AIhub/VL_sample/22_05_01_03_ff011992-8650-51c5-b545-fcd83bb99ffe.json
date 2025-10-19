@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff011992-8650-51c5-b545-fcd83bb99ffe",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:38:00",
+            "utterance": "우리 나와서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:38:00",
+            "utterance": "구냥 사가정지나가는데 갑자기 가고싶어져서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:38:00",
+            "utterance": "걸어서 #@이름# 집 걸어서디구잇엉"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:38:00",
+            "utterance": "그렇구먼 밤길위함하니께여"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:38:00",
+            "utterance": "뭔가 쎄하면 바로전화해"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:38:00",
+            "utterance": "5분안에 아이쉐어링보고 달려갈게"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:39:00",
+            "utterance": "낭겟엉"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:39:00",
+            "utterance": "사진보내죤"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:39:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:40:00",
+            "utterance": "ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:40:00",
+            "utterance": "왜대체혼자간거야!!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:40:00",
+            "utterance": "구냥 아까 십분남기고온게 아주 쪼매 아쉽기도하고했나바"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:40:00",
+            "utterance": "#@이름#이 옆에있으면 긴장되기도하구"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:40:00",
+            "utterance": "호호호"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:40:00",
+            "utterance": "#@이름#가 아까 시간남기고온거 미안하다고 전해달랭"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "00:41:00",
+            "utterance": "얼마나 하고 들가려고??"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:42:00",
+            "utterance": "2천원 이상은 안 할라구염"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:42:00",
+            "utterance": "미안해할건없다고해줘염"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:43:00",
+            "utterance": "#@이름#이랑 더 못 있다간게 더 아쉽지"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "00:43:00",
+            "utterance": "ㅎㅎㅎ"
+        }
+    ]
+}

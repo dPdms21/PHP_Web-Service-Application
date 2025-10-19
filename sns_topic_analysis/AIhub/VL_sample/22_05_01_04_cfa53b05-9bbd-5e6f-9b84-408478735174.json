@@ -1,0 +1,104 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "cfa53b05-9bbd-5e6f-9b84-408478735174",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_질병/병원"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "23:22:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "23:22:00",
+            "utterance": "얘것도 봐바"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "23:24:00",
+            "utterance": "오키염 보고 올게유"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "23:25:00",
+            "utterance": "나 뒤집히기 전에 농 찬거 알아?붉지는 않은데 농만 차서 겉으로 하얗게 동그랗게 보이는 거"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "23:25:00",
+            "utterance": "그게 몇 개 났을 때 각질제거를 한 번 했었거든?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "23:25:00",
+            "utterance": "그랬더니 그게 자극이 돼ㅛ는지 확 뒤집힌 거 같음 ㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "23:26:00",
+            "utterance": "웅 먼지알거같아"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "23:26:00",
+            "utterance": "모낭염은 각질제거히면 더 안좋아진다는 말도 있더라"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "23:27:00",
+            "utterance": "아그래?"
+        }
+    ]
+}

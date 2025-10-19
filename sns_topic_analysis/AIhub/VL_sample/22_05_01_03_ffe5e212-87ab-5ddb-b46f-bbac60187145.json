@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffe5e212-87ab-5ddb-b46f-bbac60187145",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:10:00",
+            "utterance": "야근데중3꺼보고있는데 그냥 수1하고해도됨?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:10:00",
+            "utterance": "고1내용은 아나"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:10:00",
+            "utterance": "엥ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "나한테는 대충말해서 뭐 모르겠는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "오 노트북켜짐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "확통은 내신때문인거같고"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "뭐 될대로 되겠지 아무튼 수월할거라는거"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "나중에 되면"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "정확하게 뭐하면되는지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:11:00",
+            "utterance": "말해주겠지"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "걔 무슨학교임?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "몰라?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "7등급이 내신..?모고..?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "둘다?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "여자야 남자야"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "내전에 통화햇다던"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "시지 아니면 덕원 그런건가"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-06-17",
+            "time": "20:14:00",
+            "utterance": "그남자애"
+        }
+    ]
+}

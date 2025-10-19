@@ -1,0 +1,201 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0c41f60f-e498-5e38-9f1d-c4b4fac171fb",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "사람/관계_관계_동료/지인"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "저런 재질 좋음"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "그쵸"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "멋있지 않아요?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "뒤에"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "#@이름#오빠만 지워줘ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "뒤에 #@이름#오빠 지울까?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "저 왜 저러고 서있어 #@기타#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "저 저런 재질"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "사랑함ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "오빠 미안해"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "#@이름#오빠... 잘가..."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "01:59:00",
+            "utterance": "사라져줘야겠어"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "02:00:00",
+            "utterance": "#@이름#오빠 지우면 간지와방ㅇㅇ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "02:00:00",
+            "utterance": "그거봄?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "02:00:00",
+            "utterance": "#@이름#언니"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "02:00:00",
+            "utterance": "아 그 사건 아나?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "02:00:00",
+            "utterance": "#@이름#가 대행방때메 #@이름#언니 알계만들어서"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-12-20",
+            "time": "02:00:00",
+            "utterance": "#@이름#언니 신상 다 털었던 사건"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-12-20",
+            "time": "02:01:00",
+            "utterance": "아 어렴풋이 듣긴 들음"
+        }
+    ]
+}

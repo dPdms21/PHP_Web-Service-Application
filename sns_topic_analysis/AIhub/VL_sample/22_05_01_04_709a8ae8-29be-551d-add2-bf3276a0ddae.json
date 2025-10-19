@@ -1,0 +1,174 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "709a8ae8-29be-551d-add2-bf3276a0ddae",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "파견은 진ㅋ자"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "경력도 안된대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "그렇다고 하더라"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "지금은 아무데나 들어가서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "이직하고 싶어"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "아지겨워"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "돈없어서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:18:00",
+            "utterance": "이삶"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "나두"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "단기알바 왠지"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "1월엔 없을거갗은데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "물러봐야지 낼"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "ㅇㅇ 물어봐바"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-12-20",
+            "time": "01:19:00",
+            "utterance": "저번주에 했더라고 이미"
+        }
+    ]
+}

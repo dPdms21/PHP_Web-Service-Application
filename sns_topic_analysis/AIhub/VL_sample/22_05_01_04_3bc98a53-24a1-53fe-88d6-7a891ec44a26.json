@@ -1,0 +1,198 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "3bc98a53-24a1-53fe-88d6-7a891ec44a26",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-28",
+            "time": "18:39:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:39:00",
+            "utterance": "어제 맣한거"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:40:00",
+            "utterance": "안팔렸는지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:40:00",
+            "utterance": "18만원으로 내려감"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:40:00",
+            "utterance": "아 웃겨ㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "채팅 4네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "이제 곧 팔릴것같은디"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "ㅋㅁ아 웃겨"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "아냐 방금 내림"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "안팔려서 내려간거겉음 ㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "근데 겜갯에 플스에서 바퀴벌레 주서식지에"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "18:46:00",
+            "utterance": "거미 잘산대..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2021-03-28",
+            "time": "19:02:00",
+            "utterance": ".....?????"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2021-03-28",
+            "time": "19:03:00",
+            "utterance": "네?????"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "19:04:00",
+            "utterance": "ㅋㅋㅋ ㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "19:04:00",
+            "utterance": "나도 알고싶지않앗어.."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "19:05:00",
+            "utterance": "미마마스크 진짜 편#@이름#"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2021-03-28",
+            "time": "19:05:00",
+            "utterance": "편하댱"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2021-03-28",
+            "time": "19:21:00",
+            "utterance": "미마마스크 비싼대.....조아....."
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2021-03-28",
+            "time": "19:21:00",
+            "utterance": "숨안막혀...."
+        }
+    ]
+}

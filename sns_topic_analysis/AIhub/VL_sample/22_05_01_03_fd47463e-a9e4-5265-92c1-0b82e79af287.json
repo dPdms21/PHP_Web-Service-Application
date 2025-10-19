@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd47463e-a9e4-5265-92c1-0b82e79af287",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 5,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-03",
+            "time": "17:42:00",
+            "utterance": "하얀 세상이네"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-03",
+            "time": "17:42:00",
+            "utterance": "나는 지금 집이야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-12-03",
+            "time": "17:53:00",
+            "utterance": "추유ㅓ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2015-12-03",
+            "time": "17:55:00",
+            "utterance": "ㅜㅜ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2015-12-03",
+            "time": "17:55:00",
+            "utterance": "밖이야?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-12-03",
+            "time": "17:55:00",
+            "utterance": "아닝"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-12-03",
+            "time": "17:55:00",
+            "utterance": "안이야"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-12-03",
+            "time": "17:55:00",
+            "utterance": "손시려"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2015-12-03",
+            "time": "17:55:00",
+            "utterance": "ㅠㅜ 손을잡아줘야하는데"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffe927c9-b376-5f49-875c-558364634691",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:48:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:48:00",
+            "utterance": "밥.먹어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:48:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:48:00",
+            "utterance": "밥 드세요"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "응 머그고잇엉"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "나도 어제 스쿼트 해껃니"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "후덜덜이네"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "다리"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "얼마나햇어"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "배틀"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "횟수배틀이닷"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "30개 3회"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "졌다"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "ㅅㄱ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "샤워 하면서 해 난"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2018-10-16",
+            "time": "13:49:00",
+            "utterance": "ㅋ"
+        }
+    ]
+}

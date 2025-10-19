@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "3952e384-6140-578d-8f18-3948e0f56550",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-12",
+            "time": "22:14:00",
+            "utterance": "진짜 붙는데??"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-12",
+            "time": "22:14:00",
+            "utterance": "그냥 턱아파"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-12",
+            "time": "22:14:00",
+            "utterance": "모르지ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-12",
+            "time": "22:14:00",
+            "utterance": "나는 그냥 느낌에 그래서 안삼킨건데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-12",
+            "time": "22:14:00",
+            "utterance": "애들사이에 그런말 유행했을골??"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-12",
+            "time": "22:14:00",
+            "utterance": "그래서 껌삼키면 위에 껌붙는다고 쌓이고 쌓여서 껌으로 찬다고"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-12",
+            "time": "22:15:00",
+            "utterance": "으 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-12",
+            "time": "22:15:00",
+            "utterance": "들은적 없음 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-12",
+            "time": "22:15:00",
+            "utterance": "시골에서만 유행했나보다ㅋㅋ"
+        }
+    ]
+}

@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fddc4074-7c9a-56ce-bbd1-d15a5a041329",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 16,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:30:00",
+            "utterance": "앙"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:30:00",
+            "utterance": "추가하지 말구??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:30:00",
+            "utterance": "히힣"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:30:00",
+            "utterance": "앙"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:30:00",
+            "utterance": "충분!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "알았쪄알았쪄"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "꺄 >__<♥"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "내일 기다리구 있쪄~~~"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "넵!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "밥가지구 갈껭!!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "낼 애기가 캐리한다!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "마자!!!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "이제 자야딩"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "내가 캐리할거야!!!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "흐흐흫"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "어여자어여자"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:31:00",
+            "utterance": "히.."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2016-11-28",
+            "time": "20:32:00",
+            "utterance": "쓰릉해용~"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2016-11-28",
+            "time": "20:32:00",
+            "utterance": "나도"
+        }
+    ]
+}

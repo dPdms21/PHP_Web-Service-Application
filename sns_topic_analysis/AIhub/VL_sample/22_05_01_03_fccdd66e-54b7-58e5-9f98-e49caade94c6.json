@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fccdd66e-54b7-58e5-9f98-e49caade94c6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:34:00",
+            "utterance": "#@이름#아"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:34:00",
+            "utterance": "어디야??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:34:00",
+            "utterance": "나 지하철인데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:34:00",
+            "utterance": "형들이랑 술먹을거야?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:34:00",
+            "utterance": "#@이름#이어디가려구?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:35:00",
+            "utterance": "나 #@이름#이한테 갈라했지.."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:37:00",
+            "utterance": "아 그럼 와여~"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:37:00",
+            "utterance": "내가 기다릴게"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:37:00",
+            "utterance": "어떻게 하려구?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:37:00",
+            "utterance": "술먹으러 안갈겡!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:38:00",
+            "utterance": "갑자기 잡혔어요?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:38:00",
+            "utterance": "너무 당황스럽네ㅜ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:38:00",
+            "utterance": "#@이름#형이 첫계약해서"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:38:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:39:00",
+            "utterance": "내가 빠지는게 맞는거같은데"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:46:00",
+            "utterance": "응?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-02",
+            "time": "18:50:00",
+            "utterance": "어디야?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-05-02",
+            "time": "18:53:00",
+            "utterance": "나 수원역인데"
+        }
+    ]
+}

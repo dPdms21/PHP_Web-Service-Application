@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e9e6d85b-def3-5c37-88fb-d227eda735c9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:16:00",
+            "utterance": "언니 나 얘기들었어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:16:00",
+            "utterance": "왜 매장당햇는지"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "누구한테 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "#@이름#언니가 ㅁ라해줌"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "다른방 박사한테 부탁해서 통계 돌려서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "1인저자로 논문을 냈대"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "근데 학교 잘 안나오는 박사여서 안걸릴 줄 알고 자기가 쓴거라고 혼자서 뻥쳤때"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "교수님이랑 사람들은 다 진짠줄 알고 대단하다고 했는데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-06",
+            "time": "15:17:00",
+            "utterance": "박사가 리젝된 줄 알고 있다가 터뜨렸대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-06",
+            "time": "15:31:00",
+            "utterance": "안그래도 아까 #@이름#이언니랑 우연히ㅜ만나서ㅜ들으무ㅠ"
+        }
+    ]
+}

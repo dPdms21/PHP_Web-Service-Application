@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe975f41-dd6f-5ad9-aa12-d472e3653835",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "지금나왔어..?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "나야탑갈래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "보고싶다야탑"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ뭐얔ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "야탑좋아요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "개웃겨"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "야탑사랑합니다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "야 힘드러"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "여기는"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "거긴 왜 그래"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "관리자도무전안해"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:43:00",
+            "utterance": "오늘"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "바빠...?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "비타오백을 오늘두고갈걸그랫나보네..."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "힘내!"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "#@이모티콘# 내가좀이따 커피사줄게"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ아니 대기 10팀 안 넘는데 왜 그럴까"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "나만 힘든가볔ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-09-08",
+            "time": "13:44:00",
+            "utterance": "아니그걸"
+        }
+    ]
+}

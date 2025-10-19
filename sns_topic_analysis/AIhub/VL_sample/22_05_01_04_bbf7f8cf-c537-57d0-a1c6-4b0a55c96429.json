@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "bbf7f8cf-c537-57d0-a1c6-4b0a55c96429",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-10",
+            "time": "22:37:00",
+            "utterance": "응??"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-10",
+            "time": "22:38:00",
+            "utterance": "또 무슨일이 있었어?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-10",
+            "time": "22:38:00",
+            "utterance": "2019년 #@기타#가 1학기 1차 중간감사를 하는 도중 작년인 2018년에 #@소속# 집행부 임원 총 5명이 2018년 감사 이후 남은 학과비를 사용한 것으로 드러났다."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-10",
+            "time": "22:38:00",
+            "utterance": "1.방 탈출 카페에서 5명이서 90,000원 사용"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-10",
+            "time": "22:38:00",
+            "utterance": "이게 사용내역이랰ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-10",
+            "time": "22:38:00",
+            "utterance": "뭐야........."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-10",
+            "time": "22:38:00",
+            "utterance": "어린노무 쉐끼들이 고기를 배터지게 먹엇구만"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-10",
+            "time": "22:39:00",
+            "utterance": "돈쓴것도 어디서 저런 못노는것들이"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-10",
+            "time": "22:39:00",
+            "utterance": "그니깤ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-10",
+            "time": "22:39:00",
+            "utterance": "아니 돈을 쓰려면 제대로 써야짘ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

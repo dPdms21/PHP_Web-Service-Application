@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "18502f08-5a0b-5660-8d81-b39713e4f72d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "인스타 팔이피플들의 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "공구 성공법이래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "ㅋㅋㅋㅋ아 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "완전 공감된다"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "그니까 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "근데 진짜 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "맛있게 찍어서 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "웅 ㅋㅋㅋ 속는거 알면서두"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:19:00",
+            "utterance": "계속 산다구"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:20:00",
+            "utterance": "근데 저번에 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:20:00",
+            "utterance": "니트산거 ㅋㅋ 환불안해준 후로는"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:20:00",
+            "utterance": "절대 안산다"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:20:00",
+            "utterance": "어어 ㅋㅋㅋ 블로그마켓도 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:20:00",
+            "utterance": "주문제작이라하고 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:20:00",
+            "utterance": "환불안되는거 말도 안됨"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:23:00",
+            "utterance": "웅 ㅋㅋㅋ 사이즈 표기 완전 다르다구"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-04",
+            "time": "19:23:00",
+            "utterance": "문의해도 답변 안한다구"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:23:00",
+            "utterance": "그냥 ㅋㅋㅋ환불 잘 되는데서사는게"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-04",
+            "time": "19:23:00",
+            "utterance": "마음 편해,,,"
+        }
+    ]
+}

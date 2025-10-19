@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ed4bbe3f-85b6-59cc-97ea-d6e07366f826",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "아이언맨 수트알아?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "응 알아. 노란색에 빨간색"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "조선시대 아이언맨 수트 이순신장군 수트색이랑 같아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "아이언맨이 따라한 건 가봐"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "그런 것 같아"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "로버트 다우니 주니어도 인정했어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "진짜?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-07",
+            "time": "15:14:00",
+            "utterance": "응. 인정하는 영상이 있더라"
+        }
+    ]
+}

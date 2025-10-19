@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe326146-d33a-555c-ab4c-baadf399890e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-05-23",
+            "time": "09:01:00",
+            "utterance": "5층에서 밥먹습니다!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-05-23",
+            "time": "09:01:00",
+            "utterance": "아주 신속하군요!"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-05-23",
+            "time": "09:04:00",
+            "utterance": "미팅가야지요!^^+"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-05-23",
+            "time": "09:24:00",
+            "utterance": "안 피곤하나요!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-23",
+            "time": "09:58:00",
+            "utterance": "그냥 목만 따갑습니다^^"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-23",
+            "time": "09:58:00",
+            "utterance": "바빠서 연락 못했는데 나 강의장 왔습니다.77"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-23",
+            "time": "09:58:00",
+            "utterance": "^^"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-23",
+            "time": "09:59:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-23",
+            "time": "10:07:00",
+            "utterance": "하하 아주 상태들이 좋군요^^"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-23",
+            "time": "10:08:00",
+            "utterance": "자기 화이버비츠플러스 입고 된것 같던데 확인좀요^^"
+        }
+    ]
+}

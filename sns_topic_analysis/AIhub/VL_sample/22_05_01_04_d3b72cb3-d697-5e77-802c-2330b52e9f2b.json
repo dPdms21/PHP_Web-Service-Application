@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "d3b72cb3-d697-5e77-802c-2330b52e9f2b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:29:00",
+            "utterance": "월급 500-1000"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:29:00",
+            "utterance": "받는 사람들은"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:29:00",
+            "utterance": "조카 선물 뭐하냐고 하는 게시글 있었는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:29:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:29:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ댓글에"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "자기는 월 700원 버는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "조카들 앞에서 마술쇼 한다고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ아웃겨"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "머지 나두 본거같은대"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "마쟈마쟈 나도"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "어디서 본거였지"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "우리 서로 공유한데서"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "있었나"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "웃긴댓글모음에서 본 거 같아"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "개웃곀ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "나두 400원으로"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-27",
+            "time": "00:30:00",
+            "utterance": "야바위해줘야지"
+        }
+    ]
+}

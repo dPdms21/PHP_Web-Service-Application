@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe3d2639-2429-55aa-b965-a8a6f96b0de9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:22:00",
+            "utterance": "자야 하는데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:22:00",
+            "utterance": "안자고 싶어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:22:00",
+            "utterance": "?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:22:00",
+            "utterance": "그건 무슨 경우야?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:22:00",
+            "utterance": "특이한경우"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:31:00",
+            "utterance": "오우"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:31:00",
+            "utterance": "스페셜"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:32:00",
+            "utterance": "쏘 스페셜 예아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:33:00",
+            "utterance": "진짜 안자누"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:34:00",
+            "utterance": "응ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:34:00",
+            "utterance": "조금 이따가 자려규"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:34:00",
+            "utterance": "흑흑"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:34:00",
+            "utterance": "나랑 더 있ㅈ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:34:00",
+            "utterance": "흑흑"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-05",
+            "time": "17:34:00",
+            "utterance": "오늘 내가 별루였닝 ㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-01-05",
+            "time": "17:35:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅌㅋ"
+        }
+    ]
+}

@@ -1,0 +1,200 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "1a60da81-2f94-510d-8b46-3aefc7a30f59",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "미쳤나바^^..."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "일부러 쿠팡 와우"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "그거 가입까지했는뒈.."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "미쳤나바 ㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "방금전화했는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "훔냐리 ㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "거으ㅔ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:01:00",
+            "utterance": "다 포기야"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "오빠??ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "목소리가"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "그냥 다포야"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "포기"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "오빠 어카냐..."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "진짜.."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "나는"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "오늘 천오백명?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "진짜"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "그정도 검사하라고"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-12-06",
+            "time": "21:02:00",
+            "utterance": "했대"
+        }
+    ]
+}

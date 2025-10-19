@@ -1,0 +1,205 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b869ead4-ea7b-5b95-ab60-5b71642d0990",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:17:00",
+            "utterance": "지금 탑된 남돌 부모님이랑 울 동기 부모님이랑 아는 사인데 딱 2군에서 2.5군 사이일때 부모님 통장에 3000보낸댓음\""
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:17:00",
+            "utterance": "누구냐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:17:00",
+            "utterance": "우지냐?????????????"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:17:00",
+            "utterance": "앨범에서 2개정도 작사작곡하는멤이래"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-06",
+            "time": "21:18:00",
+            "utterance": "ㅠㅠㅠ와..."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:18:00",
+            "utterance": "2개정도...."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:18:00",
+            "utterance": "누굴까ㅠ...?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:18:00",
+            "utterance": "세븐틴이 3천씩 보냈다기엔 2.5군시절엔"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "13인분하면 흠 누굴까"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "근데탑이누군데...? ㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "아 방탄인가????"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "슈가???"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "흠 그럴듯하다"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "멤버적으니까"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:19:00",
+            "utterance": "슈가인가"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:20:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:20:00",
+            "utterance": "그것도그건데"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:20:00",
+            "utterance": "내가남돌이야?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:20:00",
+            "utterance": "집해줘 차해줘(회사차) 옷 신발 가방 선물이나 협찬 들어와 식대나와"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-09-06",
+            "time": "21:20:00",
+            "utterance": "돈쓸데도없겠다 진심"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-09-06",
+            "time": "21:20:00",
+            "utterance": "그러네"
+        }
+    ]
+}

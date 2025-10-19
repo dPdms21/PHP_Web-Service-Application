@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "7c2b272e-d636-5c67-bb94-ba62a931ef77",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "그래서 중학교때 부터"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "여행 멀리 데려가라고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "하더라 그전은"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "기억안난다곸ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "고딩땐가..?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "솔직히 호주살다온게"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "초딩때라서 기억아예 안나는건 아닌데 좀"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "23:16:00",
+            "utterance": "드문드문이라"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "23:17:00",
+            "utterance": "맞아"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "23:17:00",
+            "utterance": "좀 아쉬울뿐ㅋㅋㅋㅋ"
+        }
+    ]
+}

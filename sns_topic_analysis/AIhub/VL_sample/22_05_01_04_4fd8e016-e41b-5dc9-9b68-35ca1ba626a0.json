@@ -1,0 +1,207 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "4fd8e016-e41b-5dc9-9b68-35ca1ba626a0",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_식사/요리",
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "10:56:00",
+            "utterance": "맛잇는조합으로 먹어줘"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-03-28",
+            "time": "11:56:00",
+            "utterance": "섭웨이 좋지"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "12:00:00",
+            "utterance": "귀차나서.."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "12:00:00",
+            "utterance": "걍 올라왔어 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-03-28",
+            "time": "13:04:00",
+            "utterance": "뭐먹었어 구람"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:39:00",
+            "utterance": "걍식당에서 학식"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:39:00",
+            "utterance": "일을 막 줘서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:39:00",
+            "utterance": "스트레스돋아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:40:00",
+            "utterance": "서 카페모카를 샀어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:40:00",
+            "utterance": "달달함이 땡기는구나"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "13:54:00",
+            "utterance": "잘햇숴..달달함으로 달래자.."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "13:54:00",
+            "utterance": "너가그러니 나도 급 카페모카가 땡기는구나"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:54:00",
+            "utterance": "카페모카 정말 엄청 커피 처음먹을때"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:54:00",
+            "utterance": "마니먹엇는데 언젠가부터 안먹다가 간만에 먹어봐"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "13:57:00",
+            "utterance": "ㅋㅋㅋㄴ카페모카 몇번안먹어봣는뎅"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "13:58:00",
+            "utterance": "하 정말 요즘 커피땡겨서 큰일이야"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:58:00",
+            "utterance": "ㅋㅋㅋㅋ왜 ㅋㅋㅋ 마니먹자"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:58:00",
+            "utterance": "커피마니먹으면 가슴커진데"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2016-03-28",
+            "time": "13:58:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "14:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2016-03-28",
+            "time": "14:00:00",
+            "utterance": "그런말 믿지않아.."
+        }
+    ]
+}

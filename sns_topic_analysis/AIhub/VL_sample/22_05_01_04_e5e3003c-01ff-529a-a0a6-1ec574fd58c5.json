@@ -1,0 +1,263 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e5e3003c-01ff-529a-a0a6-1ec574fd58c5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 29,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:04:00",
+            "utterance": "그애얼굴도 좀 자세히 봐야겠다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:04:00",
+            "utterance": "말도안돼"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "근데 이마는 성형으로 안치나봐..?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "시술이지시술"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "수술아니였긴하쟈나"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "필러맞은거라사"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "이마필러는 시술~"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "내가한게수술"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "수면마취하면 수술로 쳐주자"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "그래 다시 앖어지는거니까"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "근데 진짜 이뿌다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "어떻개 성형ㅇ안해서 그얼굴이냐.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "아근데코가"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "옛날#@이름#코야"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "했다하기도 그렇고 안했다하기듀 애매한"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ의문스러운코"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:05:00",
+            "utterance": "콧볼은 진짜 넓어서 모르겠눈데"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:07:00",
+            "utterance": "콧대는 누가봐도 한거같이 되있는데"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:07:00",
+            "utterance": "#@이름#!"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:07:00",
+            "utterance": "옛날 #@이름# 코가 뭐지"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:07:00",
+            "utterance": "지금#@이름#코?"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:08:00",
+            "utterance": "콧태는 확실한데"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:08:00",
+            "utterance": "코끝은 안한?"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:08:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:30:00",
+            "utterance": "콧대는 확실한데"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:30:00",
+            "utterance": "코끝은안한"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:30:00",
+            "utterance": "#@이름# 옛날에 코수술하기전에"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-29",
+            "time": "10:30:00",
+            "utterance": "뭉뚱한코있쟈나"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-03-29",
+            "time": "10:30:00",
+            "utterance": "알거같아"
+        }
+    ]
+}

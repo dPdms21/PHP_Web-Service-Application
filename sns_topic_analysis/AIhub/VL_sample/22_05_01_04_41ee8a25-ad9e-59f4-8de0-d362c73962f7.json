@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "41ee8a25-ad9e-59f4-8de0-d362c73962f7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사람/관계_관계_동료/지인"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "코로나 때문에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "취약계층들이 더 힘들대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "그러겠네..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "끼니 해결도 그렇고 씻을곳도"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "맞아 진짜"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "그리고 좁은 집에 계속 있으려니 너무 힘들대"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "맞네..."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "도움 필요한 집은ㅠㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "어디는 곰팡이"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:18:00",
+            "utterance": "제거도 못하고 지내는데 계속 거기서 산대"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:19:00",
+            "utterance": "제거를 할 수 있었으면 했겠지.."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:19:00",
+            "utterance": "그럴 사정이 안되니까 계속 그렇게 지내는구나ㅜㅜㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:19:00",
+            "utterance": "좀 더 멀리 내다보는"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "14:19:00",
+            "utterance": "복지가 있고나서 집에 있으라 하면 될 텐데"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:19:00",
+            "utterance": "사각지대가"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "14:19:00",
+            "utterance": "정말 많구나"
+        }
+    ]
+}

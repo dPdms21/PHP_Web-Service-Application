@@ -1,0 +1,201 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcfbf50d-c09b-570b-baf3-219f3ef6c2e1",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_학교",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:32:00",
+            "utterance": "아 뭔가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:32:00",
+            "utterance": "계속 먹고싶다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:37:00",
+            "utterance": "ㅋㅋㅋㅋㅋ 조만간 또 맛있는 거 먹쟈아아ㅏㅏ 먹는 게 남는 거다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:37:00",
+            "utterance": "네"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:37:00",
+            "utterance": "제 소개팅두요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:37:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:38:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ 안 그래도 주변에 이야기는 일단 함ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:38:00",
+            "utterance": "더 찾아 보겠엌ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:39:00",
+            "utterance": "좋아요"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:39:00",
+            "utterance": "아주좋아"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:54:00",
+            "utterance": "ㅋㅋㅋ 아직 많이 못 물어 봐서… 나중에 더 물어 볼게..ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:54:00",
+            "utterance": "#@이름#인 내 소개팅은.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:55:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ아직 어머니가 안만나신듯ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:59:00",
+            "utterance": "아하ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "10:59:00",
+            "utterance": "아 개피곤쓰~~~ 수업 들어 왔는데 넘나리 피곤쓰~~~"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "10:59:00",
+            "utterance": "수업 들으러?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "11:00:00",
+            "utterance": "응응 목금은 오전 수업… 넘나리 싫다."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-11-21",
+            "time": "11:00:00",
+            "utterance": "오전 수업...ㅋㅋㅋㅋ큐ㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "11:01:00",
+            "utterance": "글두 어제보다 따뜻해졌어요"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-11-21",
+            "time": "11:01:00",
+            "utterance": "다행"
+        }
+    ]
+}

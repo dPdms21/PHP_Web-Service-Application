@@ -1,0 +1,231 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe397aa7-1387-5e16-8ec6-6382c0c404d6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 25,
+            "numberOfTurns": 16,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "15:42:00",
+            "utterance": "내가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "15:43:00",
+            "utterance": "6시까지"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "15:43:00",
+            "utterance": "숨죽어있다면"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "15:43:00",
+            "utterance": "넹.."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "15:43:00",
+            "utterance": "살려줘"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "15:43:00",
+            "utterance": "내가 살려드림"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "15:43:00",
+            "utterance": "잘자용"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "18:34:00",
+            "utterance": "사람너무많아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "18:36:00",
+            "utterance": "폰도 못들정도임"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "19:54:00",
+            "utterance": "호달달 비만위험니라니"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "19:57:00",
+            "utterance": "집이당 #@이름#씨는 식사시간이랑 기상,수면시간을 잘 지켜야해"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "19:58:00",
+            "utterance": "상당히일리있어"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:01:00",
+            "utterance": "받아적어두지"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "20:02:00",
+            "utterance": "고럼고럼 적어두지만 말고 실천도 하셩"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:03:00",
+            "utterance": "넴지 고래도 집도착하셧다니 큰고생하나하셧구만"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "20:08:00",
+            "utterance": "자유의 몸이도다"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:09:00",
+            "utterance": "여윽시"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:10:00",
+            "utterance": "자유가좋아"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "20:13:00",
+            "utterance": "고럼고럼"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:14:00",
+            "utterance": "고럼고럼"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:17:00",
+            "utterance": "이거겁나행복해보이긴한등"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "20:19:00",
+            "utterance": "호이얏~! 하는 느낌이야"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2020-01-22",
+            "time": "20:28:00",
+            "utterance": "지금 #@이름#랑 #@이름# 쳐들어옴"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "20:28:00",
+            "utterance": "호에"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2020-01-22",
+            "time": "20:29:00",
+            "utterance": "오늘 겅부 마니햇으면 노는거 인정해준다"
+        }
+    ]
+}

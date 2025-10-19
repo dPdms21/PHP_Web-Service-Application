@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff478657-eb60-5a98-9599-0c451cffd4bc",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-03-11",
+            "time": "14:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-03-11",
+            "time": "14:00:00",
+            "utterance": "고래?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-03-11",
+            "time": "14:01:00",
+            "utterance": "삼십분 걸린다며 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2015-03-11",
+            "time": "14:01:00",
+            "utterance": "응응ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2015-03-11",
+            "time": "14:01:00",
+            "utterance": "아 그건"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2015-03-11",
+            "time": "14:01:00",
+            "utterance": "다른 가까운 과외"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-03-11",
+            "time": "14:01:00",
+            "utterance": "근데 월요일에 걸린 시간은 1시간 넘었자나"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-03-11",
+            "time": "14:01:00",
+            "utterance": "아"
+        }
+    ]
+}

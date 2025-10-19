@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e424e8f9-ab84-575f-a45a-c2236203014b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_미디어"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:48:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ나도 못보는데 그냥 무서운거 같이 보고싶어서 밧다가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:48:00",
+            "utterance": "소리 겁나지룸 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:48:00",
+            "utterance": "리얼루다가 겁나 놀랴킴 ㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:48:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:48:00",
+            "utterance": "후 오늘 일하면 내일도 일항다!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:48:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "곤지암이"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "광주잖아 경기도광주"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "융융"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "융웅"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "#@이름#이랑 친한 형있거든 용인에사는"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "그 형이 아니지 나랑동갑이니까 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "그 남자애가"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:49:00",
+            "utterance": "지 친구들이랑 옛~날에 곤지암 정신병원 맞지? 거기"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:50:00",
+            "utterance": "차 두대끌고 여럿이서"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:50:00",
+            "utterance": "탐험같은거 완전 거의새벽쯤에"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-06",
+            "time": "10:50:00",
+            "utterance": "갔다가 돌아오는길에"
+        }
+    ]
+}

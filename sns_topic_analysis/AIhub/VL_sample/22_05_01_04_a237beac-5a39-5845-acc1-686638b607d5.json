@@ -1,0 +1,180 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "a237beac-5a39-5845-acc1-686638b607d5",
+            "numberOfParticipants": 4,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P04",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "19:16:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "19:17:00",
+            "utterance": "#@이름#언니 결혼식은 타이밍 좋게 넘어갔네.."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:17:00",
+            "utterance": "ㅋㅋㅋ좀전에 그얘기함"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:17:00",
+            "utterance": "오늘 하루종일 언냐한테 결혼 진짜 잘한거같다곸ㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "19:17:00",
+            "utterance": "와 참석자도 벌금이네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "19:17:00",
+            "utterance": "저러면 누가가노"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:17:00",
+            "utterance": "그걸.. 원한거지 뭐"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:18:00",
+            "utterance": "#@이름#언니친구 10월에 결혼한다대"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:18:00",
+            "utterance": "간호산데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:18:00",
+            "utterance": "수쌤이 병동 간호사들한테 그 결혼식 전부 가지말랬대.."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "19:18:00",
+            "utterance": "당사자 진짜 속상하겠다ㅜㅜㅜ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "19:20:00",
+            "utterance": "그니까 ㅠㅠ.ㅠ 올해는 진짜 날리뭇다"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-08-18",
+            "time": "20:22:00",
+            "utterance": "오빠야 11월 결혼식인데 ㅎ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-08-18",
+            "time": "20:22:00",
+            "utterance": "우째쓰까이잉"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P04",
+            "date": "2020-08-18",
+            "time": "20:28:00",
+            "utterance": "우짜노...."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "20:28:00",
+            "utterance": "11월은 괜찮을겨 ~~~~~"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "20:29:00",
+            "utterance": "괜찮아져야해~~~"
+        }
+    ]
+}

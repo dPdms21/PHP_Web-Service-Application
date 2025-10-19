@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd7a9ec1-6fd3-52a9-a88c-a0b635f877a7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "12:49:00",
+            "utterance": "간다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "13:33:00",
+            "utterance": "맛나게 먹었냐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "13:36:00",
+            "utterance": "구럼!ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "13:36:00",
+            "utterance": "배불빵빤"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "14:01:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "14:01:00",
+            "utterance": "학교가야지"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "14:01:00",
+            "utterance": "있다 봐요🙋🏻‍♀️"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:01:00",
+            "utterance": "구랩"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:01:00",
+            "utterance": "🙋🏻‍♂️"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "#@이름# 책 빌릴거야????"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "빌리고 싶은걸"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "ㅎㅎ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "힣"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "😉"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "어디야"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "지금"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "집인디"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "이제"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "갈건디"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "14:08:00",
+            "utterance": "흠"
+        }
+    ]
+}

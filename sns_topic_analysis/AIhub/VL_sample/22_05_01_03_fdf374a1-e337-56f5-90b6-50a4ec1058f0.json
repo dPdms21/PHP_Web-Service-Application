@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdf374a1-e337-56f5-90b6-50a4ec1058f0",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:47:00",
+            "utterance": "손님이 공용화장실 청소 부탁해"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:47:00",
+            "utterance": "휴지가 없대...ㅠㅠ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:47:00",
+            "utterance": "오빠 저녁 챙겨먹어라"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-09-28",
+            "time": "08:48:00",
+            "utterance": "내일 코스코가서 사서 가야겠다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-09-28",
+            "time": "08:48:00",
+            "utterance": "자기두 밥먹어~"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:48:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:48:00",
+            "utterance": "나 살려고 잘 먹을거야"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:48:00",
+            "utterance": "오빠도 잘챙격먹어요"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:48:00",
+            "utterance": "낼 택시 있는거 내가 나갈게"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-28",
+            "time": "08:49:00",
+            "utterance": "1시여서"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-09-28",
+            "time": "08:50:00",
+            "utterance": "컨디션봐서 해요~"
+        }
+    ]
+}

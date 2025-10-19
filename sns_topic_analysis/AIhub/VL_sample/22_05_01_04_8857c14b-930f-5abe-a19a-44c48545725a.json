@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "8857c14b-930f-5abe-a19a-44c48545725a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:34:00",
+            "utterance": "그집"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-12-03",
+            "time": "23:34:00",
+            "utterance": "제정신이 아니네"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:34:00",
+            "utterance": "ㅇㅇ 근데 저번에 프라다 삿자나 구월에 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:35:00",
+            "utterance": "70줫다든데 진짜 둘다 철이엊ㅅ지않냐"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:35:00",
+            "utterance": "돈도없어서 늙은 엄마 가 매달 일이백씩 몰래주고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:35:00",
+            "utterance": "그거 다 재료비 외상한거 써줄걸 동서는 모르는게확실한게"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:35:00",
+            "utterance": "동서는 안도와주시나 한다던데ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:36:00",
+            "utterance": "어머니는 늙은나이에도 건물텅소다니시는데 둘다 참"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:36:00",
+            "utterance": "애 학원도 서너게다녀ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-12-03",
+            "time": "23:37:00",
+            "utterance": "대다나다"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-12-03",
+            "time": "23:37:00",
+            "utterance": "내돈 아니지만 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-12-03",
+            "time": "23:37:00",
+            "utterance": "돈아까워"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe85682e-ca9b-58c8-abb7-495dca467d9e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_식사/요리"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:47:00",
+            "utterance": "아까 먹었찡"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:47:00",
+            "utterance": "뭐먹어썽"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:48:00",
+            "utterance": "유나"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:48:00",
+            "utterance": "??"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:48:00",
+            "utterance": "지롤로로롤ㄹㄹ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:49:00",
+            "utterance": "엄마"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:49:00",
+            "utterance": "금욜날 퇴우너한다해서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:49:00",
+            "utterance": "나 금욜날 입원할듯"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:52:00",
+            "utterance": "아항"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:52:00",
+            "utterance": "랜선"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:52:00",
+            "utterance": "병문안"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:52:00",
+            "utterance": "갈겡"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:54:00",
+            "utterance": "엥"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:54:00",
+            "utterance": "찐 병문안와"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:54:00",
+            "utterance": "찐으로"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:55:00",
+            "utterance": "가고싶은뎅"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-20",
+            "time": "00:55:00",
+            "utterance": "못강 ㅠ 힝"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-20",
+            "time": "00:55:00",
+            "utterance": "병원이"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff01b476-e238-5257-b29d-914c13e6d81c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "21:23:00",
+            "utterance": "집에 잘 들어갔어요? 저 이제 도착했네요 ㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "21:38:00",
+            "utterance": "네 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "21:39:00",
+            "utterance": "안전운전 하셨지요???"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "21:43:00",
+            "utterance": "네네, 다행히 올 때는 비가 조금와서요 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "21:56:00",
+            "utterance": "다행이네요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "21:57:00",
+            "utterance": "밖에 있다 전기장판 틀고 있으니까 완전 천국이에요 ㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "21:57:00",
+            "utterance": "이대로 잠들것 같고 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "22:01:00",
+            "utterance": "오늘 카페인 많이 드셨으니 언능 자세요ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "22:01:00",
+            "utterance": "저도 씻고 누우니깐 바로 잠모드로...ㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "22:07:00",
+            "utterance": "이제 슬슬 잘 시간이기도 하니까.. ㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "22:08:00",
+            "utterance": "오빠도 굿밤입니당"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "22:09:00",
+            "utterance": "네넹 #@이름#씨도 잘자요 ㅎ :)"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "22:09:00",
+            "utterance": "오늘 재밌었어요 :D"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "22:09:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "22:10:00",
+            "utterance": "저두요 간만의 외출이어서 즐거웠었네요 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-03-26",
+            "time": "22:12:00",
+            "utterance": "다행이네요, 일요일날 다시 연락드릴게요ㅎㅎ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-03-26",
+            "time": "22:13:00",
+            "utterance": "네 출장 조심해서 다녀오시구요!!"
+        }
+    ]
+}

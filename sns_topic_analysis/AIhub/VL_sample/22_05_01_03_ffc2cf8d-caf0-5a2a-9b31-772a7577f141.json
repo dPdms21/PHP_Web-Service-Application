@@ -1,0 +1,221 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffc2cf8d-caf0-5a2a-9b31-772a7577f141",
+            "numberOfParticipants": 4,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 13,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_자연/날씨",
+                "생활/행사_반복생활_식사/요리"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P04",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-26",
+            "time": "12:08:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ..."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:13:00",
+            "utterance": "어제도 비 겁나오던데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:13:00",
+            "utterance": "오늘 괜찮게찌??"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:13:00",
+            "utterance": "괜찮았으면 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-26",
+            "time": "12:21:00",
+            "utterance": "지금은 약간..."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-26",
+            "time": "12:21:00",
+            "utterance": "미스트처롬 오던데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:31:00",
+            "utterance": "ㅇㅇ..."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:31:00",
+            "utterance": "이따 저녁에도 이정도만 됐으면 ㅜ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2019-07-26",
+            "time": "12:51:00",
+            "utterance": "조금 강해지는것 같기두,,,"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P04",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "ㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "험난한 훠궈의 길...."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "집앞에는 훠궈집 없을까...?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P04",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "훠궈 안녕삘이다"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P04",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "ㅋㅋㅋㅋㄱㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2019-07-26",
+            "time": "12:56:00",
+            "utterance": "으앙 안댕"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P04",
+            "date": "2019-07-26",
+            "time": "12:59:00",
+            "utterance": "이렇게 다른음식을 먹게되눈데.."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T11",
+            "participantID": "P03",
+            "date": "2019-07-26",
+            "time": "13:02:00",
+            "utterance": "왜 안녕삘이얌?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P03",
+            "date": "2019-07-26",
+            "time": "13:02:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P04",
+            "date": "2019-07-26",
+            "time": "13:02:00",
+            "utterance": "너무 비가 마니와서"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T12",
+            "participantID": "P04",
+            "date": "2019-07-26",
+            "time": "13:02:00",
+            "utterance": "으앙 못볼거같애"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T13",
+            "participantID": "P03",
+            "date": "2019-07-26",
+            "time": "13:02:00",
+            "utterance": "그런 나약한 소리 넣어도"
+        }
+    ]
+}

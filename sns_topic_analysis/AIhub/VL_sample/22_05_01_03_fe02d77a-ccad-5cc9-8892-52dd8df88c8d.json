@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe02d77a-ccad-5cc9-8892-52dd8df88c8d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:27:00",
+            "utterance": "오 폼클랜징 답변와땨!!!!! 친절하게 죄송하다고 하는군 ㅎㅎㅎ 기분 좋아져떠"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:28:00",
+            "utterance": "ㅋㅋㅋ웃겨"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:29:00",
+            "utterance": "뭐래??보냇데?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:31:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:31:00",
+            "utterance": "어후~ 기다리면 언제가 올것을~"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:31:00",
+            "utterance": "그걸 못참아서!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:38:00",
+            "utterance": "그니깐 말야 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:38:00",
+            "utterance": "진상고객님"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:38:00",
+            "utterance": "뭐지뀨!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:39:00",
+            "utterance": "여부 뭐하는거지뀨우!!!!!!!!!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:46:00",
+            "utterance": "저는 지금"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:46:00",
+            "utterance": "오뎅볶음 하려고해여!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:48:00",
+            "utterance": "오뎅볶음이여!?!?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:48:00",
+            "utterance": "여보 못하는 요리가 뭐냐뀨!!!!!!!!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "17:48:00",
+            "utterance": "전 아마 없을껄여 ㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:52:00",
+            "utterance": "역시"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:52:00",
+            "utterance": "#@이름# 능력사"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:52:00",
+            "utterance": "알고있었댜뀨!!!!!"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "17:52:00",
+            "utterance": "#@이름# 요리는 다 맛있었댜규!"
+        }
+    ]
+}

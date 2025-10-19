@@ -1,0 +1,135 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "a14ad68f-9256-57e5-a46b-8ed0430296c5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 13,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "12:50:00",
+            "utterance": "아빠회사에있다는거구라래"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "12:50:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ소문이잘못난드ㅛ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "12:51:00",
+            "utterance": "근데도시락준대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "12:51:00",
+            "utterance": "원래식당밥인데..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-04",
+            "time": "14:11:00",
+            "utterance": "조심하는것도 나쁘진않지.."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-04",
+            "time": "14:11:00",
+            "utterance": "다행이네 ㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-04",
+            "time": "14:11:00",
+            "utterance": "누가 그런 헛소문을..ㅎ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "14:40:00",
+            "utterance": "는바로내친구...ㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "14:40:00",
+            "utterance": "아빠가근데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "14:40:00",
+            "utterance": "마스크쓰고먹었댘ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-04",
+            "time": "14:40:00",
+            "utterance": "위생장갑이랑,,"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-04",
+            "time": "14:44:00",
+            "utterance": "에"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-04",
+            "time": "14:44:00",
+            "utterance": "디게 불편하셨겠.."
+        }
+    ]
+}

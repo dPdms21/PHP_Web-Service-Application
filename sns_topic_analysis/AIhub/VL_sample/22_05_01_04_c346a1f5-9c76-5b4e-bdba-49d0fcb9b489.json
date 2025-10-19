@@ -1,0 +1,161 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c346a1f5-9c76-5b4e-bdba-49d0fcb9b489",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-26",
+            "time": "13:53:00",
+            "utterance": "손 튼거 괜찮아졌다니까 다행 ㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:53:00",
+            "utterance": "뷁"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:54:00",
+            "utterance": "여자친구가 없어서 손튼다고 누가 그랬는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:54:00",
+            "utterance": "크흠.."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-26",
+            "time": "13:54:00",
+            "utterance": "#@이름# 업쮜"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:55:00",
+            "utterance": "있는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:55:00",
+            "utterance": ",,"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "오호"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "있으셔~~~"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "부럽찌이?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "좋겠다^^"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "내가 좋은게 아닐"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "아니라"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-12-26",
+            "time": "13:56:00",
+            "utterance": "여자친구가 좋겠지~"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-26",
+            "time": "13:57:00",
+            "utterance": "저 자신감 무엇"
+        }
+    ]
+}

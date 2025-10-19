@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f000f06e-0abf-50eb-b44f-1e6057a70787",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_취미/여가_문화생활"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "18:33:00",
+            "utterance": "ㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "18:33:00",
+            "utterance": "무슨 전시회갔어??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "18:47:00",
+            "utterance": "옛날 잡지들 모아논 전시 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "18:57:00",
+            "utterance": "ㅎㅎ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "18:57:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "18:57:00",
+            "utterance": "#@이름#이 근데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "18:57:00",
+            "utterance": "퇴근은 햇오?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "19:25:00",
+            "utterance": "나 이제 퇴근한당 ㅎㅎㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "19:25:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "21:55:00",
+            "utterance": "#@소속#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "21:55:00",
+            "utterance": "초봉이 지금 3500이래.."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "21:55:00",
+            "utterance": "내가 적은거 맞앗으...."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "21:57:00",
+            "utterance": "엥??"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "21:57:00",
+            "utterance": "누가그랭?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "21:57:00",
+            "utterance": "개발자 기준 아니고 전체기준?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "22:10:00",
+            "utterance": "개발자는 그거보다"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "22:10:00",
+            "utterance": "오백 더"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-04-16",
+            "time": "22:11:00",
+            "utterance": "그래서 #@이름#님 첨에 갓을때 삼천 넘게 시작햇대"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "22:33:00",
+            "utterance": "아니 그럼"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-04-16",
+            "time": "22:33:00",
+            "utterance": "개발자는 초봉 4000이야??"
+        }
+    ]
+}

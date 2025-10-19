@@ -1,0 +1,101 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e00bb0d5-9911-5859-9723-feed0c208563",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-31",
+            "time": "13:29:00",
+            "utterance": "진짜인진 모르겠는데 최초감염자가 박쥐랑 수간을하고"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-31",
+            "time": "13:29:00",
+            "utterance": "그다음은 비말로 바이러스가 변형되서 퍼졋다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-31",
+            "time": "13:29:00",
+            "utterance": "이렇게 말하네"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-31",
+            "time": "13:30:00",
+            "utterance": "아니 왜 박쥐한테..그러냐"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-31",
+            "time": "13:36:00",
+            "utterance": "근데 또 중국이 일부러 바이러스를 유출했단말도있고..."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-31",
+            "time": "13:36:00",
+            "utterance": "가지가지다 중국진짜ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-01-31",
+            "time": "13:45:00",
+            "utterance": "으...더러워 중국싫다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-01-31",
+            "time": "13:54:00",
+            "utterance": "중국때문에 이게 뭔난리냐진짜"
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd31697d-525e-52f3-92f5-16127629cd23",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 15,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "#@기타#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "엄마 행신에잇대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "얀열"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "오"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "나만나는겨?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "만나고엄마뵙는겨?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "14:58:00",
+            "utterance": "바로가는겨?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-16",
+            "time": "15:00:00",
+            "utterance": "잠깐볼수잇음"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "15:02:00",
+            "utterance": "쳇"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-16",
+            "time": "15:04:00",
+            "utterance": "야"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-16",
+            "time": "15:04:00",
+            "utterance": "니 집이면"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-16",
+            "time": "15:05:00",
+            "utterance": "집저나로 저나걸년되자나"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-16",
+            "time": "15:05:00",
+            "utterance": "저나좀걸어봐"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "15:05:00",
+            "utterance": "아오"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-16",
+            "time": "15:05:00",
+            "utterance": "웅"
+        }
+    ]
+}

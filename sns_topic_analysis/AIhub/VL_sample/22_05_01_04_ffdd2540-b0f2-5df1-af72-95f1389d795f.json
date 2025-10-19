@@ -1,0 +1,177 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffdd2540-b0f2-5df1-af72-95f1389d795f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품",
+                "사회/경제_금융_소비"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:25:00",
+            "utterance": "부산이 널널햌ㅅ나봐 부산은 양일된 사람 많대"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:25:00",
+            "utterance": "ㅋㅋㅋ부산늘걸"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "14:25:00",
+            "utterance": "아오 쫄렷다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "14:26:00",
+            "utterance": "같리가야되는대 ㅠㅜ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "몇일이야? ㅠㅠ 왜케 이틀가는 애들 많냐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "하루씩 좀 가게해주지ㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "토요일 ㅜㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "존버"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "취소표 겟하자"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "할부되서 3개월할부햇어"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "5개월해주지#@기타#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "배송비랑 수수료하니까"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:11:00",
+            "utterance": "9만얼마야"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "15:49:00",
+            "utterance": "ㅋㅋㅋㅋ취소 나오면 알아서 거기ㅓ또 추첨 돌린다는거여"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "15:50:00",
+            "utterance": "에라이 구만원아꼇네^^ㅋㅋㅋㅋ 흑흑 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:50:00",
+            "utterance": "지들이 알아서 돌리는군"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "15:50:00",
+            "utterance": "존버는 승리한다!!!"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "15:51:00",
+            "utterance": "ㅋㅋㅇㅇㅋㅋ근데 안될둣ㅠㅠ"
+        }
+    ]
+}

@@ -1,0 +1,145 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff99600f-a062-56d1-9434-7f22657e502d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_자연/날씨",
+                "생활/행사_특별생활_사적행사"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "강원도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:11:00",
+            "utterance": "기여웡~"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:11:00",
+            "utterance": "거기 앞에서 만나기루해쏘?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:11:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-12",
+            "time": "13:13:00",
+            "utterance": "앙앙!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "충전기"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "잘챙기구 옷도"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "잘챙기구오늘"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "온도차 엄청 심하대여"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "기온차"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "그리궁"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:14:00",
+            "utterance": "밤에 춥대영"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-12",
+            "time": "13:15:00",
+            "utterance": "넹넹"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-12",
+            "time": "13:15:00",
+            "utterance": "따숩게입구나갈게유"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-12",
+            "time": "13:15:00",
+            "utterance": "네엥!!"
+        }
+    ]
+}

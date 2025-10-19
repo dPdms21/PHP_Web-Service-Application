@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fff4fe64-191f-56a5-96a2-296167b9969e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:01:00",
+            "utterance": "그러고보니"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:01:00",
+            "utterance": "이번엔 장티푸스 주사 안맞아?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:03:00",
+            "utterance": "웅 갠춘ㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:31:00",
+            "utterance": "장티푸스 유효기간은 3년."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:31:00",
+            "utterance": "다행 작년 8월에 맞았으니ㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:32:00",
+            "utterance": "아ㅋㅋ그러쿤"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:32:00",
+            "utterance": "난 그럼 맞아야하나?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:32:00",
+            "utterance": "보건소 공짠데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:32:00",
+            "utterance": "갈 시간 있어?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:34:00",
+            "utterance": "집 주소지로 가야하지않아?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "맞아맞아"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "부천 기준일거야"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "난 성남에서 걍 놔줬지만ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "여기 근처에서도"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "안놔주나.."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "전화해봐 보건소"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-07-23",
+            "time": "13:35:00",
+            "utterance": "그래야징..ㅋ"
+        }
+    ]
+}

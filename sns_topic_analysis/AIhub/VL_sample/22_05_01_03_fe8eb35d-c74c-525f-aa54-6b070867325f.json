@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe8eb35d-c74c-525f-aa54-6b070867325f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:39:00",
+            "utterance": "다 먹고 사무실 왔다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:39:00",
+            "utterance": "배불러라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:50:00",
+            "utterance": "히히 맛나게 먹었오?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:50:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:50:00",
+            "utterance": "나도 냠냠냠"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:51:00",
+            "utterance": "냠냠"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:51:00",
+            "utterance": "맛있게 먹어"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:51:00",
+            "utterance": "데굴데굴 자고 싶다"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:51:00",
+            "utterance": "넹!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:51:00",
+            "utterance": "나두 히히"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:54:00",
+            "utterance": "연근 하려했는데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:55:00",
+            "utterance": "운동을 택할까"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:55:00",
+            "utterance": "보고서 써야해"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "12:55:00",
+            "utterance": "#@이름#아!!! 4시간만에 하자!!!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:56:00",
+            "utterance": "아자차차"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:56:00",
+            "utterance": "해보자"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "12:56:00",
+            "utterance": "#@이름#이 파이팅!!!!"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "13:04:00",
+            "utterance": "오늘 머짤해야징"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-05-21",
+            "time": "13:11:00",
+            "utterance": "머짤이야요"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-05-21",
+            "time": "13:42:00",
+            "utterance": "#@이모티콘#"
+        }
+    ]
+}

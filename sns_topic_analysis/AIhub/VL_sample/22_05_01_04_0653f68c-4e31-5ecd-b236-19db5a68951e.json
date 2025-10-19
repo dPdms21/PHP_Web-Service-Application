@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0653f68c-4e31-5ecd-b236-19db5a68951e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사람/관계_관계_가족",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:21:00",
+            "utterance": "아고 시원해"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:22:00",
+            "utterance": "뭔가 #@이름#이 낮잠 코코낸내 같은데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:26:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:29:00",
+            "utterance": "삼촌 쿠키는 주고싶고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:29:00",
+            "utterance": "주고나면 자기는 하나남고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "고민하다가 결국 먹던거 반쪽 주는 #@이름#이"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "귀여워"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "반쪽 얻어 먹엇어?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "웅ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:30:00",
+            "utterance": "어머나"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:31:00",
+            "utterance": "해맑게 웃네 #@이름#씨❣️"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:31:00",
+            "utterance": "아니 둘이 사귀는거 맞지?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:31:00",
+            "utterance": "누가봐도 사귀는거같은데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:35:00",
+            "utterance": "사귀면 좋겟다"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:35:00",
+            "utterance": "너무 잘어울리잖아"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "14:35:00",
+            "utterance": "😖😖"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "14:37:00",
+            "utterance": "아메리카노 뇸뇸뇸뇸 해볼까"
+        }
+    ]
+}

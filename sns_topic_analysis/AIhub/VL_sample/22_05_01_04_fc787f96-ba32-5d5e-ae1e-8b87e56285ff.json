@@ -1,0 +1,199 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fc787f96-ba32-5d5e-ae1e-8b87e56285ff",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_미디어",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "그 사람인가?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "그 시어머니 앞에서 춤추기"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "말마다 ? 붙이는사람"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "춤추면서 신호등건너기"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "그사람은 아닐걸"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "이런거 하는 사람이낙ㅍ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "아 아니야????"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "그럼 몰랑"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "응응"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "들어만 본거 같아"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "뭔가 어서 들어본 느낌"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "팔이피플 어마무시하게 돈 번대"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "와 나는 이정도일줄은몰랏어"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "근데 뻥도 섞였대"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:50:00",
+            "utterance": "다 믿으면 안된대"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:51:00",
+            "utterance": "돈 많이 번다고 뻥쳐야"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:51:00",
+            "utterance": "매출 오름다고"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-07-11",
+            "time": "12:51:00",
+            "utterance": "뻥침대"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-07-11",
+            "time": "12:51:00",
+            "utterance": "근데 누가 얘 다니는 회사에 전화해서"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P03",
+            "date": "2018-07-11",
+            "time": "12:51:00",
+            "utterance": "헐"
+        }
+    ]
+}

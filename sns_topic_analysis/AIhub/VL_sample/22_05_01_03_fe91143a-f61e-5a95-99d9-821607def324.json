@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe91143a-f61e-5a95-99d9-821607def324",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:27:00",
+            "utterance": "시켰다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:27:00",
+            "utterance": "먹을러묜 뻔니오ㅓ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "이ㅏ아아아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "안대"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "씻으어 들어갈세!!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "ㅋㅋㅋㅋㅋㄴㄴㄴㄴㄴ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ옹옹"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:28:00",
+            "utterance": "빤니 대강 씻고나와"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:30:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:30:00",
+            "utterance": "두둥"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:31:00",
+            "utterance": "오늘 아아 별루..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:31:00",
+            "utterance": "하나도 안써"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:31:00",
+            "utterance": "심지어 샷 덜 달라하지않았는데"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-17",
+            "time": "12:36:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-17",
+            "time": "12:36:00",
+            "utterance": "난 갑분푸"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-07-17",
+            "time": "12:39:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

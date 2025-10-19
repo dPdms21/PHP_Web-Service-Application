@@ -1,0 +1,208 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "7c89b655-a830-5ec2-8564-5a2a7bc6628d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:46:00",
+            "utterance": "그리고 할인하는 곳 찾아봐봐"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:46:00",
+            "utterance": "100시간 -> 125시간 이런 이벤트 많이 한다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:47:00",
+            "utterance": "르하임 이벤트 하는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:47:00",
+            "utterance": "내일 전화해볼게"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:47:00",
+            "utterance": "근데 50명 선착순이래"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:48:00",
+            "utterance": "어어 즇아좋아"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:48:00",
+            "utterance": "보통 될 걸?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:48:00",
+            "utterance": "말이 50이지"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:48:00",
+            "utterance": "헉 스벅 9시까지래"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:48:00",
+            "utterance": "주섬주섬.. 좀 빨리올걸.."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:51:00",
+            "utterance": "ㅋㅋㅋㅋ주섬주섬"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:51:00",
+            "utterance": "르하임 컴퓨터존 없대.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:51:00",
+            "utterance": "글고 르하임이 의자 불편하다고 소문낫대"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:52:00",
+            "utterance": "답은 스벅인가..."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "헐 어긴 탈락임"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "컴퓨터존….."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "거긴 탈락이다"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "컴퓨터존 중요하다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "컴퓨터존이라고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "따로 잇는 스카가 없나봐"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "여기는 크기가 서울처럼 안큰듯"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-16",
+            "time": "20:53:00",
+            "utterance": "그냥 카페존? 같은 그런데서 노트북하는거같은디"
+        }
+    ]
+}

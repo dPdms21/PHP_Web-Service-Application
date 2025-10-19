@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "63ed8203-7de1-5bc8-b4cd-19a65212d2e9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "여기가 진짜 다녀온 사람 7개월 기다렸다 간 사람도"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "또가고싶다고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "기다릴 가치가 있다고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "막 그랬어여"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "어딘데여"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "여기가??"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:32:00",
+            "utterance": "홀리가든"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:33:00",
+            "utterance": "봉화군"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "21:37:00",
+            "utterance": "와"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "21:37:00",
+            "utterance": "진짜가고싶다"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:37:00",
+            "utterance": "그쳐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "21:37:00",
+            "utterance": "진짜 너무 가고싶어여ㅠㅠㅠㅠㅠㅠㅠ"
+        }
+    ]
+}

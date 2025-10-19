@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fef6a718-5ef7-50ef-b2a9-60d2cfb38a27",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "21:50:00",
+            "utterance": "내가저랫으면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "21:50:00",
+            "utterance": "ㄷ.ㄷ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:54:00",
+            "utterance": "컴터도자꾸안된다는데?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:54:00",
+            "utterance": "오빠가"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:54:00",
+            "utterance": "컴터를"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:54:00",
+            "utterance": "#@기타#"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:54:00",
+            "utterance": "하"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "21:55:00",
+            "utterance": "ㅋㄱㅋㄱㅋㄱㄱㅋㄱ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "21:55:00",
+            "utterance": "오빠왜욕함"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "21:55:00",
+            "utterance": "너도맨날돈뜯잔아"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:55:00",
+            "utterance": "ㅋㄱㄱㄱ아"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:55:00",
+            "utterance": "드뎌삼"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:56:00",
+            "utterance": "나일부러하건30분일찍나왔는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "21:56:00",
+            "utterance": "애들만남지금"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "22:00:00",
+            "utterance": "몬애들"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "22:00:00",
+            "utterance": "개노네"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "22:00:00",
+            "utterance": "부럽다"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "22:45:00",
+            "utterance": "하아"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-05",
+            "time": "22:45:00",
+            "utterance": "나10시간있었음"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-11-05",
+            "time": "22:50:00",
+            "utterance": "#@시스템#사진#"
+        }
+    ]
+}

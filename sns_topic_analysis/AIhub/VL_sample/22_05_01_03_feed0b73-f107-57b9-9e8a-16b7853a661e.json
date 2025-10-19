@@ -1,0 +1,151 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "feed0b73-f107-57b9-9e8a-16b7853a661e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 15,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "계속 마데카솔"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "바르고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "밴드붙이고있었은데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "차올랐나"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "모르겠다 ,,"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "흉지갰다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "너처럼"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "고운"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "손에"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-29",
+            "time": "18:02:00",
+            "utterance": "상처라니"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:06:00",
+            "utterance": "좀 살이"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:06:00",
+            "utterance": "차오른거같긴하다 ㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:06:00",
+            "utterance": "암튼 짱나요"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-29",
+            "time": "18:06:00",
+            "utterance": "ㅡㅡ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-29",
+            "time": "18:39:00",
+            "utterance": "내가 다 속상하네ㅠ"
+        }
+    ]
+}

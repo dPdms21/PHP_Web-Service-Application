@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe962f61-c49e-5cc1-9e22-a4f8c34cf399",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 6,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_건강/미용_질병/병원"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "12:57:00",
+            "utterance": "와 진짜"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "12:57:00",
+            "utterance": "정신이 하나도 없네 ㅋㅋ 재채기를 너무 많이 해서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-10-25",
+            "time": "12:57:00",
+            "utterance": "효과는?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "12:58:00",
+            "utterance": "방금 끝나서 아직 몰라"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "12:58:00",
+            "utterance": "고여있는 농을 다 빼는 거라서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "12:58:00",
+            "utterance": "첫 날엔 코가 더 막힐 수도 있대"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-10-25",
+            "time": "12:59:00",
+            "utterance": "오우"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "13:27:00",
+            "utterance": "콧속에 매일 바르는 크림이랑 스프레이 줘써"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "13:27:00",
+            "utterance": "약도 먹어야 해"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-10-25",
+            "time": "13:28:00",
+            "utterance": "엄마도 언제 한 번 같이 가면 좋겠다 어우 속까지 뭔가 시원한 느낌"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-10-25",
+            "time": "14:42:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-10-25",
+            "time": "17:55:00",
+            "utterance": "어디여?"
+        }
+    ]
+}

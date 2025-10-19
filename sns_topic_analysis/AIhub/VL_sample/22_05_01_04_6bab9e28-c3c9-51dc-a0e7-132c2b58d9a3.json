@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "6bab9e28-c3c9-51dc-a0e7-132c2b58d9a3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_건강정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:07:00",
+            "utterance": "그래두 예전처럼은 아니라 다행이징"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:07:00",
+            "utterance": "휴우..."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:07:00",
+            "utterance": "첨에 그랬을때 과#@이름#대장증후군 그거때메"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:07:00",
+            "utterance": "계속화장실을가는거야 뭐먹으면 가고 또가고 이래가지구"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:07:00",
+            "utterance": "몸무게가 3-4키로가 훅빠지던뎅"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:09:00",
+            "utterance": "헤엑"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:10:00",
+            "utterance": "그거 수분 빠진거자너ㅠㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:10:00",
+            "utterance": "조심해야해"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:10:00",
+            "utterance": "수분빠지는건 위험하다구 해쏘"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:10:00",
+            "utterance": "마자 ㅇㅂㅇ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:10:00",
+            "utterance": "장염도 수분빠지는걸껄?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:13:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "마자 그래서 이온음료"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "진짜 궁금한게"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "먹어야한다구 해써"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "신천지는 몇살부터 할까"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "신천지"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "무슨일이야"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-25",
+            "time": "11:14:00",
+            "utterance": "ㄹㅇ 어디에나"
+        }
+    ]
+}

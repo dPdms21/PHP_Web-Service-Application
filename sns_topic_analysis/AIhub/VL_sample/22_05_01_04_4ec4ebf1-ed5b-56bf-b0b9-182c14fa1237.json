@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "4ec4ebf1-ed5b-56bf-b0b9-182c14fa1237",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "아 일본애들도"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "알았대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "우리나라 닌테도에 #@기타#거지금 알고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "불매 조롱중이래"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "ㅜㅜㅜㅜ아 수치스러워"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "ㅋㅎ아"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "진심 수치다ㅋㅋㅋㄱ아"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-29",
+            "time": "15:11:00",
+            "utterance": "닌텐도가 아마 제일 불매안될듯"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:12:00",
+            "utterance": "노재팬"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:12:00",
+            "utterance": "어케된거?ㅎㅎ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:12:00",
+            "utterance": "이러고"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-29",
+            "time": "15:12:00",
+            "utterance": "비웃고있대 일본애들이"
+        }
+    ]
+}

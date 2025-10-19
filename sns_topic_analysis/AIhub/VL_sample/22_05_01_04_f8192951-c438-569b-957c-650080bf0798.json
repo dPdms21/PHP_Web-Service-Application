@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f8192951-c438-569b-957c-650080bf0798",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_인물",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:44:00",
+            "utterance": "프듀때부터 갑자기 훅 뛰니까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:44:00",
+            "utterance": "뵈는게없나봐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:44:00",
+            "utterance": "쟤네"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "그 논란 잇엇잖아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "라디오"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "소리켜진지 모르고"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "누가 얼마 벌었고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "누가 정산 얼마를 받았고"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "그랬다고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "그떄부터"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "애들 돈맛 알았겠다"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "싶긴 했는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "저렇게 시퍼렇게 세상물정 모르는 애였다니"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "연습생이엇닫가 갑자기 스타됫는데 당연히 돈맛알겟지"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "나이도 어린데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "에휴"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "그럼 대기업이 얼마나 밀어준지도 알아야하는데"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "다 지가 잘나서 잘된거라고 생각하는건가"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-07",
+            "time": "17:45:00",
+            "utterance": "#@이름# 피지컬 좋아햇는데.."
+        }
+    ]
+}

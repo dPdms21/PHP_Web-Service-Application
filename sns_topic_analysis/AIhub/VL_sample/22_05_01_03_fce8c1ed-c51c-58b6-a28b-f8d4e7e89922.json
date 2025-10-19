@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fce8c1ed-c51c-58b6-a28b-f8d4e7e89922",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 14,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:10:00",
+            "utterance": "화장실"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:10:00",
+            "utterance": "나 학교"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "ㄱ카페여"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "교수님도"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "ㅋㅅㅌㅌㄱㅌㄱㅌ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "지각"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "앗"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "아앗 ."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": ">?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "그럴 수도"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "아아"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "걍 오라고 할껄"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "ㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱㅋㄲㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "그냥 가기"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "#@기타# 일찍 도착"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "넘 양심에 찔리니까"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "했는데"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "총알 택시 탐"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "09:11:00",
+            "utterance": "ㅋㄱㅋㄱㅋㄱㅋㄱㅋㄱ ㄹㅇ"
+        }
+    ]
+}

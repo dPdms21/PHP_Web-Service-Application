@@ -1,0 +1,151 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd5e3da7-dd99-5fd4-a4ee-85450759a692",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 15,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:06:00",
+            "utterance": "그냥 경주가까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:06:00",
+            "utterance": "난 이제 끝이야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:06:00",
+            "utterance": "더 못찾겠어"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:06:00",
+            "utterance": "힘드러"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-29",
+            "time": "00:18:00",
+            "utterance": "눈아파 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:35:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:35:00",
+            "utterance": "내가 얼마나 아팠겠니"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-29",
+            "time": "00:36:00",
+            "utterance": "인스타 디비고 네이버 디비고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-29",
+            "time": "00:36:00",
+            "utterance": "호텔스컴바인디비고 껄껄"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-29",
+            "time": "00:36:00",
+            "utterance": "근데 자고 일어나서 더 찾아봐도 돼?ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:37:00",
+            "utterance": "ㅋㅋㅋㅋ웅웅 ♥️"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:37:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-29",
+            "time": "00:37:00",
+            "utterance": "잠와??"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-29",
+            "time": "00:38:00",
+            "utterance": "ㅋㅋ옙옙"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-29",
+            "time": "00:38:00",
+            "utterance": "먼저 자러 가것심더"
+        }
+    ]
+}

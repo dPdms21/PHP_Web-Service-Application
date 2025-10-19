@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f055d1b3-2b62-54f6-9754-eef777ea8da8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_금융_투자"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "22:19:00",
+            "utterance": "응 수익률 딱정해놓고 자기가 해보는것도 괜찮을거같아"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "22:19:00",
+            "utterance": "그래서 회사 사람들이 그 아들이 다 물려받고나면 회사 망하는거 아니냐 얘기도 돈대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "22:19:00",
+            "utterance": "회장님이 물러나기 전까지만 갖고있어볼까ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "22:20:00",
+            "utterance": "이미 좀 망조가 든거 같은데 필리핀 및 괴산 완공되기 직전이나 완공 직후에 파는게 낫지 않을까"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "22:21:00",
+            "utterance": "마쟈 그것도 괜찮겠다ㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "22:21:00",
+            "utterance": "근데 이래서 내부정보가 중요한거구나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-16",
+            "time": "22:21:00",
+            "utterance": "투자하려는 회사 안에 아는 사람 있으면 진짜 어마어마하게 이득보겠다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-16",
+            "time": "22:21:00",
+            "utterance": "인수합병 정보 미리 아는 사람 있으면 대박이지"
+        }
+    ]
+}

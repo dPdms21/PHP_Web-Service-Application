@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd3ec527-3f3c-552f-8134-c0f6601c82d1",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "전라남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:10:00",
+            "utterance": "재밌는 애기 해주까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:10:00",
+            "utterance": "바쁘면 말구욘"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:10:00",
+            "utterance": "안바빠요"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:10:00",
+            "utterance": "무슨 이야기인데ㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:10:00",
+            "utterance": "해주세용"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:11:00",
+            "utterance": "나랑 같은데서 버스탄 젊은이가"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:11:00",
+            "utterance": "버스 창문 열었는데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:12:00",
+            "utterance": "ㅋㅋㅋ시작부터 재밌군"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:12:00",
+            "utterance": "젊은이라니ㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:12:00",
+            "utterance": "반대쪽 할머니가"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:12:00",
+            "utterance": "예~춥소 창문좀 닫으쇼"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:12:00",
+            "utterance": "바람이 슝슝 들어오는구만 하는데"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:13:00",
+            "utterance": "응 그래서ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-11-15",
+            "time": "14:13:00",
+            "utterance": "젊은이가 \"전 더운데요?\""
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:13:00",
+            "utterance": "ㅋㅋㅋㅋ와 젊은이"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-11-15",
+            "time": "14:13:00",
+            "utterance": "완전 멋지네"
+        }
+    ]
+}

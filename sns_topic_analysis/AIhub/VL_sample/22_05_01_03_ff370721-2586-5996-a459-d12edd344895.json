@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff370721-2586-5996-a459-d12edd344895",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:49:00",
+            "utterance": "한사람당 50으로 들은것같소만"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-05-08",
+            "time": "16:49:00",
+            "utterance": "그럼 4월에 만들었으면 15만원이엿음?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:49:00",
+            "utterance": "#@이모티콘#힘듦#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:50:00",
+            "utterance": "그런가봐여...."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-05-08",
+            "time": "16:50:00",
+            "utterance": "따져야겟어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:50:00",
+            "utterance": "5월부터랬어요"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:50:00",
+            "utterance": "신행은 내일할게요"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:50:00",
+            "utterance": "오늘 쉬는날이라고 내일 연락준대여...."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "16:51:00",
+            "utterance": "자기가쉰대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-08",
+            "time": "17:48:00",
+            "utterance": "따질거야 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-08",
+            "time": "17:48:00",
+            "utterance": "카드 따질거야 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-05-08",
+            "time": "17:48:00",
+            "utterance": "만들지마?"
+        }
+    ]
+}

@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "689590b3-9eba-5ea8-8812-a44c0fb97f46",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:12:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:12:00",
+            "utterance": "이게 엄청 강한"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:12:00",
+            "utterance": "효과가 있나봐"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "00:14:00",
+            "utterance": "우왕"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "00:14:00",
+            "utterance": "저게 무슨 혀관데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:16:00",
+            "utterance": "마약"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:16:00",
+            "utterance": "심지어 환각효과 나타낸댘ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "00:18:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "00:18:00",
+            "utterance": "#@기타#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-03",
+            "time": "00:18:00",
+            "utterance": "왜 그런거 맥여!!!!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:19:00",
+            "utterance": "유익한"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-03",
+            "time": "00:19:00",
+            "utterance": "효과를 준다했어."
+        }
+    ]
+}

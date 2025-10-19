@@ -1,0 +1,104 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f4dfb6fe-df36-5d91-9c51-903241447e4e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사람/관계_관계_동료/지인"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "너룸메 빼박 집에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "누가 무당이다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "약간 예지몽같은거 꾸시는듯"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "아니 무당이아니라 내생각엔 신기가 백퍼있는집인데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "걍 자기가 안가는듯"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "신내림까진 안받나보네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "룸메도 예전에 자꾸 가위 심하게 눌리고 한번은 저승사자까지 봤다는거임"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "가위눌리다가"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "14:51:00",
+            "utterance": "그래서 내가 신점보는곳 가보라고 하니깐 무서워서 못가겠대"
+        }
+    ]
+}

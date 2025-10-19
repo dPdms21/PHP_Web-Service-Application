@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "db2adfce-269c-551e-a835-cc244b992c06",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "중고차사러가면 그렇게 사기를많이치나??"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "일부 딜러가 그렇겠지~ 남겨먹어야하니깐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "윗지방은 가지마라던데 ~ 중고차 살때"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "유명하더라 ㅋㅋ 질 안좋다고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "막 계기판 바꿔놓고 그런다며?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "응 ㅋㅋ 킬로수 줄어들면 더 비싸니깐.."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "13:22:00",
+            "utterance": "그렇겠다 ㅜ 얼마 안타게 보이게끔 하겠네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "13:23:00",
+            "utterance": "그렇지... 그럼 몇백이 더 남잖아 ~"
+        }
+    ]
+}

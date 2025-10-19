@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd027b45-c0b2-5d69-bfaa-4163c9d3b109",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 7,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-07",
+            "time": "16:32:00",
+            "utterance": "시내버스"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-07",
+            "time": "16:32:00",
+            "utterance": "타려고 엄청 뛰었다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-07",
+            "time": "16:35:00",
+            "utterance": "잘햇셔"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-07",
+            "time": "17:37:00",
+            "utterance": "간다간다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-07",
+            "time": "17:37:00",
+            "utterance": "헤헤"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-07",
+            "time": "18:06:00",
+            "utterance": "마중 안나올거양?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-07",
+            "time": "18:07:00",
+            "utterance": "나갈곤데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-07",
+            "time": "18:07:00",
+            "utterance": "준비 다했는데!!!!!"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-07",
+            "time": "18:07:00",
+            "utterance": "웅"
+        }
+    ]
+}

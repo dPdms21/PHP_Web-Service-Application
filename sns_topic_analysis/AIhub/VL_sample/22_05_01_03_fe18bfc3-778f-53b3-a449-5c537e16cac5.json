@@ -1,0 +1,117 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe18bfc3-778f-53b3-a449-5c537e16cac5",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-14",
+            "time": "17:13:00",
+            "utterance": "세상에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-14",
+            "time": "17:13:00",
+            "utterance": "오늘 왜이렇게 피곤하니 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-14",
+            "time": "17:13:00",
+            "utterance": "ㅠㅠㅠ 나두"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "너는 아프니까 더 컨디션 안좋겠다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "나는 왜 이러는지 몰겠어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "언니 감기아냐?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "나도 지금 목이 까끌거려"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "아이고 셋다 왜이러니 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "그러게 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-14",
+            "time": "17:14:00",
+            "utterance": "그래도 나는 피곤하기만해서 다행인데.."
+        }
+    ]
+}

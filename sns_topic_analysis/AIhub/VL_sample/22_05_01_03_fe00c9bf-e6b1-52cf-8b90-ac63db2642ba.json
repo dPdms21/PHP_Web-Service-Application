@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe00c9bf-e6b1-52cf-8b90-ac63db2642ba",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_반려동물"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:33:00",
+            "utterance": "침대에 누웟다가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:33:00",
+            "utterance": "벌써 세 번이나 일어낫어여"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:34:00",
+            "utterance": "선생님도"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:34:00",
+            "utterance": "다 알고계시는귀여움인데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:34:00",
+            "utterance": "자랑하셔섴ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:34:00",
+            "utterance": "귀찮으실거같네옄ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "ㅋㅋㅋ아 선생님"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "아까 저 씻을 때"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "아빠가 또 108배 햇는데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "앗ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "오늘도"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "미남이가 그 앞에서 응가햇대여"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "헉"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "그래서"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "108배 시작하면 못 멈추니까"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "응가에 대고 절햇대여"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-02-25",
+            "time": "00:35:00",
+            "utterance": "절묘한타이밍이네옄ㅋㅋㅋ"
+        }
+    ]
+}

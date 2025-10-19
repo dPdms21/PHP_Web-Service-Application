@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff6b9873-f6a5-5007-a932-8fe840b7dd70",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:56:00",
+            "utterance": "그런데 니는 이 시간에 어디갓아?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-13",
+            "time": "23:56:00",
+            "utterance": "나는 합정 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-13",
+            "time": "23:58:00",
+            "utterance": "왜지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:07:00",
+            "utterance": "빠순친구 만나러 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-14",
+            "time": "00:08:00",
+            "utterance": "적당히 놀고 들어가"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-14",
+            "time": "00:08:00",
+            "utterance": "입돌아간다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:08:00",
+            "utterance": "ㅋㅋㅋ곧 갈듯"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-14",
+            "time": "00:08:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-14",
+            "time": "00:08:00",
+            "utterance": "지하철 끊기기 전에 타라"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-14",
+            "time": "00:08:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:12:00",
+            "utterance": "ㅋㅋㅋㅋ앙겟다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:26:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:26:00",
+            "utterance": "홀리 발랏음 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:26:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-14",
+            "time": "00:27:00",
+            "utterance": "어때?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:28:00",
+            "utterance": "걍 밝다 라는 느낌이 아니라"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:28:00",
+            "utterance": "걍 아에 이거 만들때"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:28:00",
+            "utterance": "색을 흰색을 #@기타# 탄거같아 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:28:00",
+            "utterance": "홀리가 맨낳 하는 화장같이 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-14",
+            "time": "00:28:00",
+            "utterance": "근데 괜춘함 ㅋㅋㅋㅋ"
+        }
+    ]
+}

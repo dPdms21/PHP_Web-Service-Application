@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5fee4706-5efe-5af8-a81d-f15a34c1e803",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-08-09",
+            "time": "00:21:00",
+            "utterance": "#@이름#맘이 내 친군데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-08-09",
+            "time": "00:21:00",
+            "utterance": "물어보면 어케 될까..나 쳐맞는거 아니냐..."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "#@이름#이랑 맨날 붙어사는데...."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ사실이면..?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "#@이름#이 활동범위가 그렇게 크지 않아서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "회사안에서 만나는거 아닌이상 아님..."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "이름이 #@이름#이야?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-08-09",
+            "time": "00:22:00",
+            "utterance": "근데 가끔 #@기타# 행불 될때 있는뎈ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd012481-82e8-5e0f-9253-f20a29b1cb2e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_건강/미용_건강정보공유"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "앗 저"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "처음 입원햇던 병원에서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "자꾸 수술하래서"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "카페도 가입하고 막 찾아봣어옄ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "앗 저도 어줍잖게 찾아봣는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "요즘은 수술보다는"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "우리나라에서 제일 유명한 선생님도 굳이 수술하지말고 차라리 약먹고 운동하는게 나을정도라고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "시술 운동 병행을 권유한다더라구여"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "넼ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "앗 선생님"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:36:00",
+            "utterance": "시술도"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "저는 비추라고 봤어옄ㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "비추인가여??"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "전 주사를 한 대 맞으려고 햇어여"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "사람마다 다르겟지만"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "만약에 디스크로판정이 나시면"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "커다란 병원을 세군데는 가보세여"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-11-21",
+            "time": "22:37:00",
+            "utterance": "아빠가 맞고 광명 찾앗다 그래서옄ㅋㅋㅋ"
+        }
+    ]
+}

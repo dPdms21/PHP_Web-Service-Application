@@ -1,0 +1,121 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "feafe6e1-bcc0-543e-a3fe-e7d98c0ad5b5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_가정",
+                "안부/일상_일상공유_생각/감정/성향"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "여보도 점심 간단하게 같이먹고"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "푹 잡시다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "쉬어야대…"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "아니..안먹을랭..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "먹고자면"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "ㅊㅔ할거가타.."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "마자마자"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "밥먹고 자면"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "속이 안좋아!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-12",
+            "time": "08:34:00",
+            "utterance": "마좌 얼른 자고싶다…"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-12",
+            "time": "08:35:00",
+            "utterance": "집가야지얼룬.."
+        }
+    ]
+}

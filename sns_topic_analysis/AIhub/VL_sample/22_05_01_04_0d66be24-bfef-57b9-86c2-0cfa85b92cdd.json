@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0d66be24-bfef-57b9-86c2-0cfa85b92cdd",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_사적행사"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "21:20:00",
+            "utterance": "아직 인원은 모르겠는데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "21:20:00",
+            "utterance": "뭐야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "21:20:00",
+            "utterance": "누구 모았는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "21:20:00",
+            "utterance": "뭐 저기있는애들 좀 오지않을까"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "21:20:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "21:21:00",
+            "utterance": "아직 오피셜 아냐"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "21:21:00",
+            "utterance": "찌라시라서 잘 몰라"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "22:03:00",
+            "utterance": "아 아직 걍 말만 나온거야?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "22:22:00",
+            "utterance": "ㅇㅇㅇ 종강하기전에 먹자~"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "22:22:00",
+            "utterance": "이정도로"
+        }
+    ]
+}

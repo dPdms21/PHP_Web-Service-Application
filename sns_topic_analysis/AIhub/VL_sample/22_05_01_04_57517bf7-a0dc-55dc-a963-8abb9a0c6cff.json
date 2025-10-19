@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "57517bf7-a0dc-55dc-a963-8abb9a0c6cff",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "11:26:00",
+            "utterance": "대구에서 헬스장관장님 자살한거 보셨나요 .."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "11:26:00",
+            "utterance": "네?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "11:26:00",
+            "utterance": "아 … 운동업계 정말 힘들겠어요"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "11:26:00",
+            "utterance": "코로나때문에 재정이 너무 어려워져서 헬스장에서 자살하셨데요 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "11:26:00",
+            "utterance": "딸분이 발견하셨다네요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "11:27:00",
+            "utterance": "아 어떡해요… 헬스장은 크고 창문열어놓고 마스크끼면안되나요…"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "11:27:00",
+            "utterance": "그런데는 한시간에 몇 명만 받아서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "11:27:00",
+            "utterance": "하면 술집보다 나을거같은데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "11:27:00",
+            "utterance": "그래서 지금 헬스장 열겠다고 국민청원까지 갔다네요"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "11:27:00",
+            "utterance": "아 제발 잘 풀렸으면 좋겠네요"
+        }
+    ]
+}

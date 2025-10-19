@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "cc19d3e2-1482-5ca1-97d8-9dfaddc1d1e9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "마자"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "여성차별 오지네"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "오 가스라이팅 오진다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "주제파악해 너가 상처 받는 거 싫어 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:16:00",
+            "utterance": "나대지말고 내 팬티나 빨오 ㅠ.ㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:17:00",
+            "utterance": "난 존슨이 하도 코구멍이 커서 빡친줄 알았자너"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:17:00",
+            "utterance": "당시에 흑인 장교도 엄청 희귀한 존재였나바"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:17:00",
+            "utterance": "응응 박수쳐주네"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:17:00",
+            "utterance": "혹시내가 말이 너무 많아?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:17:00",
+            "utterance": "아닝 재미떠"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:17:00",
+            "utterance": "흑인은 원래 콧구멍 크다능!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": "그거 인종차별적 발언 아니냐능"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": "내 콧구멍 뒤지지 않는다능"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": "어제 등산하는데 날파리가 코에 들어갔따 나옴"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": ";;"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": "다시 수학이 필요하다 이런 책 나오던데 요즘"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-08-23",
+            "time": "00:18:00",
+            "utterance": "방금 모라그랬어 저색끼?"
+        }
+    ]
+}

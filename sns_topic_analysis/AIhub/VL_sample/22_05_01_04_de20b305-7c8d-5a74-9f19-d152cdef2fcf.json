@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "de20b305-7c8d-5a74-9f19-d152cdef2fcf",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-08-04",
+            "time": "19:46:00",
+            "utterance": "가서사와"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-08-04",
+            "time": "19:47:00",
+            "utterance": "같이사러가야징~~"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-08-04",
+            "time": "19:48:00",
+            "utterance": "마카오꺼부터 먹어보고~"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-08-04",
+            "time": "19:53:00",
+            "utterance": "마카오에는팔지않아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-08-04",
+            "time": "19:57:00",
+            "utterance": "팔수잇어!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-08-04",
+            "time": "19:58:00",
+            "utterance": "일본에만있을걸!!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-08-04",
+            "time": "19:59:00",
+            "utterance": "아냐수출하니깐!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-08-04",
+            "time": "19:59:00",
+            "utterance": "중국이랑사이안좋아서 없을거같아"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd880c60-9908-5d7f-989f-2122b3106a51",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:23:00",
+            "utterance": "아니 나.지금 사랑니구멍에 맛없는 찜닭이 입주신고한거같은데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:23:00",
+            "utterance": "가글로 쫓아내도 안나가려해"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:23:00",
+            "utterance": "물먹는것도 지친다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:23:00",
+            "utterance": "헐랭구"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:23:00",
+            "utterance": "그거 워터픽이 짱임"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:31:00",
+            "utterance": "아니 #@기타# 씻으면서도 했는ㄷ0 절대 안나와"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:32:00",
+            "utterance": "워터픽없는데 이번기회에 또 쓰게되네요?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:35:00",
+            "utterance": "양치질도 안되나?!!"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:35:00",
+            "utterance": "아니 하필 잇몸살이라"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:35:00",
+            "utterance": "무섭네..."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:36:00",
+            "utterance": "상상했어"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-27",
+            "time": "23:36:00",
+            "utterance": "염증생길라ㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:52:00",
+            "utterance": "양치질이.. 안닿아요...."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:53:00",
+            "utterance": "깊게 박혔나봐"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-27",
+            "time": "23:53:00",
+            "utterance": "의식안하려고.. 내일 다시 도잔.."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-28",
+            "time": "08:58:00",
+            "utterance": "으악...끔찍"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-28",
+            "time": "08:58:00",
+            "utterance": "찜닭 세금내라"
+        }
+    ]
+}

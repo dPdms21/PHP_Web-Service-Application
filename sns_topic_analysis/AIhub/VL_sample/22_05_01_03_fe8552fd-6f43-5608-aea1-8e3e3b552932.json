@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe8552fd-6f43-5608-aea1-8e3e3b552932",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_건강/미용_질병/병원"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:07:00",
+            "utterance": "파스 붙여야나?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:07:00",
+            "utterance": "울집에 파스 있던가"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-06-17",
+            "time": "11:07:00",
+            "utterance": "저녁되면 피곤할꺼같은데ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-06-17",
+            "time": "11:07:00",
+            "utterance": "컨디션이안좋아ㅋㅋ머리도아프고ㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-06-17",
+            "time": "11:08:00",
+            "utterance": "아놔ㅜㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:08:00",
+            "utterance": "아까부터 머리아프다더니ㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:08:00",
+            "utterance": "집에 진통제 있으니까"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:08:00",
+            "utterance": "먹어 자기야"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:08:00",
+            "utterance": "아프니까 ㅜ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-17",
+            "time": "11:08:00",
+            "utterance": "울자기 왜 컨디션이 안좋을까ㅜ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-06-17",
+            "time": "11:09:00",
+            "utterance": "진짜목을 돌리는데ㅋㅋ등뼈라고해야되나 날개뼈라고해야되나ㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-06-17",
+            "time": "11:09:00",
+            "utterance": "너무아파ㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

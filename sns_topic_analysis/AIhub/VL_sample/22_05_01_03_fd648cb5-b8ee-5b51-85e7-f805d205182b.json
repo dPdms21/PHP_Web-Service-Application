@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd648cb5-b8ee-5b51-85e7-f805d205182b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_특별생활_사적행사"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-13",
+            "time": "11:36:00",
+            "utterance": "#@이름# 언제쯤 다행"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-13",
+            "time": "11:36:00",
+            "utterance": "천처니하면~~??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-13",
+            "time": "11:36:00",
+            "utterance": "한시에 만나쟝~~"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-13",
+            "time": "11:37:00",
+            "utterance": "복정??"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-13",
+            "time": "11:37:00",
+            "utterance": "넴 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-13",
+            "time": "12:47:00",
+            "utterance": "모란에서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-13",
+            "time": "12:47:00",
+            "utterance": "타압승"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-13",
+            "time": "12:49:00",
+            "utterance": "난 육붐뒤에"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-13",
+            "time": "12:49:00",
+            "utterance": "온대 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-13",
+            "time": "12:49:00",
+            "utterance": "옹"
+        }
+    ]
+}

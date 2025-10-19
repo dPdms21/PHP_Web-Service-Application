@@ -1,0 +1,200 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff0c505c-074b-57a7-a5a0-8d0102f0b66f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 14,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:22:00",
+            "utterance": "영풍 포카 한방에요?ㅇㅋㅇㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:32:00",
+            "utterance": "승훈 하나 더"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:36:00",
+            "utterance": "계속 말해주면 저녁에 합해서 따로 빼둘게옄ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:40:00",
+            "utterance": "용히 1 #@이름# 1"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:41:00",
+            "utterance": "ㅇㅋㅇㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "아 인팤 응모 했죠?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "아침에 이야기 하는거 깜빡함ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "내가 공지 보고 생각남#@기타#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "아직안함"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "담주꺼 할까 고민중 .."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "빨리 해요 포카가 급한게 아님ㅠㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "하.."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:42:00",
+            "utterance": "그것도 괜찮고요..."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:45:00",
+            "utterance": "5일에 신나라 추가됐거든"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:46:00",
+            "utterance": "그럼 담주에도 두번을 하면 되는거니까 훔 .."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-02-26",
+            "time": "16:46:00",
+            "utterance": "아 그러면 굳이...? 인팤 또 외국인 마니 뽑으니까..."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:47:00",
+            "utterance": "하앙.."
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:47:00",
+            "utterance": "또 안하려니 아쉽고.."
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-02-26",
+            "time": "16:49:00",
+            "utterance": "진영이 7장에서 5장으로 바꾼뎅"
+        }
+    ]
+}

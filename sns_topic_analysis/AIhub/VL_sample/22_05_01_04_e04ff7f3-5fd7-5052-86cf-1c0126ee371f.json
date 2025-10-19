@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e04ff7f3-5fd7-5052-86cf-1c0126ee371f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "전라남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-25",
+            "time": "16:07:00",
+            "utterance": "아까 꿈속에서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-25",
+            "time": "16:08:00",
+            "utterance": "자기 목소리 들은거 같은데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-25",
+            "time": "16:08:00",
+            "utterance": "꿈아닐걸ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-25",
+            "time": "16:09:00",
+            "utterance": "11시대쯤 통화했어"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-25",
+            "time": "16:09:00",
+            "utterance": "자기잠결이라 짧게했지만"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-25",
+            "time": "16:09:00",
+            "utterance": "헙 통화목록보니 진짜네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-25",
+            "time": "16:10:00",
+            "utterance": "ㅋㅋㅋㅋ잠결이라"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-25",
+            "time": "16:10:00",
+            "utterance": "꿈인줄 알았구나ㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

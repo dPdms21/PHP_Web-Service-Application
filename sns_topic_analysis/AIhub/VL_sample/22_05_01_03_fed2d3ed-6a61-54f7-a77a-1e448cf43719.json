@@ -1,0 +1,105 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fed2d3ed-6a61-54f7-a77a-1e448cf43719",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-06",
+            "time": "18:36:00",
+            "utterance": "프로그램은 4개인데 사람이 3명이니 안맞아ㅡ_ㅡ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-06",
+            "time": "18:36:00",
+            "utterance": "누구한테 하나 더 하라고할수도없고ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-06",
+            "time": "18:36:00",
+            "utterance": "ㅎㅎㅎㅎ근데 필요하면 누군가는 해야하는거 아니야?ㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-06",
+            "time": "18:37:00",
+            "utterance": "그렇긴한디.."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-06",
+            "time": "18:37:00",
+            "utterance": "어렵군 ㅡ_ㅡ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-06",
+            "time": "18:37:00",
+            "utterance": "정말 스케쥴 짜기 어렵겠네...ㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-06",
+            "time": "18:37:00",
+            "utterance": "인력은 점점 줄어가는데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-06",
+            "time": "18:38:00",
+            "utterance": "하는 프로그램은 똑같으니... 어렵..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-06",
+            "time": "18:38:00",
+            "utterance": "흠... 프로그램을 줄일 순 없나?ㅠㅠ"
+        }
+    ]
+}

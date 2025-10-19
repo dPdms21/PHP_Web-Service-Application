@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "feab62b8-747a-5933-84ca-f2e56bcce376",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "18:44:00",
+            "utterance": "오늘 달 봤어???"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "18:51:00",
+            "utterance": "못봤어...ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "18:51:00",
+            "utterance": "땅만보고걸었네"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "18:51:00",
+            "utterance": "ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ근데 이쁘긴란대"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "18:51:00",
+            "utterance": "안봐도 될거같아"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "18:51:00",
+            "utterance": "공주가 거울보면 달보다 더 이뻐❤️"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "18:51:00",
+            "utterance": "이따 쓰레개버라면서 한번봐보지♥️"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "18:53:00",
+            "utterance": "흐히히히힣고마워"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "18:53:00",
+            "utterance": "이따가 쓰레기 버릴때도 엄청 따뜻하게 입구가탸라 알았지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "19:05:00",
+            "utterance": "알겠어!! 정리해도 끝이없넹.."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "19:05:00",
+            "utterance": "대충하려고!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "19:07:00",
+            "utterance": "차 안막혀???"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "19:08:00",
+            "utterance": "차막혔다가ㅔ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "19:08:00",
+            "utterance": "방금 풀렸는데"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-29",
+            "time": "19:08:00",
+            "utterance": "또 막히네 ㄹㅎㅎㄹㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-29",
+            "time": "19:26:00",
+            "utterance": "ㅠㅠㅠ노래틀고 수다떨으면서 가!!"
+        }
+    ]
+}

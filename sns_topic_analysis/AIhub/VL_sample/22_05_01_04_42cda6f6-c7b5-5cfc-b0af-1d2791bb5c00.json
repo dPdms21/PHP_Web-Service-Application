@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "42cda6f6-c7b5-5cfc-b0af-1d2791bb5c00",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:32:00",
+            "utterance": "코로나"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:32:00",
+            "utterance": "검사하는거"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:32:00",
+            "utterance": "되게 아픈가봐"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:32:00",
+            "utterance": "피날거 같다고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:32:00",
+            "utterance": "후기가 많네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "20:32:00",
+            "utterance": "응 그렇다더라"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:33:00",
+            "utterance": "상상만해도"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "20:33:00",
+            "utterance": "무서워.."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "20:33:00",
+            "utterance": "나도..."
+        }
+    ]
+}

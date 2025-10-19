@@ -1,0 +1,233 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f6467b68-6f8b-59c8-a60f-fc8c5881c4d5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 25,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품",
+                "사회/경제_금융_상태/은행"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "14:53:00",
+            "utterance": "와 이거 날짜잘못보면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "14:53:00",
+            "utterance": "큰일나겟는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "14:53:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "14:54:00",
+            "utterance": "어렵다 진짜 뭔소리래"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "14:54:00",
+            "utterance": "일반 시즌 비수기 성수기 뭐 가격다달라"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "14:54:00",
+            "utterance": "근데 저사이트가 제일싸대 블로거들이"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "14:54:00",
+            "utterance": "klook이 공식파트너긴해"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "14:54:00",
+            "utterance": "여기좀 보고오겟다"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "14:56:00",
+            "utterance": "응응 기다리겟다"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:02:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:02:00",
+            "utterance": "다해서 395200원이니까"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:03:00",
+            "utterance": "인당 거의 20만원....ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "오우"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "유니버셜 진짜 비싼곳이구나ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "거의 비행기값이야"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "ㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "어떻게해? 지금 사?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "아님더 싼티켓 찾아봐?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "아니아니"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "더보지는 않아도 되는데"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:05:00",
+            "utterance": "사는 건 월급후에사는거아냐? 우리 돈없잖아ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:06:00",
+            "utterance": "보통 세달전에 예매가능하다곤 하는데"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-07",
+            "time": "15:06:00",
+            "utterance": "설마 우리가는날에 품절되진않겟지"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "15:06:00",
+            "utterance": "ㅋㅋㅋ품절되면 어떡해..."
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-04-07",
+            "time": "15:06:00",
+            "utterance": "그냥 신용카드로 지를래?"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "9ca7c541-ba19-5259-858d-c60771bbcaef",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:10:00",
+            "utterance": "거기는 모르는얘들만있는데..."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:10:00",
+            "utterance": "상명대 그 예비1번이 저기있는 형인가하고 운 엄청 없다고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:10:00",
+            "utterance": "누가 그러디?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:10:00",
+            "utterance": "음"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:10:00",
+            "utterance": "젤 시끄러운 우리 학교애"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:10:00",
+            "utterance": "그걸 어케알아"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:11:00",
+            "utterance": "걔가"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:11:00",
+            "utterance": "난 걔 얼굴도모르는데?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:11:00",
+            "utterance": "국어쌤한테 단톡애 욕하던애"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:15:00",
+            "utterance": "그건아는데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:16:00",
+            "utterance": "걔가 내가  예비1이었다는거는"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:16:00",
+            "utterance": "어케아는거지?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:16:00",
+            "utterance": "그리고 젤시끄러운 너희학교얘라하면 몰라"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:16:00",
+            "utterance": "#@이름# 원장님께서 말씀하시기를  한명도 빠짐없이 다 시끄럽다하셨어"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:17:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:17:00",
+            "utterance": "나 빼야하는데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:18:00",
+            "utterance": "???"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-25",
+            "time": "00:18:00",
+            "utterance": "웃으라고하는말이지?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-09-25",
+            "time": "00:19:00",
+            "utterance": "그렇지ㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

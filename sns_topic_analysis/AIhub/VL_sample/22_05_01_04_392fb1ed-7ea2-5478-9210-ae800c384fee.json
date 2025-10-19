@@ -1,0 +1,173 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "392fb1ed-7ea2-5478-9210-ae800c384fee",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "13:59:00",
+            "utterance": "그게 그아줌마임 분식집"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "13:59:00",
+            "utterance": "그아줌마뜬날"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "13:59:00",
+            "utterance": "거제 금욜날 핵조용했쟈나"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-26",
+            "time": "14:00:00",
+            "utterance": "헙 근데 진짜"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-26",
+            "time": "14:00:00",
+            "utterance": "거제는"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-26",
+            "time": "14:00:00",
+            "utterance": "소문이,,,"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-26",
+            "time": "14:00:00",
+            "utterance": "#@기타#거같네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-08-26",
+            "time": "14:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "14:01:00",
+            "utterance": "소문이 빠른거지?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "14:01:00",
+            "utterance": "거사모에도 난리잖어"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "14:01:00",
+            "utterance": "한명뜨면"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-08-26",
+            "time": "14:01:00",
+            "utterance": "진짜.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2020-08-26",
+            "time": "14:01:00",
+            "utterance": "너무 스트레스 받음.."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "14:01:00",
+            "utterance": "그 공공경보뜨기전에"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "14:02:00",
+            "utterance": "이미지들끼리 동선 공유하고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-26",
+            "time": "14:02:00",
+            "utterance": "난리임"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-08-26",
+            "time": "14:02:00",
+            "utterance": "마자마자"
+        }
+    ]
+}

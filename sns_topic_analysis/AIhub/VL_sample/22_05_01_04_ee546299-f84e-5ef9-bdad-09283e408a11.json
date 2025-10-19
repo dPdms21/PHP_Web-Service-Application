@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ee546299-f84e-5ef9-bdad-09283e408a11",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대 미만",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:32:00",
+            "utterance": "기백수업듣는애있다카면서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:32:00",
+            "utterance": "와#@기타#싸그리다문과ㄷㄷ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:32:00",
+            "utterance": "ㅇㅇ다문과임"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "저거 앞에말한쟤"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "얘기하니까엄마가"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "쟤가 원래이과엿는데 문과선택하는바람에"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "둘이같음반머시기머시기카던데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "간호학과간다카던가?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "디게구구절절들은거갘음ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "ㄴㄴ그걔"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "이관데문과간다칸애"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "ㄴㄴㄴㄴㄴ걔"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "통계회계갈걸"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "확실한데"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "간호학과는절대아니다"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:33:00",
+            "utterance": "원장말로는"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:34:00",
+            "utterance": "간호학과간다카던데"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:34:00",
+            "utterance": "절대네버"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-01-03",
+            "time": "21:34:00",
+            "utterance": "간호학과는공부내용이"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-01-03",
+            "time": "21:34:00",
+            "utterance": "그럼걔아닐듯"
+        }
+    ]
+}

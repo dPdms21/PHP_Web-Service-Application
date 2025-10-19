@@ -1,0 +1,169 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "07029629-b1aa-512a-9027-65d7140763b4",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_생활사고",
+                "사회/경제_금융_소비"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:03:00",
+            "utterance": "#@이름#씨"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:03:00",
+            "utterance": "고발당했수"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-06",
+            "time": "19:08:00",
+            "utterance": "#@이름#씨냥"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:08:00",
+            "utterance": "옹쇼옹쇼"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:08:00",
+            "utterance": "200만원주고 합의했다던뎅"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:08:00",
+            "utterance": "B씨랑"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:09:00",
+            "utterance": "근디 제보들이 막나오고있수"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-06",
+            "time": "19:09:00",
+            "utterance": "그놈수는"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-06",
+            "time": "19:09:00",
+            "utterance": "관상보고 내가 싫어했수다~"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:10:00",
+            "utterance": "헼"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:10:00",
+            "utterance": "이런일로 문제생기는것도 신기한 관상인딕"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-06",
+            "time": "19:10:00",
+            "utterance": "학생회놈들"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-06",
+            "time": "19:10:00",
+            "utterance": "쯧승"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:11:00",
+            "utterance": "모근디무슨"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:11:00",
+            "utterance": "명예훼손"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-06",
+            "time": "19:11:00",
+            "utterance": "고소준비중이랭"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-06",
+            "time": "19:11:00",
+            "utterance": "모 그로게찌"
+        }
+    ]
+}

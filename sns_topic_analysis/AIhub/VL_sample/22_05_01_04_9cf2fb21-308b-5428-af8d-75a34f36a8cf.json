@@ -1,0 +1,97 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "9cf2fb21-308b-5428-af8d-75a34f36a8cf",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_금융_투자",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "10:44:00",
+            "utterance": "주식하는 사람들 보면 대단하더라~"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "10:44:00",
+            "utterance": "맞아 주식으로 돈 버는 사람들 진짜 신기한거 같아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "10:44:00",
+            "utterance": "그치 나도 그렇게 생각해 어떻게 사회 흐름을 잘 읽는거지?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "10:44:00",
+            "utterance": "정보도 많이 주고 받겠지"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "10:45:00",
+            "utterance": "내가 아는 사람은 주식으로 두배 이상 벌었대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "10:45:00",
+            "utterance": "와 그사람은 진짜 대단하다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "10:45:00",
+            "utterance": "근데 그만큼 잃은 사람들도 많겠지"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "10:45:00",
+            "utterance": "맞아 주식은 배우면 재밌긴 할거 같아~"
+        }
+    ]
+}

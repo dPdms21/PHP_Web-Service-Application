@@ -1,0 +1,203 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5a475d6c-7ea8-5b09-a9ac-0e82b7e8efbc",
+            "numberOfParticipants": 4,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P04",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "뭐든 첫빠따는"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "위험혀"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "외국인들은 #@기타#맞음"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "나 외국인들 아직도 마스크 안쓰는거"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "#@기타#신기함"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "걍 그전엔 문화라고 치는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:00:00",
+            "utterance": "#@기타# 죽는디 아직도.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-12-15",
+            "time": "20:01:00",
+            "utterance": "혼자 디적으면"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "호주 이런데는 안써두된댕 ㅠ 넓어서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "부럽다"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "#@기타#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P04",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "호주는"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P04",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "지금 걍"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P04",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "거의없데ㅜㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P04",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "청정지역"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "이민갈까 ㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "야 대만이"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "지리더만"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P04",
+            "date": "2020-12-15",
+            "time": "20:02:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P04",
+            "date": "2020-12-15",
+            "time": "20:03:00",
+            "utterance": "호주에서도"
+        }
+    ]
+}

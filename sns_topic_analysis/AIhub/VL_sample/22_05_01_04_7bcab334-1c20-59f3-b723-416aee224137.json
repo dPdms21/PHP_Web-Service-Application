@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "7bcab334-1c20-59f3-b723-416aee224137",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_금융_투자"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "06:59:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "07:00:00",
+            "utterance": "오늘의 말씀 너무 감사하네~ 사랑하는 서방님~ 오늘도 좋은하루 보내고 나와 #@이름#를 위해 항상 애쓰고 배려해줘서 고마워요❤"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-05",
+            "time": "08:40:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:01:00",
+            "utterance": "sfa사요"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:01:00",
+            "utterance": "8500원 밑으로"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:07:00",
+            "utterance": "삼성오늘 좀 담아보자요"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-05",
+            "time": "09:07:00",
+            "utterance": "적정가 얼마? 몇주?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:08:00",
+            "utterance": "걸어놔요"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:08:00",
+            "utterance": "음... 일단 8만원대로"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:08:00",
+            "utterance": "오늘 목표는 50주라 치고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:08:00",
+            "utterance": "81000원 10주?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "80500원 20주?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "글쎄..."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "당신도 생각해봐요 ㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "ㅋㅋ 판단을 못하네"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "글치뭐 ㅋㅋㅋㅋ 일단 10주는 가볍게 걸어놔요"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "그다음은 생각해보고"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-03-05",
+            "time": "09:09:00",
+            "utterance": "오늘 코스피 3천 붕괴되고 하락장이 올수 잇어 박스피 박스피 하는데 말이야"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-05",
+            "time": "09:10:00",
+            "utterance": "그러게"
+        }
+    ]
+}

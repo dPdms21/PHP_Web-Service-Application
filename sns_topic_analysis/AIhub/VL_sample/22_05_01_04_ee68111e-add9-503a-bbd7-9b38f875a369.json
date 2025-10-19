@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ee68111e-add9-503a-bbd7-9b38f875a369",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-04-06",
+            "time": "15:11:00",
+            "utterance": "바람 불면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-04-06",
+            "time": "15:11:00",
+            "utterance": "이마 까져 이마가 점점 넓어져"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-04-06",
+            "time": "15:14:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-04-06",
+            "time": "15:14:00",
+            "utterance": "바람ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-04-06",
+            "time": "15:14:00",
+            "utterance": "지금부터 관리하면"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-04-06",
+            "time": "15:14:00",
+            "utterance": "괜찮겠지??ㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-04-06",
+            "time": "17:46:00",
+            "utterance": "ㅋㅋㅋㅋㅋ 검은콩 퍼먹어"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-04-06",
+            "time": "17:46:00",
+            "utterance": "그럼 머리카락"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-04-06",
+            "time": "17:46:00",
+            "utterance": "난다던데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-04-06",
+            "time": "19:21:00",
+            "utterance": "너그렇게 안넓던데ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-04-06",
+            "time": "19:21:00",
+            "utterance": "검은콩안좋아하는데 앞으로 퍼먹어야하나 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-04-06",
+            "time": "19:35:00",
+            "utterance": "나 개넓음 ㅋㅋㅋ 축구해도됨 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "3bd77c78-3bb8-552b-ba2d-784936617872",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 8,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "내일부터"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": ".,?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "영종대교 통제한다는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "맞아?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "????"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "몰라"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "엄마가 그러는데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "다리"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "흔들랴서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "홍"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-08-23",
+            "time": "10:04:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:05:00",
+            "utterance": "차 못지나가게할거래"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:05:00",
+            "utterance": "그럼 너 출근어케"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:05:00",
+            "utterance": "확실한건가"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:05:00",
+            "utterance": "칮아봐"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:06:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-08-23",
+            "time": "10:06:00",
+            "utterance": "대중교통 이용하래 가급적이면"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-08-23",
+            "time": "10:06:00",
+            "utterance": "아머냐머야"
+        }
+    ]
+}

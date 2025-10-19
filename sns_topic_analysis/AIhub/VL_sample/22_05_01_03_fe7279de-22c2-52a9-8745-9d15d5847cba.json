@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe7279de-22c2-52a9-8745-9d15d5847cba",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "전라남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "21:56:00",
+            "utterance": "언니ㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "21:56:00",
+            "utterance": "어찌됐음여?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "21:56:00",
+            "utterance": "낼ㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:08:00",
+            "utterance": "아직 답이. . ."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:08:00",
+            "utterance": "바쁜아이라서 ㅋ ㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "22:10:00",
+            "utterance": "힝ㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "22:10:00",
+            "utterance": "왜ㅜㅜ답을주시지ㅜ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:13:00",
+            "utterance": "넌 컨디션어땡"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "22:29:00",
+            "utterance": "컨디션은 괜차나여ㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "22:30:00",
+            "utterance": "늦게라도 알랴주세여ㅎ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:38:00",
+            "utterance": "다행 ㅋ ㅋ ㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:39:00",
+            "utterance": "어디가기러했엉?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "22:41:00",
+            "utterance": "저만 시간되믄ㅋ갈것같기도해서ㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "22:41:00",
+            "utterance": "그래도 언니가 우선이니께ㄱ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:55:00",
+            "utterance": "그. . 글구. . . 나"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:55:00",
+            "utterance": "친구가"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:55:00",
+            "utterance": "왜답이.. 없찌, ."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "22:56:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "23:12:00",
+            "utterance": "ㅋㅋㅋㄱㅋㅋㅋ"
+        }
+    ]
+}

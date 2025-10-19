@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff615905-e29f-5bba-89d3-e8670e507ee3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "17:15:00",
+            "utterance": "퓨ㅜㅜㅜㅜ그래도"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "17:15:00",
+            "utterance": "넓짓넓직"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "17:15:00",
+            "utterance": "조아쏘"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "17:15:00",
+            "utterance": "자리값"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "17:15:00",
+            "utterance": "ㄹㅇ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-13",
+            "time": "17:16:00",
+            "utterance": "거기서오래잇다왕"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-13",
+            "time": "17:16:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "18:42:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "18:42:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "18:42:00",
+            "utterance": "너무 사기여?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "18:42:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "18:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-13",
+            "time": "19:57:00",
+            "utterance": "뭐가사기여?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-13",
+            "time": "19:57:00",
+            "utterance": "똑같은데???"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-13",
+            "time": "19:57:00",
+            "utterance": "개이쁨"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-13",
+            "time": "19:57:00",
+            "utterance": "첫번째꺼"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "22:31:00",
+            "utterance": "꺅"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-13",
+            "time": "22:31:00",
+            "utterance": "인슽하 올려썬><"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:10:00",
+            "utterance": "잘해떠어어~~"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-14",
+            "time": "00:10:00",
+            "utterance": "어우"
+        }
+    ]
+}

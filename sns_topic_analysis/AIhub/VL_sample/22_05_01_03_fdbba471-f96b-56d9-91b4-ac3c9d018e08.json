@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdbba471-f96b-56d9-91b4-ac3c9d018e08",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-23",
+            "time": "22:41:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ아빠가 또 이상한 소리하깅래 혼냈음 나돜ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "희한한 생각을 해가지고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "아빠 머라하시면"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "말이 씨가된다해"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "구래서 나도 구렇게 말하지 말라고 했음"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-23",
+            "time": "22:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ잘해쑤"
+        }
+    ]
+}

@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e73d2506-b516-5037-b48a-d89ee4615f16",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "애들 말 들어보니까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "어뗘"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "1시 간식배부얐눈데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "10분대니까"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "못벋았대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "쩔지"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:51:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "니는 어케 받았오"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "홈자?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "나는 쉅이ㄴㄴ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "오"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "굿"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "12시50뷴에"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-04-11",
+            "time": "17:52:00",
+            "utterance": "마쳐서"
+        }
+    ]
+}

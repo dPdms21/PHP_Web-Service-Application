@@ -1,0 +1,190 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "1cac94d6-287b-556c-8c77-c34d575d0241",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_자연/날씨"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "탸풍"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "때문에"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "사람 죽었다메 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "창원 심각하둔데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "야"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "마산"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "ㅇㅇ네명인가"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "울동생학교앞"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "죽엇대ㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "홍수나서"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "난리드라"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "강릉도"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "아맞아"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "다 잠기고.."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "경남대앞 그냥 차 다 침수됐더라"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P03",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "마자ㅜㅜ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "차 침수돼서 운전수"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2019-10-03",
+            "time": "10:51:00",
+            "utterance": "실종됐다돈데"
+        }
+    ]
+}

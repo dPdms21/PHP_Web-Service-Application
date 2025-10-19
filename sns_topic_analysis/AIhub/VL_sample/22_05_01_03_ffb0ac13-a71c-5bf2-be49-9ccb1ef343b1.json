@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffb0ac13-a71c-5bf2-be49-9ccb1ef343b1",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-14",
+            "time": "19:36:00",
+            "utterance": "그냥 쓸데없는건데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-14",
+            "time": "19:36:00",
+            "utterance": "이정도는 해달라고..."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "이거 꼭 해야될까영 ㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "먼지좀 알아보고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "기둘"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "넹 ㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "그거 해지하면"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "돈 많이 토해야할거야"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-14",
+            "time": "19:37:00",
+            "utterance": "그거 너가 현찰로 물어내야함"
+        }
+    ]
+}

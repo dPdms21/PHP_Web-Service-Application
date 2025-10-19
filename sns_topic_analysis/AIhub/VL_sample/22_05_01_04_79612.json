@@ -1,0 +1,335 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "79612",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 37,
+            "numberOfTurns": 24,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_시사/정치_사회정보공유",
+                "문화/건강_건강/미용_건강정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P03",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "코로나 백신 대신에 붙이는 백신도 나온다는데 빨리 출시되었음 좋겠어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "100일째 코로나 확진자가  100ㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "부스터샷 시작한다고 하니까 2차 백신이 끝나는 대로 맞아야겠어"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "박사방 운영진 조주빈 형량이 42년 확정되었나 봐"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "42년이 가당킨 하냐고오"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "백신을 맞아야 식당에서 자정까지 있을 수 있다고 해"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "아 그런 식으로 코로나 백신 접종자에 대해 혜택을 주면서 법과 제도로 접종을 유도하는구만"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "조주빈이 26살인데 42년 뒤면 68세인데 그때도 안 할까?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "출소 안 시키는 게 더 나을 꺼 같은데 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "무속 신앙에 빠져 친모를 살해한 세 자매가 있다나 봐"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "무서워라 다들 사이비 조심해"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "조주빈은 여론도 좋지 않았고 사회적으로 무리도 많이 끼쳤으니까 큰 사건이었지 ㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "이번에 조주빈이 재수가 없이 걸린 거고 밝혀지지 않은 조주빈 1~100까지 있지 않을까 하는"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "배구선수 이다영이 사실은 결혼을 했었고 학폭에 가정폭력까지 저질렀대"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T12",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "계속 색출 되고 있고 여론에 따라 사회적 관심이 뜨거우니까 앞으로 법과 제도 안에서 계속 잡아내지 않을까"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "그렇겠지?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "요양 병원에서 54명이 집단 감염이 되었대 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "간병인이 확진 사실 숨기고 취업했다고 하네 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "한겨울에 5살 딸 전 남편 회사 앞 세워둔 20대 엄마가 실형을 받았다고 해"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T15",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "헐 코로나 경제 사회적으로 미치는 영향이 큰 자연 재난인데 너무 안일하구만"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T16",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "그것도 이해돼"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T16",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "요즘 취업하기 어려운 시대라서 더 그런 거 같아 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T17",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "동작구 아파트서 43명 집단 감염이 일어났대"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T17",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "다들 조심조심 하자구"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T18",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "아 그것도 맞는 말인 거 같아~"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T18",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "경제가 어려워서 취업이 어려우니까 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T19",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "최근에 20살 여자애가 화이자 백신 맞고 죽었다고 하네 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T19",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "부작용일 거라는데 무섭당"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T20",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "호텔서 30대 여성 숨진 채 발견되고 전 남친은 야산서 자살을 했대"
+        },
+        {
+            "utteranceID": "U30",
+            "turnID": "T20",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "다들 사람 조심해"
+        },
+        {
+            "utteranceID": "U31",
+            "turnID": "T21",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "경제와 사회를 생각하면 백신을 맞아야 하는데 또 개인의 위험과 여론을 생각하면 맞기 싫고 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U32",
+            "turnID": "T21",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "코로나 백신 어려운 문제야"
+        },
+        {
+            "utteranceID": "U33",
+            "turnID": "T22",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "혹시 다들 양평 모텔에서 숙박한 적 있으면 걱정 좀 해야 할 것 같아"
+        },
+        {
+            "utteranceID": "U34",
+            "turnID": "T22",
+            "participantID": "P01",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "누가 초소형 카메라 설치해서 6개월 동안 녹화 했다고 하네;"
+        },
+        {
+            "utteranceID": "U35",
+            "turnID": "T23",
+            "participantID": "P02",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "다들 백신 부작용 조심해 매우 아프다구 한동안은 팔을 움직이지 못 할 거야"
+        },
+        {
+            "utteranceID": "U36",
+            "turnID": "T24",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "여론에서도 보면 백신 맞으면 40도 가까이 가는  고열이 많다고 하네.."
+        },
+        {
+            "utteranceID": "U37",
+            "turnID": "T24",
+            "participantID": "P03",
+            "date": "2021-10-21",
+            "time": "00:00:00",
+            "utterance": "사건 사고가 끊이지 않아 걱정이야"
+        }
+    ]
+}

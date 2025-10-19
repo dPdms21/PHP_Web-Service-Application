@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "febf0b0b-a323-5257-916d-8e901f314855",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "아 너네집 나도 가고싶당ㅜ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "와ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "담에갛때 ㄹㅇ 꿔바로우 사가껭"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "💛"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ저안"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "얌"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:57:00",
+            "utterance": "저나"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "할래?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "너"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "오늘 집갈때 그때"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "어때"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "ㅇㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "7시부터"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "공부하라해쏘 쏘링ㅜㅁㅜ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-09",
+            "time": "17:58:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        }
+    ]
+}

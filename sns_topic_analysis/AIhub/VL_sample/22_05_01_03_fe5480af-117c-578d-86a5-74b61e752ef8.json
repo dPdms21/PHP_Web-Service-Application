@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe5480af-117c-578d-86a5-74b61e752ef8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "17:47:00",
+            "utterance": "무스브라"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "17:47:00",
+            "utterance": "용서해도"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "17:47:00",
+            "utterance": "무숩지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "17:47:00",
+            "utterance": "아죠"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "17:47:00",
+            "utterance": "혼구녕을"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "17:47:00",
+            "utterance": "낼기당"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "17:57:00",
+            "utterance": "으으"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "17:57:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "17:57:00",
+            "utterance": "ㅋㅋㅋㅋ뱃살공격"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "17:57:00",
+            "utterance": "여보 나는 회사사람들이랑 저녁먹으러가요ㅜ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "19:33:00",
+            "utterance": "#@이름#이야"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "19:33:00",
+            "utterance": "나는 잘도착했으요"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "19:56:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "19:56:00",
+            "utterance": "춈맛탱"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "20:20:00",
+            "utterance": "으악ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "20:20:00",
+            "utterance": "춈맛탱은 믄디ㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-25",
+            "time": "20:33:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-25",
+            "time": "20:40:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

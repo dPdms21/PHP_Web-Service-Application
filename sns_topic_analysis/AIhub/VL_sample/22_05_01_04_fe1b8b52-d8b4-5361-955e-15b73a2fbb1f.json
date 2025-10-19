@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe1b8b52-d8b4-5361-955e-15b73a2fbb1f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-23",
+            "time": "22:46:00",
+            "utterance": "젊은 여자애들 신천지 많다더라 교대에도 글코"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-23",
+            "time": "22:46:00",
+            "utterance": "ㅁㅈ..함 놀러가려햇더니만.."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-23",
+            "time": "22:47:00",
+            "utterance": "대체 젊은애들 어케 꾀는거야.."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-23",
+            "time": "22:47:00",
+            "utterance": "최근에 트위터에서 봣엇는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-23",
+            "time": "22:47:00",
+            "utterance": "겁나 치밀하더라"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-23",
+            "time": "22:48:00",
+            "utterance": "트위터나 온라인에서도 홍보 활발하게 하는 사이비종교가"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-23",
+            "time": "22:48:00",
+            "utterance": "신천지였나"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-23",
+            "time": "22:48:00",
+            "utterance": "가끔 글 본거같은데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-23",
+            "time": "22:49:00",
+            "utterance": "ㅇㅇ나 커뮤하다가신천지 알게됨"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-23",
+            "time": "22:49:00",
+            "utterance": "어떤 사람이 신천지 찾아내서 박제햇엇는데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-23",
+            "time": "22:50:00",
+            "utterance": "그게 딱 걔네 온라인 포교 수법이엇다더라ㅏ"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "21277524-c775-5d40-93ea-89cc6ecb9d11",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "18:54:00",
+            "utterance": "외국경찰들은 권력이 엄청쌔서 얄짤없네"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-26",
+            "time": "18:54:00",
+            "utterance": "맞아 ㅋㅋ 막 몽둥이로 패잖아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "18:55:00",
+            "utterance": "그것도있고 무조건 말들어야하네 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-26",
+            "time": "18:55:00",
+            "utterance": "그만큼 많이 다친적이있어서 그런걸꺼야"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "18:55:00",
+            "utterance": "그렇겠다 ㅜ 총도 많이 맞고 그러나봐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-26",
+            "time": "18:55:00",
+            "utterance": "맞아 죽는사람도 많아 외국경찰은"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "18:55:00",
+            "utterance": "어떤나라는 매를 때리는데 엄청 많이때린다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-26",
+            "time": "18:55:00",
+            "utterance": "죄를 지었으니깐 벌 받아야지 ㅋㅋ"
+        }
+    ]
+}

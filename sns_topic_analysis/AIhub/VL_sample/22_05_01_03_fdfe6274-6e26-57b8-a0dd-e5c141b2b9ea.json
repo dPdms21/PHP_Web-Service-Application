@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdfe6274-6e26-57b8-a0dd-e5c141b2b9ea",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:21:00",
+            "utterance": "너 하마치에서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:21:00",
+            "utterance": "로그아웃 되어있는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:21:00",
+            "utterance": "됐다가 안 됐다가 하던데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:21:00",
+            "utterance": "하마치 컴엔 켜져있는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:21:00",
+            "utterance": "지금"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:22:00",
+            "utterance": "디코 라이브로 켜놨어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:22:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:22:00",
+            "utterance": "아니다 캡쳐가 더 낫겠구나"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:23:00",
+            "utterance": "응 너거"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:23:00",
+            "utterance": "근데 당장 마크 할 거 아니라서 괜찮다..."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:23:00",
+            "utterance": "안 켜졌어 지금"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:23:00",
+            "utterance": "저 전원버튼"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:23:00",
+            "utterance": "다시 눌러봐"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:23:00",
+            "utterance": "응 다시 누르는 중"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:24:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:24:00",
+            "utterance": "이거봐"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:24:00",
+            "utterance": "너"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "22:24:00",
+            "utterance": "안 켜졌어"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "22:24:00",
+            "utterance": "나 왜 안 켜졌지"
+        }
+    ]
+}

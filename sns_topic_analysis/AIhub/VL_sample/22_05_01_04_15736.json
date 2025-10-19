@@ -1,0 +1,200 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "15736",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 20,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_생활정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "상병이랑 이병이 둘다 죽어있었데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "헐 이게 무슨 일이야;"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "근데 그러고서 둘다 총 확인해봤더니"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "상병총은 총알 그대로 다있고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "헐 누구야"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "이병총은 총알이 4개가 비어있었데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "ㄷㄷ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "그래서 뭐... 하나 찾으려고 난리났다나 뭐라나.."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "ㄷㄷ 누구야..."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "괴담이야"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "아니 선임이 이거 말하면서 자기는"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T12",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T13",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "그 한발"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T14",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T15",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "간첩이 얘네 쏜거라고 하면서"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T16",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "키키 나도"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T17",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "그 간첩 잡으래"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T18",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "북한군 아니냐고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T19",
+            "participantID": "P02",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "미친놈이야"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T20",
+            "participantID": "P01",
+            "date": "2021-08-31",
+            "time": "00:00:00",
+            "utterance": "그럴라했는데 키키"
+        }
+    ]
+}

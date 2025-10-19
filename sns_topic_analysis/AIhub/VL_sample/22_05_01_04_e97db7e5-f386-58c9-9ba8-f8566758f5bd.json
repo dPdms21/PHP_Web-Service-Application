@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e97db7e5-f386-58c9-9ba8-f8566758f5bd",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "광주광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:28:00",
+            "utterance": "요즘"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:28:00",
+            "utterance": "가게들 9시까지라서 그런가"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "19:28:00",
+            "utterance": "응 빨리 닫지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:28:00",
+            "utterance": "비밀 문으로 손님받는 가게도 있나봐"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:28:00",
+            "utterance": "몰래 영업한대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "19:28:00",
+            "utterance": "아니 무슨 금주령 때"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "19:29:00",
+            "utterance": "몰래 마시는 시대도 아니고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "19:29:00",
+            "utterance": "몰래 받아서 장사를 해?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:29:00",
+            "utterance": "그니까"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:29:00",
+            "utterance": "아무리 경제가 어렵다고 해도"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "19:29:00",
+            "utterance": "서로 지킬 건 지켜야지"
+        }
+    ]
+}

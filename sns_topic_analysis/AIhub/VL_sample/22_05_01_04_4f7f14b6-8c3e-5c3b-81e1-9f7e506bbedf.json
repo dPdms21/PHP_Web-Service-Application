@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "4f7f14b6-8c3e-5c3b-81e1-9f7e506bbedf",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_생활정보공유"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "소가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "엄청크잖아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "그래서 소가 뀌는 방구랑"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "소가 먹는거랑"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "소한테서 나오는 배설물 이런게"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "엄청나게 환경을 파괴한대"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "아.. 소를 키우지않게 ?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "ㅇㅇ ㅠㅠ불필요하게 소를 너무 많이 키우고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "먹는걸로 도축하고 이러면 또 새로 키우고 그러잖아"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-06",
+            "time": "11:21:00",
+            "utterance": "난또 소가먹는거랑 소방구가 환경에 좋은데 소를너무 먹는다고 할줄 ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

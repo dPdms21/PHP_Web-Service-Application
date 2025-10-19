@@ -1,0 +1,263 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd763945-b44d-5169-8a0c-ebe77892c916",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 29,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "13:00:00",
+            "utterance": "난 피자먹으러 나와따"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "13:00:00",
+            "utterance": "점심시간끝났겠넹!! 아닌가 2시까지려나?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:08:00",
+            "utterance": "웅웅12시반부터인데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:08:00",
+            "utterance": "오늘은12시부터쉬어따 홍홍"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:08:00",
+            "utterance": "벌써 한시네^^ 누가 내시간가져갔디"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:08:00",
+            "utterance": "큼큼"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:08:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:09:00",
+            "utterance": "이거봤어??? Ama에서 찍은카메라에는"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:09:00",
+            "utterance": "떼창잘안들렸는데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:09:00",
+            "utterance": "와 현장에서찍은 이직캠으로보니까"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:09:00",
+            "utterance": "소름개돋는다ㅜㅜㅜㅜㅜ어캐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "13:10:00",
+            "utterance": "헐헐"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "13:10:00",
+            "utterance": "봐야짘ㅋㅋㅋㅋㅋ 썸넬부터 흥난닼ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:15:00",
+            "utterance": "ㅌㅋㅋㅋㅋㅋㅋㅋㅋ저 #@기타# 너무귀야워"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:16:00",
+            "utterance": "와 첨에애들이름 떼창 #@기타#"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:16:00",
+            "utterance": "저거보니까 애들이 브이앱에서 왜흥분햌ㅅ는지알게따큐ㅠㅠㅋㅋㅋㅋㅋ#@기타#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "13:33:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "13:33:00",
+            "utterance": "내가다 벅차넼ㅋㅋㅋㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:48:00",
+            "utterance": "막콘420구역"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:48:00",
+            "utterance": "20만원에구햇는대"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:49:00",
+            "utterance": "지금 입금직전이야ㅠ인증받구있는데"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:49:00",
+            "utterance": "찝찝라다"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "13:49:00",
+            "utterance": "ㅠ"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "17:21:00",
+            "utterance": "헐헐"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "17:21:00",
+            "utterance": "어떻게햄ㅅ어?"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-11-21",
+            "time": "17:21:00",
+            "utterance": "잘샀어?"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "17:21:00",
+            "utterance": "놉.. 옆에동기가 손톱물어뜯으믄서"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "17:22:00",
+            "utterance": "불안해하길래"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-11-21",
+            "time": "17:22:00",
+            "utterance": "내가다시구해줄테니찝찝하믄 이건 패스하자 했지ㅠㅜㅋㅋㅋ"
+        }
+    ]
+}

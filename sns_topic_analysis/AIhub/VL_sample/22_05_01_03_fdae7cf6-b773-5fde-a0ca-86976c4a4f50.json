@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdae7cf6-b773-5fde-a0ca-86976c4a4f50",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "나 지금 탐탐이야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "ㅇ오"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "난 지금 침대야"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "얼른 일어나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "오늘 수업끝나서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:30:00",
+            "utterance": "누웟엌ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:31:00",
+            "utterance": "완전 빨리끝낫네"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:31:00",
+            "utterance": "나는 친구들이랑 탐탐에서 카공하고잇지"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:31:00",
+            "utterance": "수금은 일찍끝나"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:31:00",
+            "utterance": "오"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:31:00",
+            "utterance": "공부 나 손놓음"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:35:00",
+            "utterance": "엥ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-27",
+            "time": "14:35:00",
+            "utterance": "그러면 안댕"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-03-27",
+            "time": "14:36:00",
+            "utterance": "우리 시험 취소됐자나..."
+        }
+    ]
+}

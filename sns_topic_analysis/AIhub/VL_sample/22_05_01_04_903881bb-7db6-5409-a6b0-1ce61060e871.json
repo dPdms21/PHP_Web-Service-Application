@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "903881bb-7db6-5409-a6b0-1ce61060e871",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "08:39:00",
+            "utterance": "너넨결혼하지마 재밌긴한데 환별난다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "08:39:00",
+            "utterance": "환멸"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "08:40:00",
+            "utterance": "웨딩시장 단체로 사기꾼들같아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-26",
+            "time": "08:41:00",
+            "utterance": "ㅋㅋㅋㅋㅋ그지 그거 다 허례허식인뎈ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "08:42:00",
+            "utterance": "일단 식장부터 그게 심하고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "08:42:00",
+            "utterance": "나머진 부르는게값이여 다 거기서거긴데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-26",
+            "time": "08:42:00",
+            "utterance": "ㅋㅋㅋㅋ결혼식은 남 보여주려고 하는건데 사실 나만 기억하고 남들은 담날 되면 다 잊어버림"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-26",
+            "time": "08:42:00",
+            "utterance": "걍 자기만족인듯ㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

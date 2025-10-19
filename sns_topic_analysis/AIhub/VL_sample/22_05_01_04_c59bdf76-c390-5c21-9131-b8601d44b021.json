@@ -1,0 +1,223 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c59bdf76-c390-5c21-9131-b8601d44b021",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 24,
+            "numberOfTurns": 15,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "아니 중국 슬슬 망할 때ㅜ됐는데..."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "무슨 댐 터진다매"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "분열해서 안망하는 게 신기하네"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "중국에"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "ㅇㅇ 그래서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "서해바다가"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "민물이 됐대"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "근데 요새 좀 아슬아슬하긴 하다더라 분열"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "어떤 점쟁이가 중국 분열할거라고"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "미국이랑 경제적으로 많이 싸워서"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "예측햇대"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "정부 힘이 좀 약해진듯"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "되게 유명한 사람이엇는데.."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:44:00",
+            "utterance": "맞아"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "걔넨 몸집만 키유ㅓㅆ어"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "1당 독재라서 시진핑 힘이 젤 세야하는데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "밑에 애들이 조금씩 게기나봐"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "다 갈라졌으면 좋겠다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "그래도 그게 쉬쉬하명서 죽일 수 잇는 정도가 아닌가보네"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "갈라져서 중국 망하고"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "그 세력이 있대"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "세력이 없는 애면 그냥 죽이고 마는데"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "꽤 큰 세력이면"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2020-08-07",
+            "time": "03:45:00",
+            "utterance": "오 ㅎ"
+        }
+    ]
+}

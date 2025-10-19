@@ -1,0 +1,120 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff5afdc8-3089-594e-af7a-a2eacc78f03a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_자기계발_공부/시험"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "목요일까지 연달아 시험이라"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "진짜로"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "잠수 좀 타겠습니다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "응응 열심히 해~"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "카톡하면"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "안녕~"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "꺼지라고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "욕좀해줘"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "흑흑"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "ㅋㅋㅋㅋㅠㅠ 그래"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-07",
+            "time": "02:17:00",
+            "utterance": "응응 목요일 시험 마치고 봅시다!!!!!!!"
+        }
+    ]
+}

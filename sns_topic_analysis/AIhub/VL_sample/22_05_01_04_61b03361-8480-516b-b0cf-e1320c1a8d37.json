@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "61b03361-8480-516b-b0cf-e1320c1a8d37",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "근데 코로나시대에 쥐죽은듯 쥐의해 마무리하자는게"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "글케나 뭐 항의들어가가지고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "호올....자기들이 다 나갈 생각이라"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "누가 이거 쓰라고 컨펌내줬냐 이런소리부터 시작해서"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "찔려서 괜히 그런건 아니겟제"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "저도 제자식 둘 집안에만 가만두고있는데 이런글보니 화나네요 이러는반응보면"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "16:15:00",
+            "utterance": "죄송 너무 덮어씌웟나유 취소할게요"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "16:16:00",
+            "utterance": "흠,,,자식있으면 좀 그런 생각도 들려나,,"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "16:16:00",
+            "utterance": "진짜 모지,,뭐,,무,,훔,,"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "16:16:00",
+            "utterance": "나는 잘 모르겠너 진짜"
+        }
+    ]
+}

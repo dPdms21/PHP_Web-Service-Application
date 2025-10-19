@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "1c37497a-a748-5b36-b4e7-f0411a0fabf6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-18",
+            "time": "13:06:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-18",
+            "time": "13:06:00",
+            "utterance": "#@이름#이 영어 선생님 카톡"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-18",
+            "time": "13:06:00",
+            "utterance": "프로필"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-18",
+            "time": "13:06:00",
+            "utterance": "오메"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-18",
+            "time": "13:28:00",
+            "utterance": "많이 감동이엇나바"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-18",
+            "time": "13:36:00",
+            "utterance": "그런가봐"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-18",
+            "time": "13:36:00",
+            "utterance": "학생이 준 편지를 프사에 해놓고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-18",
+            "time": "13:36:00",
+            "utterance": "다닌지도 얼마 안됫는데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-18",
+            "time": "13:36:00",
+            "utterance": "저런 편지 받음 선생님으로서 좋지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "16:40:00",
+            "utterance": "#@이름#이 다음주에 통곡 예정"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "16:40:00",
+            "utterance": "공부쌤 그만 하신대"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "16:40:00",
+            "utterance": "이사 가셔서"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-19",
+            "time": "16:40:00",
+            "utterance": "아아ㅠ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "16:41:00",
+            "utterance": "#@이름#이 한테는 아직 말하지 말아달래"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-19",
+            "time": "17:33:00",
+            "utterance": "어쩔수 없지 모"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "17:37:00",
+            "utterance": "그동안 이사 갔는데도 그냥 하셨는데 너무 힘들어서 안 되시겠댜"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "17:38:00",
+            "utterance": "별내로 가셔서 거기가서 하신대"
+        }
+    ]
+}

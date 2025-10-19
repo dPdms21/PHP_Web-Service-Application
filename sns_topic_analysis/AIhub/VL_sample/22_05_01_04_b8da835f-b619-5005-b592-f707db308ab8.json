@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b8da835f-b619-5005-b592-f707db308ab8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_생활정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:12:00",
+            "utterance": "까막쓰"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:12:00",
+            "utterance": "똑똑한것보소"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:12:00",
+            "utterance": "기사를봤는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:12:00",
+            "utterance": "까치랑까미귀랑 지능비슷하대"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:12:00",
+            "utterance": "그리고 그 둘 사이진짜안좋대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "돼지부속물싣고가는 차인데 저게정차하니까 어디서보고 바로날아와서챱챱"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "그니까"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ원쑤인가"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "개똑똑하네"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "패싸움도한대"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "까치는 별로 안똑똑해보이는데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "그리고 독수리가나타나면"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "패싸움까지?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:13:00",
+            "utterance": "둘이합심해서 죽인대"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:14:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:14:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:14:00",
+            "utterance": "동네북독수리"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-21",
+            "time": "18:14:00",
+            "utterance": "무서운놈들이네"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:16:00",
+            "utterance": "까치가 까미귀과래"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-21",
+            "time": "18:17:00",
+            "utterance": "개무섭다거"
+        }
+    ]
+}

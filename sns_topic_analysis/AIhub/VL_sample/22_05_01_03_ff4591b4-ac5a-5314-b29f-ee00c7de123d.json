@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff4591b4-ac5a-5314-b29f-ee00c7de123d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "머릿속에 그 음료수"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "뭔가 형상은 그려지는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "앜ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "그게 뭔지 또렷하게 안나와"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "개웃곀ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "그니깐"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "그 느낌 알지"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "그거였어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "ㅇㅇ ㅠㅠㅠㅠ 답답해죽는줄"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "그래서 저 사진보자마자"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "화질 로딩 안되다가 로딩다된거처럼"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "선명하게 뜸"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:07:00",
+            "utterance": "앜ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:08:00",
+            "utterance": "아니 우리"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:08:00",
+            "utterance": "너무 피방을 ...안 갔나봐"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:08:00",
+            "utterance": "가고시퍼.. 가서 코코팜 먹을래"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-04-30",
+            "time": "02:08:00",
+            "utterance": "나도 ..."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-04-30",
+            "time": "02:08:00",
+            "utterance": "코로나 언제끝나.."
+        }
+    ]
+}

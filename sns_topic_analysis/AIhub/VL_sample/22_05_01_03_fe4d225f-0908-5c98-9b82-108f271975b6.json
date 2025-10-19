@@ -1,0 +1,120 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe4d225f-0908-5c98-9b82-108f271975b6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 5,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_취미/여가_스포츠"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "40대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "40대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:16:00",
+            "utterance": "여봉 나자전거좀타고 들갈께"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:16:00",
+            "utterance": "불광천"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "18:20:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "18:38:00",
+            "utterance": "여봉"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "18:38:00",
+            "utterance": "어디양?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "18:38:00",
+            "utterance": "빠바앞"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "18:38:00",
+            "utterance": "올라가는중"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "18:39:00",
+            "utterance": "빠리바게트"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "18:39:00",
+            "utterance": "자전거타고,,."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "18:39:00",
+            "utterance": "?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "18:39:00",
+            "utterance": "응 힘들어서 끌고걷는중"
+        }
+    ]
+}

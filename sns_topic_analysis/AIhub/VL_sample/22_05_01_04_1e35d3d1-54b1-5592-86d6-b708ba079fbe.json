@@ -1,0 +1,165 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "1e35d3d1-54b1-5592-86d6-b708ba079fbe",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:02:00",
+            "utterance": "ㅋㅋㄱㅋㅋㅋ개웃기넹"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:03:00",
+            "utterance": "근디ㅣ 만약"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:03:00",
+            "utterance": "싸강듣던거면"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:03:00",
+            "utterance": "슬프당"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-11",
+            "time": "22:04:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-11",
+            "time": "22:05:00",
+            "utterance": "카페 > 피방 > 집"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:07:00",
+            "utterance": "ㅋㅋ미열인데 쏘다닌건아쉽지만 마스크착용은햇네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:07:00",
+            "utterance": "솔직히다닌곳이 별로없으면"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:07:00",
+            "utterance": "본인이 미열좀있다고 코로나라 생각하긴힘들지ㅜ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-11",
+            "time": "22:10:00",
+            "utterance": "엄마가 확진자인가?? 그랬을거야 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-11",
+            "time": "22:10:00",
+            "utterance": "에공ㅜ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2020-05-12",
+            "time": "00:29:00",
+            "utterance": "아령?으로 팔운동했엌ㅋㅋㅋㅋㅋㅋ바들바들"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2020-05-12",
+            "time": "00:54:00",
+            "utterance": "이시간에????ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2020-05-12",
+            "time": "00:54:00",
+            "utterance": "아니 신부가 근육을 키우면 어떻혀"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-05-12",
+            "time": "00:55:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-05-12",
+            "time": "00:55:00",
+            "utterance": "근육몬"
+        }
+    ]
+}

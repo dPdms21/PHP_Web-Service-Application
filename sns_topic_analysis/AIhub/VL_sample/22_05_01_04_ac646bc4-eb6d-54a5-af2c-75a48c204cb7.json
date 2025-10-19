@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ac646bc4-eb6d-54a5-af2c-75a48c204cb7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_직장",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "13:48:00",
+            "utterance": "소문이란"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:48:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:48:00",
+            "utterance": "루머여"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:48:00",
+            "utterance": "근데 #@소속#처럼 학과조교가 있는곳은 쉽게 조교를 없애지는 않을거야"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:49:00",
+            "utterance": "연대는 뭐 학과조교개념이 없고 다 행정조교니까"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:49:00",
+            "utterance": "조교 수도 적고 조교없으면 계약직원들 바로바로 충당해서 업무에 차질이없었거든"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:49:00",
+            "utterance": "근데 #@소속#는 그게 아니잖아"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "13:50:00",
+            "utterance": "오...좀 멋있는 분석인데...?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "13:50:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:51:00",
+            "utterance": "분석#@이름#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:52:00",
+            "utterance": "아직 기다려봐야겠지만"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:52:00",
+            "utterance": "조교가 사라진다면"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "13:52:00",
+            "utterance": "1월에 공지가 올라올것이야 인턴뽑는다는"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "13:54:00",
+            "utterance": "맞아 인턴을 아주 많이 뽑아야겠지"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "14:00:00",
+            "utterance": "쉽게 없애진 못할것이다"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "14:02:00",
+            "utterance": "제바류ㅠㅠ....나 돈벌어야한다구..."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "14:02:00",
+            "utterance": "천지신명께 빌어야겠어"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "14:06:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ진짜로...ㅠㅠ제발...."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-12-07",
+            "time": "14:06:00",
+            "utterance": "살려주세요.."
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-12-07",
+            "time": "14:06:00",
+            "utterance": "어제 철회됐다는 소문을 들은거야?"
+        }
+    ]
+}

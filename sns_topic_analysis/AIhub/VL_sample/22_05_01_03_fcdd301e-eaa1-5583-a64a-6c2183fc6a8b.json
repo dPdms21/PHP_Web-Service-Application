@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcdd301e-eaa1-5583-a64a-6c2183fc6a8b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:03:00",
+            "utterance": "피부반점 올라온그야???"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:13:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:13:00",
+            "utterance": "자꼬손이간질간질해용"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:17:00",
+            "utterance": "심해지면 말햇"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:17:00",
+            "utterance": "나아져도 말햇"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:21:00",
+            "utterance": "사랑해용"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:21:00",
+            "utterance": "우리"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:21:00",
+            "utterance": "여서 네병째묵는닷"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:21:00",
+            "utterance": "생각보다 술잘먹눈다"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:25:00",
+            "utterance": "옹 네명이서?! 그럼 오빠는 여태 얼마나 마셔쓔~~~"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:25:00",
+            "utterance": "낟오 사랑해 옵뽀야 ㅇ3ㅇ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:30:00",
+            "utterance": "움~~한병반이용~~?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:37:00",
+            "utterance": "우웅 이제 애기 발닦고 들어가야게따"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:37:00",
+            "utterance": "내일 힘두러~~"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:42:00",
+            "utterance": "히히...슬슬"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:42:00",
+            "utterance": "들어가야하는데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:42:00",
+            "utterance": "헤헿"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-02",
+            "time": "22:42:00",
+            "utterance": "#@이름#인언제자용"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-04-02",
+            "time": "22:45:00",
+            "utterance": "자기야 나 이제 누워ㅇㅅㅇ"
+        }
+    ]
+}

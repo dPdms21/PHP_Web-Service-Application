@@ -1,0 +1,209 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffd31dfe-6bfd-56ad-8f19-0f24cac86cc5",
+            "numberOfParticipants": 5,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P04",
+                "gender": "남성",
+                "age": "50대 이상",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P05",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-02-10",
+            "time": "17:22:00",
+            "utterance": "#@이름#. #@이름# 몇시에오냐?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-10",
+            "time": "17:31:00",
+            "utterance": "나 들어왔눈뎅"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-10",
+            "time": "17:31:00",
+            "utterance": "8시에 도로연수해유"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "17:39:00",
+            "utterance": "나 7시"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "17:39:00",
+            "utterance": "난 밥안먹어도대여"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "17:39:00",
+            "utterance": "배불러"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P04",
+            "date": "2018-02-10",
+            "time": "17:39:00",
+            "utterance": "그럼 우리 먼저 먹고.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "17:40:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "17:40:00",
+            "utterance": "쑥국 드셔보시고 맛평좀ㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "18:13:00",
+            "utterance": "도토리묵도"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "18:14:00",
+            "utterance": "난지금 마사지옴"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "19:38:00",
+            "utterance": "이제 집가여"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2018-02-10",
+            "time": "19:43:00",
+            "utterance": "오층으로 오시오."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "19:46:00",
+            "utterance": "네"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "21:54:00",
+            "utterance": "집도착ㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "21:54:00",
+            "utterance": "50분걸렸네"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P05",
+            "date": "2018-02-10",
+            "time": "21:54:00",
+            "utterance": "빠르네"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-02-10",
+            "time": "21:55:00",
+            "utterance": "그려.  쉬어라."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "21:58:00",
+            "utterance": "길안막히면 가까워"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P03",
+            "date": "2018-02-10",
+            "time": "21:58:00",
+            "utterance": "넵 주무세용"
+        }
+    ]
+}

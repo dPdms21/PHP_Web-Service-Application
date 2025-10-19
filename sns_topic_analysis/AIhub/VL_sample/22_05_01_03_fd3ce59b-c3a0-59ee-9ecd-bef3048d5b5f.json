@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd3ce59b-c3a0-59ee-9ecd-bef3048d5b5f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:27:00",
+            "utterance": "일곱시면 금방 또 나가야긋다ㅜㅜ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "17:27:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ7시반에 보기로 햇도"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:27:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "17:27:00",
+            "utterance": "으킁 원고도 후다닥 써야진ㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:28:00",
+            "utterance": "에구 무리하믄 안되는디 내꾸♡"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:28:00",
+            "utterance": "#@이름# 쉬엄쉬엄 해부쟝ㅎㅎ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:28:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "17:33:00",
+            "utterance": "앙앙♡ 그럴게유♡"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:34:00",
+            "utterance": "웅웅ㅎㅎ 이따 또 톡하쟝♡^♡"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "17:34:00",
+            "utterance": "헤헤 #@이름#도 쉬어요오♡쪽"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "17:34:00",
+            "utterance": "앙앙ㅎㅎ 쪼오오오옥♡"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "19:06:00",
+            "utterance": "내꾸 똑 창동 가류낭♡"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "19:06:00",
+            "utterance": "앙앙ㅎㅎ 슝슝 가고이또용ㅎㅎ 일찍 도착하게뚜아"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "19:06:00",
+            "utterance": "요플레랑 쌀튀밥으로 저녁 간단하게 먹고 출발해따능ㅎㅎ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "19:07:00",
+            "utterance": "헤헤 똑 가구 이꾸넝ㅎㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "19:07:00",
+            "utterance": "고생이넹♡"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "19:07:00",
+            "utterance": "나두 이제 샌드위치 묵으려구옹ㅎㅎ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "19:07:00",
+            "utterance": "앙앙ㅎㅎ 동물의숲 기대하니까 괜찮트앙♡"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-05-16",
+            "time": "19:07:00",
+            "utterance": "#@이름# 샌드위치 맛나야하눈뎅ㅎㅎ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-05-16",
+            "time": "19:09:00",
+            "utterance": "헤헤 조아조아ㅎㅎ 금방 할 수 있으꾸양ㅎㅎ"
+        }
+    ]
+}

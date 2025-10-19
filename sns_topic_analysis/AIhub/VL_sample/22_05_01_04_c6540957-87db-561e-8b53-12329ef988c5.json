@@ -1,0 +1,136 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c6540957-87db-561e-8b53-12329ef988c5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 13,
+            "numberOfTurns": 6,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-12",
+            "time": "20:40:00",
+            "utterance": "튀김파는할매조켔다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:40:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:40:00",
+            "utterance": "그튀김들"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:41:00",
+            "utterance": "식영에서 연못이랑 튀김이랑"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:41:00",
+            "utterance": "세균 비교햇는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:41:00",
+            "utterance": "튀김이 더 더러벗대"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-12",
+            "time": "20:41:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-12",
+            "time": "20:41:00",
+            "utterance": "어디팜?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:41:00",
+            "utterance": "중도앞에"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:42:00",
+            "utterance": "생과대앞에"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-12",
+            "time": "20:42:00",
+            "utterance": "알껬다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-12",
+            "time": "20:42:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-05-12",
+            "time": "20:42:00",
+            "utterance": "여러명 이래"
+        }
+    ]
+}

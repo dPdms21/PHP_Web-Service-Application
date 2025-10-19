@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "feb38edf-4f22-5a7b-921d-c7abec4e874a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-08-05",
+            "time": "21:33:00",
+            "utterance": "#@이름# 오느라고생해쒀!씻구 피티마저 수정행~~~"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-08-05",
+            "time": "21:40:00",
+            "utterance": "꾜오오오오오오오"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-08-05",
+            "time": "21:41:00",
+            "utterance": "엉냐ㅠㅠ 진짜 여수다녀와서 피곤할텐데ㅠㅠㅠㅠㅠ 오늘내일만 고생하장 ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-08-05",
+            "time": "21:41:00",
+            "utterance": "옹야앙~~~"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-08-05",
+            "time": "21:44:00",
+            "utterance": "자구시포헝ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-08-05",
+            "time": "21:46:00",
+            "utterance": "아니되에ㅜㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-08-05",
+            "time": "21:46:00",
+            "utterance": "열두시까지만!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-08-05",
+            "time": "21:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ지금 미스터선샤인본방하넹ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

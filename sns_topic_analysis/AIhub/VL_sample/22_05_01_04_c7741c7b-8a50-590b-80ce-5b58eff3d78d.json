@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c7741c7b-8a50-590b-80ce-5b58eff3d78d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-02-28",
+            "time": "22:00:00",
+            "utterance": "이제 24살 된 사원이 있는데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-02-28",
+            "time": "22:00:00",
+            "utterance": "키보드로 웩웩거리길래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-02-28",
+            "time": "22:00:00",
+            "utterance": "무슨일이냐고 했더니"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-02-28",
+            "time": "22:00:00",
+            "utterance": "자기친구가 역겨운일이 있다는거야"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-02-28",
+            "time": "22:20:00",
+            "utterance": "응응"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "11:31:00",
+            "utterance": "자기친구가 회사에서 일하는데 회사 대리님이 카톡으로 저녁먹자고 하더래"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "11:31:00",
+            "utterance": "그래서 그친구는 당연히 회식인줄 알고 다른 분들은 오늘 다 시간되시냐고 물어봤더니"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "11:31:00",
+            "utterance": "둘이서 먹는거라고 했다는거얔ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "11:31:00",
+            "utterance": "대리 40대인데.."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-01",
+            "time": "12:01:00",
+            "utterance": "와.....^^^^^^^^^^^^^^^^^^^^^"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "12:30:00",
+            "utterance": "초밥 먹자고 했는데 친구는 24살이고 대리는 최소 40살인데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "12:30:00",
+            "utterance": "그래서 친구가 둘이먹는건 좀아니랬더니"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "12:30:00",
+            "utterance": "돌아온대답이"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "12:30:00",
+            "utterance": "아..그런가?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "12:30:00",
+            "utterance": "였대.."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-01",
+            "time": "15:20:00",
+            "utterance": "뭘 모르는척이야ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 징그럽다 진짜"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-01",
+            "time": "17:31:00",
+            "utterance": "40대가 20대한테 들이댈 생각은어떻게 하는걸끼"
+        }
+    ]
+}

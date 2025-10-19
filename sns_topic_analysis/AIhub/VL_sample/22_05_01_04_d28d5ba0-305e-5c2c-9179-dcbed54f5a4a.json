@@ -1,0 +1,216 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "d28d5ba0-305e-5c2c-9179-dcbed54f5a4a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 23,
+            "numberOfTurns": 18,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "09:11:00",
+            "utterance": "낼무도 꿀맛이지ㅜㅜ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "09:35:00",
+            "utterance": "인터넷끊깃노"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "09:35:00",
+            "utterance": "아낰ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "09:36:00",
+            "utterance": "헐 우짜노"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "09:36:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ오늘 일째기각??"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "09:48:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ어 안되는걸 우짜겠노"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "10:13:00",
+            "utterance": "근데 창녕에 살인사건 일어낫다는데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "10:13:00",
+            "utterance": "진짜임?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "10:13:00",
+            "utterance": "어,,ㅎㅎ그 어디고 청목아파트엿나"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "10:13:00",
+            "utterance": "누군지는 모르고..?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "10:14:00",
+            "utterance": "엌ㅋㅋㅋ그냥 스무세살이랑 남자는 서른살이든데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "10:14:00",
+            "utterance": "둘다 지체라카니깐"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "10:15:00",
+            "utterance": "아니네 지적장애였네"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "10:20:00",
+            "utterance": "아 여자가 스물세살이고 남자가 서른?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "10:20:00",
+            "utterance": "둘다 지적장애?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "10:22:00",
+            "utterance": "어엏ㅎㅎㅎ그렇다드라.. 진짜 소름끼친다소름끼쳐"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "10:23:00",
+            "utterance": "그럼 우리는 전혀 모르는사람이겟다..."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "10:24:00",
+            "utterance": "어엏ㅎㅎ세상말세다말세야~~"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "13:07:00",
+            "utterance": "이제30분휴식"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "13:13:00",
+            "utterance": "아 일하구잇ㅇ낳ㅎㅎ인터넷되드나"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "13:20:00",
+            "utterance": "웅 요금냇더"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T17",
+            "participantID": "P01",
+            "date": "2019-04-23",
+            "time": "13:44:00",
+            "utterance": "앜ㅋㅋㅋ그래서끊긴거였넹 난 딱국질이안멈춰서 너무힘들다.."
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T18",
+            "participantID": "P02",
+            "date": "2019-04-23",
+            "time": "17:04:00",
+            "utterance": "멈췃겟지이제..."
+        }
+    ]
+}

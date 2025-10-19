@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "dfedce7e-e6f7-520e-a4e4-8e249126881a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "00:26:00",
+            "utterance": "유출은 했을수도 잇겟다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:26:00",
+            "utterance": "사스 바이러스도 몇번 유출된적이 있는걸로 봐서는"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:26:00",
+            "utterance": "유출가능성이 없진 않지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "00:26:00",
+            "utterance": "내가 들은건"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "00:26:00",
+            "utterance": "고의로 퍼뜨렸다 이런느낌이엇어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:27:00",
+            "utterance": "응응 나도 유투브에서 그런 뉘앙스로 봤었어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:27:00",
+            "utterance": "최초 감염자들중 몇몇은"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "00:27:00",
+            "utterance": "너무 영화같은데..? 영화같은 일이 현실에서 많이 일어나긴하지만"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:27:00",
+            "utterance": "그 우한 시장에 간 적이 없다하면서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "00:27:00",
+            "utterance": "너므므섭자나 그러면"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:27:00",
+            "utterance": "근데 지금 중국 전역이 난린데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "의도성이 있나 싶기는해"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "아님ㄴ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "아니면"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "이랗게 강할줄 몰랐나?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "조금만 퍼지면 우리가 약물로 치료해보까"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "했던건가"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "근데 그 약이 듣질 않고"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "영화로 치면 부자들만 방역시스템 갖춘 곳에 미리 모아놓고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-02-02",
+            "time": "00:28:00",
+            "utterance": "이렇게 영화 시나리오로.."
+        }
+    ]
+}

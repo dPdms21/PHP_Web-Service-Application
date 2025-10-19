@@ -1,0 +1,120 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd422b92-ee6c-552e-a976-df4a337952a0",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_자연/날씨"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:53:00",
+            "utterance": "언니"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:53:00",
+            "utterance": "오늘 목성 토성 보이는날이래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "19:53:00",
+            "utterance": "아 뉴스에서 봤어"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "19:53:00",
+            "utterance": "봤어?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:53:00",
+            "utterance": "토성 그띠 봤어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:54:00",
+            "utterance": "혼자 밖에 나왔어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "19:54:00",
+            "utterance": "헐 대박"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:54:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:54:00",
+            "utterance": "아 안 담기네"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "19:54:00",
+            "utterance": "언니도 봐봐"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "19:57:00",
+            "utterance": "#@이모티콘#"
+        }
+    ]
+}

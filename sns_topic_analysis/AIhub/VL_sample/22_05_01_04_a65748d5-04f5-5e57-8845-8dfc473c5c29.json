@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "a65748d5-04f5-5e57-8845-8dfc473c5c29",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:48:00",
+            "utterance": "아니ㅋㅋ 너 백화점 명품가게 앞에서 결제하기 전에 저런 상품권 가게에 전화하면 가방에 n백만원치 상품권을 이고 온대"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:48:00",
+            "utterance": "잠시만ㅋㅋ황당해서 그 글을 가져외ㅡ야겠어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-21",
+            "time": "01:49:00",
+            "utterance": "??무슨뜻이지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-21",
+            "time": "01:49:00",
+            "utterance": "아 배달서비스여?ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:50:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:50:00",
+            "utterance": "머리가 너무 해맑아서 황당했음"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:51:00",
+            "utterance": "당연히 저런 서비스(ㅋㅋㅋㅋ)를 알고 쓸 정도로 돈이 있는 사람이면 '백화점에서' 서민 경기 체감이 안되겠지"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-21",
+            "time": "01:52:00",
+            "utterance": "오..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-21",
+            "time": "01:52:00",
+            "utterance": "다시 한 번"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-21",
+            "time": "01:52:00",
+            "utterance": "빠르고 거대한 재산 축척"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:52:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-08-21",
+            "time": "01:52:00",
+            "utterance": "인정입니다"
+        }
+    ]
+}

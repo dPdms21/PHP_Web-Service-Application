@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdabd23c-d6f6-52ed-9f36-35d79e045459",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:51:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:51:00",
+            "utterance": "야민정음 소개했고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:51:00",
+            "utterance": "금수저흙수저"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:51:00",
+            "utterance": "소갷ㅆ고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:51:00",
+            "utterance": "라떼이즈홀스 소개했고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:52:00",
+            "utterance": "나머지 잔잔바리로 노잼,노답,관종,중2병, 인싸/아싸 정도 할건데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:52:00",
+            "utterance": "이거중에 안쓰는거이떠?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-11",
+            "time": "00:54:00",
+            "utterance": "음"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-11",
+            "time": "00:54:00",
+            "utterance": "이정도는 아직 다 쓴닷ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:54:00",
+            "utterance": "냐아ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-11",
+            "time": "00:55:00",
+            "utterance": "ratte is horseㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:55:00",
+            "utterance": "최대한 유행안타는걸로 고르려고해떠"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-11",
+            "time": "00:55:00",
+            "utterance": "latte 군"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-11",
+            "time": "00:55:00",
+            "utterance": "먀먀"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "00:57:00",
+            "utterance": "냐 라테~~"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-11",
+            "time": "01:00:00",
+            "utterance": "ㅋㅋㄲㄱㄱㄱ신조어재미떠"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-11",
+            "time": "01:01:00",
+            "utterance": "냐아 ㅋㅋㅋㅋㅋㅋㅋㅋ근데 설명하려니 어렵다"
+        }
+    ]
+}

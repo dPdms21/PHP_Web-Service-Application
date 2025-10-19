@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcd2e4af-cf0c-5e17-bd5c-4ba00c4c1189",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:00:00",
+            "utterance": "신나하던데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:00:00",
+            "utterance": "둘이서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "악"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "안그래도 평소에도 놀리는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "큰일이누"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "그러게..!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "그 사람들은 피한다고 피해지는 사람들이 아닌데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "어디에나 있고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:01:00",
+            "utterance": "언제나 있ㅈ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:02:00",
+            "utterance": "마자마자"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:02:00",
+            "utterance": "거즘 설계실 지박령이여~"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:02:00",
+            "utterance": "맞아..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:02:00",
+            "utterance": "나 나올때도"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:02:00",
+            "utterance": "#@이름#랑 #@이름#형 게임하고"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:02:00",
+            "utterance": "#@이름#형은 구경하고 있었다고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:03:00",
+            "utterance": "으아악!"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:03:00",
+            "utterance": "저런"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:04:00",
+            "utterance": "어쩔 수 없지ㅎㅎ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-09-22",
+            "time": "01:04:00",
+            "utterance": "#@이름#에서 나로 토스됬누"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-22",
+            "time": "01:04:00",
+            "utterance": "그니까 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

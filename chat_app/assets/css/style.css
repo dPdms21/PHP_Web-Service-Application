@@ -1,0 +1,449 @@
+/* 카카오톡 스타일 채팅 애플리케이션 CSS */
+
+/* Reset */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+  background-color: #f7f7f7;
+  color: #333;
+  overflow: hidden;
+}
+
+/* =========================
+   Auth (로그인/회원가입)
+   ========================= */
+.auth-container {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+.auth-card {
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 0 20px 40px rgba(0,0,0,.1);
+  padding: 40px;
+  width: 100%;
+  max-width: 400px;
+  text-align: center;
+}
+.auth-logo { font-size: 2.5rem; font-weight: 700; color: #3c1e1e; margin-bottom: 10px; }
+.auth-subtitle { color: #666; margin-bottom: 30px; font-size: 1.1rem; }
+
+.form-group { margin-bottom: 20px; text-align: left; }
+.form-group label { display:block; margin-bottom:8px; font-weight:500; color:#333; }
+.form-control {
+  width: 100%; padding: 12px 16px; border: 2px solid #e1e5e9; border-radius: 10px; font-size: 16px;
+  transition: border-color .3s ease;
+}
+.form-control:focus { outline: none; border-color:#3c1e1e; box-shadow:0 0 0 3px rgba(60,30,30,.1); }
+
+.btn {
+  width:100%; padding:12px; border:none; border-radius:10px; font-size:16px; font-weight:600;
+  cursor:pointer; transition:all .3s ease; text-decoration:none; display:inline-block; text-align:center;
+}
+.btn-primary { background: linear-gradient(135deg,#3c1e1e 0%,#5a2a2a 100%); color:#fff; }
+.btn-primary:hover {
+  background: linear-gradient(135deg,#5a2a2a 0%,#7a3a3a 100%);
+  transform: translateY(-2px); box-shadow: 0 10px 20px rgba(60,30,30,.3);
+}
+.btn-secondary { background:#f8f9fa; color:#333; border:2px solid #e1e5e9; }
+.btn-secondary:hover { background:#e9ecef; }
+
+.auth-links { margin-top:20px; text-align:center; }
+.auth-links a { color:#3c1e1e; text-decoration:none; font-weight:500; }
+.auth-links a:hover { text-decoration:underline; }
+
+/* =========================
+   Chat Layout
+   ========================= */
+.chat-container { height:100vh; display:flex; background:#f7f7f7; position:relative; }
+
+/* Sidebar */
+.sidebar {
+  width: 28%;
+  min-width: 280px;
+  background:#fff;
+  border-right:1px solid #e1e5e9;
+  display:flex; flex-direction:column;
+  position:relative;
+}
+.sidebar-header {
+  padding:20px; background:#3c1e1e; color:#fff;
+  display:flex; align-items:center; justify-content:space-between;
+}
+.user-info { display:flex; align-items:center; }
+.user-avatar {
+  width:40px; height:40px; border-radius:50%; background:#5a2a2a; color:#fff; font-weight:700;
+  display:flex; align-items:center; justify-content:center; margin-right:12px;
+}
+.user-name { font-weight:600; }
+
+.settings-btn, .logout-btn {
+  background:none; border:none; color:#fff; cursor:pointer; padding:8px; border-radius:5px;
+  transition: background .3s ease; font-size:1.2rem;
+}
+.settings-btn:hover, .logout-btn:hover { background: rgba(255,255,255,.1); }
+
+/* Search section */
+.search-section {
+  padding:15px 20px; border-bottom:1px solid #f0f0f0; background:#fafafa; flex-shrink:0;
+}
+.search-container { display:flex; gap:10px; margin-bottom:10px; }
+.search-input {
+  flex:1; padding:8px 12px; border:1px solid #e1e5e9; border-radius:20px; font-size:14px;
+  transition:border-color .3s ease;
+}
+.search-input:focus { outline:none; border-color:#3c1e1e; }
+.search-btn {
+  background:#3c1e1e; color:#fff; border:none; border-radius:20px; padding:8px 12px; cursor:pointer;
+  transition: background .3s ease;
+}
+.search-btn:hover { background:#D9C7A6; }
+.search-btn:active { background:#BCA37C; }
+
+/* 친구 추가 모달의 검색 결과에서 이름/이메일을 세로로 분리 */
+.search-results .user-item .user-info{
+    display: flex;              /* flex는 유지하되 */
+    flex-direction: column;     /* 세로 정렬 */
+    align-items: flex-start;
+    gap: 4px;                   /* 이름과 이메일 간격 */
+  }
+  
+  /* 간격/색 살짝 다듬기 */
+  .search-results .user-item .user-name{
+    font-weight: 600;
+    line-height: 1.2;
+  }
+  
+  .search-results .user-item .user-email{
+    color: #666;
+    line-height: 1.2;
+  }
+  
+.add-friend-btn {
+  width:100%; background:#f8f9fa; border:1px solid #e1e5e9; border-radius:10px; padding:10px; cursor:pointer;
+  color:#3c1e1e; transition:all .3s ease; font-size:14px;
+}
+.add-friend-btn:hover { background:#D9C7A6; border-color:#D9C7A6; color:#fff; }
+.add-friend-btn:active { background:#BCA37C; border-color:#BCA37C; }
+
+/* =========================
+   Friends list (복구 + 고정)
+   ========================= */
+.friends-list { flex:1; overflow-y:auto; padding-bottom:80px; } /* create-room 버튼 여백 유지 */
+
+.friend-item {
+  padding: 15px 20px;
+  border-bottom: 1px solid #f0f0f0;
+  cursor: pointer;
+  transition: background .3s ease;
+  display: flex;
+  align-items: center;
+  gap: 0;                       /* 복구: 카드 내 간격은 margin으로 제어 */
+}
+.friend-item:hover { background:#f8f9fa; }
+.friend-item.active { background:#e3f2fd; border-right:3px solid #3c1e1e; }
+
+.friend-avatar {
+  flex: 0 0 45px;
+  width:45px; height:45px; border-radius:50%;
+  background:#3c1e1e; color:#fff; font-weight:700;
+  display:flex; align-items:center; justify-content:center;
+  margin-right: 12px;           /* 복구: avatar-텍스트 간 간격 */
+  overflow:hidden;
+}
+.friend-avatar img { width:100%; height:100%; object-fit:cover; }
+
+.friend-info { flex:1 1 auto; min-width:0; } /* 말줄임 보장 */
+.friend-name {
+  font-weight:600; margin-bottom:4px;
+  display:flex; align-items:center; gap:6px;
+}
+.online-indicator { color:#4CAF50; font-size:.8rem; }
+.friend-last-message {
+  color:#666; font-size:.9rem;
+  white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+}
+
+/* 오른쪽 끝: 미읽음 + 시간 */
+.friend-time{
+  margin-left:auto;
+  display:flex; align-items:center; gap:8px;
+  justify-content:flex-end;
+  min-width:92px;               /* 폭 흔들림 방지 */
+  white-space:nowrap;
+  color:#9aa0a6;
+  font-size:.9rem;
+}
+.friend-time .unread-count{
+  display:inline-flex; align-items:center; justify-content:center;
+  min-width:20px; height:20px; padding:0 6px;
+  border-radius:999px; background:#ff3b30; color:#fff;
+  font-weight:700; font-size:12px; line-height:20px;
+  box-shadow:0 0 0 2px #fff;
+}
+
+/* friend status badges (검색 결과 등에서 사용) */
+.friend-status { font-size:.8rem; padding:2px 8px; border-radius:12px; }
+.friend-status.accepted { color:#4CAF50; background:#e8f5e8; }
+.friend-status.pending { color:#FF9800; background:#fff3e0; }
+
+.add-friend-btn-small {
+  background:#3c1e1e; color:#fff; border:none; border-radius:5px; padding:5px 10px; cursor:pointer;
+  font-size:.8rem; transition: background .3s ease;
+}
+.add-friend-btn-small:hover { background:#D9C7A6; }
+
+/* =========================
+   Chat Main
+   ========================= */
+.chat-main { flex:1; display:flex; flex-direction:column; }
+.chat-header {
+  background:#fff; padding:20px; border-bottom:1px solid #e1e5e9;
+  display:flex; align-items:center;
+}
+.chat-title { font-size:1.2rem; font-weight:600; color:#333; }
+
+.chat-messages { flex:1; padding:20px; overflow-y:auto; background:#f7f7f7; }
+
+.welcome-message { text-align:center; padding:50px; color:#666; }
+.welcome-message i { font-size:3rem; margin-bottom:20px; opacity:.3; }
+.welcome-message h3 { margin-bottom:10px; color:#333; }
+
+.empty-message { text-align:center; padding:20px; color:#666; }
+.empty-message i { font-size:2rem; margin-bottom:10px; opacity:.3; }
+.loading-message { text-align:center; padding:20px; color:#666; }
+
+.message { margin-bottom:15px; display:flex; align-items:flex-end; }
+.message.sent { justify-content:flex-end; }
+.message.received { justify-content:flex-start; }
+.message-bubble {
+  max-width:70%; padding:12px 16px; border-radius:18px; position:relative; word-wrap:break-word;
+  box-shadow: 0 1px 2px rgba(0,0,0,.1);
+}
+.message.sent .message-bubble {
+  background:#3B1E1E; color:#fff; border-bottom-right-radius:4px; box-shadow:0 2px 4px rgba(0,0,0,.1);
+}
+.message.received .message-bubble {
+  background:#fff; color:#333; border-bottom-left-radius:4px; box-shadow:0 1px 2px rgba(0,0,0,.1);
+}
+.message.bot .message-bubble { background:#CFEBCB; color:#2d5a2d; border:1px solid #c8e6c8; }
+
+.message-time { font-size:.8rem; color:#999; margin:5px 8px 0; }
+.message.sent .message-time { text-align:right; }
+.message.received .message-time { text-align:left; }
+
+.read-status { font-size:.8rem; margin-top:5px; }
+.read-status.read { color:#999; }
+.read-status.unread { color:#ff3b30; }
+
+.chat-input {
+  background:#fff; padding:20px; border-top:1px solid #e1e5e9;
+  display:flex; align-items:center; gap:10px;
+}
+.message-input {
+  flex:1; padding:12px 16px; border:2px solid #e1e5e9; border-radius:25px; font-size:16px;
+  resize:none; max-height:100px; transition:border-color .3s ease;
+}
+.message-input:focus { outline:none; border-color:#3c1e1e; }
+
+.send-btn {
+  background:#3c1e1e; color:#fff; border:none; border-radius:50%; width:45px; height:45px;
+  cursor:pointer; display:flex; align-items:center; justify-content:center; transition:all .3s ease;
+}
+.send-btn:hover { background:#D9C7A6; transform:scale(1.05); }
+.send-btn:active { background:#BCA37C; }
+.send-btn:disabled { background:#ccc; cursor:not-allowed; transform:none; }
+
+/* Floating create-room button */
+.create-room-btn{
+  position:absolute; bottom:20px; right:20px;
+  width:50px; height:50px; border-radius:50%;
+  background:#3c1e1e; color:#fff; border:none; cursor:pointer;
+  display:flex; align-items:center; justify-content:center; font-size:1.2rem;
+  box-shadow:0 4px 12px rgba(0,0,0,.15); transition:all .3s ease; z-index:1000;
+}
+.create-room-btn:hover { background:#bfa981; transform:scale(1.1); box-shadow:0 6px 20px rgba(0,0,0,.2); }
+
+/* =========================
+   Modal
+   ========================= */
+.modal{
+  display:none; position:fixed; z-index:2000; left:0; top:0; width:100%; height:100%;
+  background:rgba(0,0,0,.5); animation: fadeIn .3s ease;
+}
+.modal-content{
+  background:#fff; margin:5% auto; border-radius:15px; width:90%; max-width:500px; max-height:80vh;
+  overflow-y:auto; animation: slideIn .3s ease;
+}
+.modal-header{
+  padding:20px; border-bottom:1px solid #e1e5e9; display:flex; justify-content:space-between; align-items:center;
+}
+.modal-header h3{ margin:0; color:#333; }
+.close{ color:#aaa; font-size:28px; font-weight:700; cursor:pointer; transition:color .3s ease; }
+.close:hover{ color:#3c1e1e; }
+.modal-body{ padding:20px; }
+.modal-footer{ padding:20px; border-top:1px solid #e1e5e9; text-align:right; }
+
+/* Search modal list */
+.search-results{ max-height:300px; overflow-y:auto; margin-top:15px; }
+.user-item{
+  display:flex; align-items:center; padding:10px; border-bottom:1px solid #f0f0f0; transition:background .3s ease;
+}
+.user-item:hover{ background:#f8f9fa; }
+.user-item .user-avatar{ width:40px; height:40px; margin-right:12px; }
+.user-info{ flex:1; }
+.user-name{ font-weight:600; margin-bottom:2px; }
+.user-email{ font-size:.9rem; color:#666; }
+.user-actions{ margin-left:10px; }
+.no-results{ text-align:center; color:#666; padding:20px; font-style:italic; }
+
+/* Create room modal */
+.room-type-selector{ margin-bottom:20px; }
+.room-type-selector label{ display:inline-block; margin-right:20px; cursor:pointer; font-weight:500; }
+.room-type-selector input[type="radio"]{ margin-right:8px; }
+.group-room-name{ margin-bottom:20px; }
+.friends-selection h4{ margin-bottom:15px; color:#333; }
+.friends-checkbox-list{
+  max-height:200px; overflow-y:auto; border:1px solid #e1e5e9; border-radius:8px; padding:10px;
+}
+/* 친구 선택(모달) 아이템 */
+.friend-checkbox-item {
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    cursor: pointer;
+    transition: background 0.3s ease;
+    border-radius: 5px;
+  }
+  .friend-checkbox-item:hover { background: #f8f9fa; }
+  
+  .friend-checkbox-item input[type="checkbox"],
+  .friend-checkbox-item input[type="radio"] {
+    margin-right: 12px;
+  }
+  
+  /* 모달 안 아바타: 크기/모양을 확실히 고정 */
+  .friend-checkbox-item .friend-avatar {
+    flex: 0 0 36px;
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+    overflow: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #3c1e1e;
+    color: #fff;
+    font-weight: 700;
+    margin-right: 10px;
+  }
+  
+  /* 이미지가 있을 때 둥글고 꽉 차게 */
+  .friend-checkbox-item .friend-avatar img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+  }
+.friend-checkbox-item .friend-name{ font-weight:500; }
+.no-friends{ text-align:center; color:#666; padding:20px; font-style:italic; }
+
+/* 친구 추가 모달용 프로필 이미지 (비율 고정) */
+.user-avatar-small {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+  background-color: #f1f1f1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 16px;
+  color: #555;
+  margin-right: 12px;
+  flex-shrink: 0;
+}
+
+/* =========================
+   Profile
+   ========================= */
+.profile-container{
+  min-height:100vh; display:flex; align-items:center; justify-content:center;
+  background:linear-gradient(135deg,#667eea 0%,#764ba2 100%); padding:20px;
+}
+.profile-card{
+  background:#fff; border-radius:20px; box-shadow:0 20px 40px rgba(0,0,0,.1);
+  padding:40px; width:100%; max-width:500px; text-align:center;
+}
+.profile-image-container{ margin-bottom:30px; }
+.profile-image{
+  width:120px; height:120px; border-radius:50%; object-fit:cover;
+  border:4px solid #3c1e1e; margin-bottom:15px;
+}
+.profile-image-placeholder{
+  width:120px; height:120px; border-radius:50%; background:#3c1e1e; color:#fff; font-size:3rem; font-weight:700;
+  display:flex; align-items:center; justify-content:center; margin:0 auto 15px; border:4px solid #3c1e1e;
+}
+.file-input-wrapper{ position:relative; display:inline-block; margin-bottom:20px; }
+.file-input{ position:absolute; opacity:0; width:100%; height:100%; cursor:pointer; }
+.file-input-label{
+  display:inline-block; padding:10px 20px; background:#f8f9fa; border:2px solid #e1e5e9; border-radius:10px;
+  cursor:pointer; transition:all .3s ease;
+}
+.file-input-label:hover{ background:#D9C7A6; border-color:#D9C7A6; color:#fff; }
+.back-btn{
+  position:absolute; top:20px; left:20px; background:rgba(255,255,255,.2); color:#fff; border:none; border-radius:50%;
+  width:50px; height:50px; cursor:pointer; display:flex; align-items:center; justify-content:center; transition:all .3s ease;
+}
+.back-btn:hover{ background:rgba(255,255,255,.3); transform:scale(1.1); }
+
+/* Alerts */
+.alert{ padding:12px 16px; border-radius:8px; margin-bottom:20px; }
+.alert-success{ background:#d4edda; color:#155724; border:1px solid #c3e6cb; }
+.alert-error{ background:#f8d7da; color:#721c24; border:1px solid #f5c6cb; }
+
+/* Loading spinner */
+.loading{ display:inline-block; width:20px; height:20px; border:3px solid #f3f3f3; border-top:3px solid #3c1e1e; border-radius:50%; animation:spin 1s linear infinite; }
+
+/* Animations */
+@keyframes spin { 0%{transform:rotate(0)} 100%{transform:rotate(360deg)} }
+@keyframes fadeIn { from{opacity:0} to{opacity:1} }
+@keyframes slideIn { from{ transform:translateY(-50px); opacity:0 } to{ transform:translateY(0); opacity:1 } }
+
+/* Generic button hover polish */
+.btn:hover{ transform:translateY(-1px); box-shadow:0 4px 8px rgba(0,0,0,.15); }
+.btn:active{ transform:translateY(0); box-shadow:0 2px 4px rgba(0,0,0,.1); }
+
+/* Modal extra anim */
+.modal-content{ animation: modalSlideIn .3s ease-out; }
+@keyframes modalSlideIn { from{ transform:translateY(-30px); opacity:0 } to{ transform:translateY(0); opacity:1 } }
+
+/* =========================
+   Responsive
+   ========================= */
+@media (max-width:768px){
+  .chat-container{ flex-direction:column; }
+  .sidebar{ width:100%; height:200px; }
+  .chat-main{ height: calc(100vh - 200px); }
+
+  .auth-card{ margin:20px; padding:30px 20px; }
+  .profile-card{ margin:20px; padding:30px 20px; }
+  .modal-content{ margin:10% auto; width:95%; }
+
+  .create-room-btn{ bottom:20px; right:20px; width:50px; height:50px; font-size:1.2rem; }
+
+  /* 친구 목록 모바일에서도 동일 배치 유지 */
+  .friend-item{ padding:14px 16px; }
+  .friend-time{ min-width:84px; }
+}
+
+/* Scrollbar */
+::-webkit-scrollbar{ width:6px; }
+::-webkit-scrollbar-track{ background:#f1f1f1; }
+::-webkit-scrollbar-thumb{ background:#c1c1c1; border-radius:3px; }
+::-webkit-scrollbar-thumb:hover{ background:#a8a8a8; }

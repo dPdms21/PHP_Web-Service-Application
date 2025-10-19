@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "2c6d90f9-a832-53ae-9b6f-8175c077a806",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:53:00",
+            "utterance": "난마늘을"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "넘사랑하는듯"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "ㅋㅋㅋㅋㅋ한국인은"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "원래 그럼"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "막 어떤사람이"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "마늘 선물받았는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "엉"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "3박스 선물받은거"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "일주일만에"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "다먹었대"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:54:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "그게가능함?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "그런가봐.."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "얼마나 큰 박스인지는 모르지만"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "친구랑"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "같이먹은거아님?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "그렇긴함ㅋㅋㅋ근데그래도"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "15:55:00",
+            "utterance": "빨리먹은듯"
+        }
+    ]
+}

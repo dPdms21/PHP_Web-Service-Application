@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe2010ec-56cf-5c88-9e08-55d4d1dd6690",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 17,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "17:56:00",
+            "utterance": "전문가#@이름# 크..완존멋잇자너"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "17:56:00",
+            "utterance": "맞아 간지나서 멋져"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "17:57:00",
+            "utterance": "나는 간지나는 일을 할거야 그래서 부자될고다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "18:00:00",
+            "utterance": "커군 나도부자되야지 그러기위해선 지금밥을먹어야해"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "18:00:00",
+            "utterance": "맞아 맞는말이야 부자가 되려면 건강부터 챙겨야해"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "18:05:00",
+            "utterance": "난건강을위해 식사를하겟엄"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "18:05:00",
+            "utterance": "아주 좋은 생각이야"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "18:13:00",
+            "utterance": "휴..맛나군"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "18:22:00",
+            "utterance": "이제끝나상 ㄷ낫당 얼렁가야지 바스바스"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "18:28:00",
+            "utterance": "호우호우 바스타셧남"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "18:29:00",
+            "utterance": "아뇽"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "18:30:00",
+            "utterance": "바스기다러용"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "18:36:00",
+            "utterance": "잠깐즌화좀해볼까나"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "19:16:00",
+            "utterance": "아빠구경하는넝부리"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "19:17:00",
+            "utterance": "넝부리 당신은 도덕책.."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "19:19:00",
+            "utterance": "정말이지 넝부리 웃기다니까"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "19:20:00",
+            "utterance": "내일넝불이 빨아야하는데 슬프구먼"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "19:24:00",
+            "utterance": "저런.. 넝불쓰"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2018-06-11",
+            "time": "19:28:00",
+            "utterance": "식빵굽는 해태"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T17",
+            "participantID": "P01",
+            "date": "2018-06-11",
+            "time": "19:33:00",
+            "utterance": "해태가아닌거같은뎅.."
+        }
+    ]
+}

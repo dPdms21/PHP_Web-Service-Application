@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "82cf4404-f800-5c62-95a6-3ab8dd2f9f7e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_가정"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "제주특별자치도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "충청북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:26:00",
+            "utterance": "글구 주변서 태몽을 다 두개씩나오는걸 꾸고 중요한건 친정엄마가 쌍둥이래ㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:27:00",
+            "utterance": "헉"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:27:00",
+            "utterance": "ㄲㅋ대박이다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:27:00",
+            "utterance": "대박"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:27:00",
+            "utterance": "애기둘이라니"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:27:00",
+            "utterance": "ㅋㅋㅋ오마이갓"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:27:00",
+            "utterance": "그치 ㅋㅋㅋ 병원서 소리질럿대ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:28:00",
+            "utterance": "애들은 진짜 몰아는지ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:28:00",
+            "utterance": "ㅋㅋ오마이갓"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:28:00",
+            "utterance": "ㅋㅋㅋ성별도물어보지"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:28:00",
+            "utterance": "아들 쌍둥이는 진짜ㅋㅋㅋㅋㄱㄱ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:28:00",
+            "utterance": "10주라서 아직ㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:28:00",
+            "utterance": "아니아들한테ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:29:00",
+            "utterance": "아아 글게 ㅋㅋ  그건 못들엇네ㅋㅋㄱ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:29:00",
+            "utterance": "코로나때문에 어디 갈곳도 없지만"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:30:00",
+            "utterance": "부산에서 코로나 검사 거부하고 제주로 도망친인간있대ㅜㅜ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-05",
+            "time": "10:30:00",
+            "utterance": "연락두절이구"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:30:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-05",
+            "time": "10:30:00",
+            "utterance": "미쳤네ㅜㅜ"
+        }
+    ]
+}

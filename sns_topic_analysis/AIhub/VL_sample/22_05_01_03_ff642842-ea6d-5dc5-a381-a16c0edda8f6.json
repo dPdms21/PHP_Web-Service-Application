@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff642842-ea6d-5dc5-a381-a16c0edda8f6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:14:00",
+            "utterance": "진짜 착한 친구다ㅠㅠ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "나도 못줬는데 고맙넹ㅠ #@이름#이 챙겨줘서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "하나만먹구"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "씻어야지"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "캬캬ㅋㅋㅋㅋㅋ 응 비타민먹고 생기발랄!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "오늘"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "지이인짜 수고많았어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:15:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "씻구 푹자욤!ㅎㅎ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "시러"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "자지마"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "나랑놀아"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㄱㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "갑자기 텐션 업?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "엉"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "귤먹고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-10-28",
+            "time": "00:16:00",
+            "utterance": "업할거야"
+        }
+    ]
+}

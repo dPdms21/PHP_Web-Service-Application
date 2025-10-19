@@ -1,0 +1,129 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "12dac69c-6327-525f-8357-6e62e865dff4",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "생활/행사_특별생활_생활정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "09:27:00",
+            "utterance": "아니면 금전수가 나으려나"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "09:27:00",
+            "utterance": "금전수는"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "09:27:00",
+            "utterance": "뭐지용?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "09:27:00",
+            "utterance": "#@시스템#검색#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "09:27:00",
+            "utterance": "나무 종류래!~"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "09:28:00",
+            "utterance": "오오"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "09:28:00",
+            "utterance": "금전수도 괜찮은거 같은데!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "09:28:00",
+            "utterance": "저중에서는 어떤게 좋은거 같애?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "09:33:00",
+            "utterance": "저중에서는"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "09:33:00",
+            "utterance": "내가 사장님께 물어보니까 금전수는 기존 어르신들이 많이 선물하고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "09:33:00",
+            "utterance": "지금은 다양하게 선물하는 추세라고 하시네!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "09:33:00",
+            "utterance": "아진짜?"
+        }
+    ]
+}

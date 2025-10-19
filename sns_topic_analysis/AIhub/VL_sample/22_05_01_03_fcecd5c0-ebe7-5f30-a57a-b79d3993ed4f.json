@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcecd5c0-ebe7-5f30-a57a-b79d3993ed4f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "강원도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "14:11:00",
+            "utterance": "#@이름#이랑 카페 갈 거 같아 !"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "14:12:00",
+            "utterance": "헤헤 내가 또 연락 남기께 ~~ 울 애기 남은 시간 화이또 ! 🤍🤍"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "14:12:00",
+            "utterance": "알랍알랍🤍🤍"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "14:12:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "오케아오케이"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "ㅋㄱㅋㄱㅋㄱㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "오늘 재밌게 놀겠네^^"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "오늘 하루"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "고생많아요 ㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "우래기 핸드폰 받았넹 !!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "나도 이제"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "핸드폰 받음"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "나 오늘 하루종일"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "당욘하지"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "진짜"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:58:00",
+            "utterance": "아 오늘"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:59:00",
+            "utterance": "ㄹㅇ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-05-06",
+            "time": "15:59:00",
+            "utterance": "개도움"
+        }
+    ]
+}

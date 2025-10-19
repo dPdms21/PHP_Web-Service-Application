@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0d16d842-5a9f-52bf-ba64-d7e64847f3f5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 16,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "뒷 집 아저씨가 큰 딸이 있었는데 숨겼대"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "숨겼어? 뭘 숨겼어?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "그냥 사람들한테 숨겼대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "아 큰 딸이 있다는 것을 알고 지금 마누라는 결혼했대?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "응. 그런 것 같아"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "그것을 알고 결혼한 여자도 대단하다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "응. 그런 것 같아"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "니는 만약에 딸이있는 남자와 결혼 할 것 같아?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "나는 안할 것 같아"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "왜?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "힘들 것 같아"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "뭐가 힘든데?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "내 자식이 아닌 자식을 기르는게 힘들 것 같아"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "음. 그렇군"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "정 결혼 할 데 없으면 하긴 하겠지만..."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-02-17",
+            "time": "13:34:00",
+            "utterance": "맞아. 결혼 할 데 없으면 그런데라도 가야지."
+        }
+    ]
+}

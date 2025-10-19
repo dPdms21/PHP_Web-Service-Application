@@ -1,0 +1,104 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffdc9fd0-1ce0-5f77-8924-298f6129ce2b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-08",
+            "time": "18:35:00",
+            "utterance": "근데 이는.정말 능력밖의 일이야"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-08",
+            "time": "18:35:00",
+            "utterance": "솔직히 #@이름#"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-08",
+            "time": "18:35:00",
+            "utterance": "이 열심히 닦는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-08",
+            "time": "18:35:00",
+            "utterance": "ㅋㅋㅋ이거 다 애기 때 떼웟던 거 떨어져서 이 모양이지 새 충친 없다고~~~~~~"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-08",
+            "time": "18:39:00",
+            "utterance": "아 그론거면 다시 안생길고야"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-08",
+            "time": "18:40:00",
+            "utterance": "#@이름#.무서우면"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-08",
+            "time": "18:40:00",
+            "utterance": "내 인형 안고 치료받앙"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-08",
+            "time": "18:41:00",
+            "utterance": "나 떨고인니..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-08",
+            "time": "18:41:00",
+            "utterance": "내 망뭉이 어디갓디"
+        }
+    ]
+}

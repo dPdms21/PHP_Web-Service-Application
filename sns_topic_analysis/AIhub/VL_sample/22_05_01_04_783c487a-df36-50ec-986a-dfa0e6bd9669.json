@@ -1,0 +1,240 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "783c487a-df36-50ec-986a-dfa0e6bd9669",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 26,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:40:00",
+            "utterance": "맞다 우리집 전자렌지"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:40:00",
+            "utterance": "내보다 나이 많지않나"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "맞음.."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "짱 오래됐음 진짜"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "난 기억도 안남 언제 샀는지"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "근데 중간에 한번 살짝"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "맛 가려다가"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "다시 괜찮아짐"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "ㅋㅋㅋㅋ맞음ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "다시 정신차림ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "그거 맛가면 에이에스도 안됨"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "부품 넘 옛날꺼라.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "지 인터넷에서 썰 하나 봤는디"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "먼데"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "오래된 전자제품"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "고장 안나다가"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "아 이제 바꿀까 생각하면"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "딱 고장난다는글"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "아이 지도 그거 봤슈"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "지는 그거"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "차가 좀 잘 그런다매"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:41:00",
+            "utterance": "아하"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-19",
+            "time": "21:42:00",
+            "utterance": "말리부.. 고장나면 안되는디.."
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:42:00",
+            "utterance": "차가 어제까지 굴러가다가"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:42:00",
+            "utterance": "딱 바꾸고 나자마자 퍼진대"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-19",
+            "time": "21:42:00",
+            "utterance": "그래서 안굴러간다 그럼.."
+        }
+    ]
+}

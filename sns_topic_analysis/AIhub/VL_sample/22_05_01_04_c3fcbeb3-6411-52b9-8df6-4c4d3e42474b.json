@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c3fcbeb3-6411-52b9-8df6-4c4d3e42474b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:17:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:30:00",
+            "utterance": "(20/4/15) - 김정은 뇌사상태. [첩보 수준 정보] 1. 수술 실패로 김정은은 현재 뇌사상태에 준하는 심각한 상태. 아직 사망은 아닌 듯. 북한 내부 쿠데타나 강제연금 상황은 아니라고함. 거동은 확실히 불가능하며 정상적인 상태로 돌아오기도 불가능으로 보임. 사망인지는 북한에서 공식 발표가 있기 전에는 확인 불가. 2. 김여정이 백두혈통으로 명목상 표면에 나올 확률 매우 높음. 3. 아시안게임 중 방한한 북한 실세 3인방이 현재 전권을 행사하고 있으며, 북한 주민의 동요와 또 다른 북한 내부 세력의 준동을 막기 위해 평양에 계엄령 선포됨. 하지만 사실상 북한 내부는 김일성일가의 후광 없이는 주민통제가 불가능하기 때문에 저 3인방이 다른 세력의 견제나 주민봉기의 위험을 안고 표면상의 지도자로 나올 확률은 거의 없음. 김여정을 명목상의 지도자로 표면에 내세울 확률 높다고 함. 4. 지금 평양은 여러 세력에 의한 알력 싸움이 굉장히 심한 상태임. 당장 붕괴는 안 하지만 예전처럼"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:30:00",
+            "utterance": "이거 먼교."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:30:00",
+            "utterance": "랜덤 찌라시 같은디..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:32:00",
+            "utterance": "카톡성 찌라시는 90프로 구라"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:32:00",
+            "utterance": "뉴스로 나오면 모를까"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:50:00",
+            "utterance": "뉴스에 나왔다는데?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:51:00",
+            "utterance": "Cnn 보도래"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:52:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:52:00",
+            "utterance": "맞네!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:54:00",
+            "utterance": "(20/4/15) - 김정은 뇌사상태. [첩보 수준 정보] 1. 수술 실패로 김정은은 현재 뇌사상태에 준하는 심각한 상태. 아직 사망은 아닌 듯. 북한 내부 쿠데타나 강제연금 상황은 아니라고함. 거동은 확실히 불가능하며 정상적인 상태로 돌아오기도 불가능으로 보임. 사망인지는 북한에서 공식 발표가 있기 전에는 확인 불가. 2. 김여정이 백두혈통으로 명목상 표면에 나올 확률 매우 높음. 3. 아시안게임 중 방한한 북한 실세 3인방이 현재 전권을 행사하고 있으며, 북한 주민의 동요와 또 다른 북한 내부 세력의 준동을 막기 위해 평양에 계엄령 선포됨. 하지만 사실상 북한 내부는 김일성일가의 후광 없이는 주민통제가 불가능하기 때문에 저 3인방이 다른 세력의 견제나 주민봉기의 위험을 안고 표면상의 지도자로 나올 확률은 거의 없음. 김여정을 명목상의 지도자로 표면에 내세울 확률 높다고 함. 4. 지금 평양은 여러 세력에 의한 알력 싸움이 굉장히 심한 상태임. 당장 붕괴는 안 하지만 예전처럼"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "10:54:00",
+            "utterance": "이게 전문"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:58:00",
+            "utterance": "일단 후속기사"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-21",
+            "time": "10:58:00",
+            "utterance": "두고봅세 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "11:03:00",
+            "utterance": "찌라시는"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-04-21",
+            "time": "11:03:00",
+            "utterance": "찌라시일뿐!!"
+        }
+    ]
+}

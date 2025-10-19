@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "40179dbf-33f6-571e-93e9-e79dd5b6b738",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "17:23:00",
+            "utterance": "안 그래도 기술 발전해서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "17:23:00",
+            "utterance": "꿈 꾸는 것도 무슨 장치 연결해서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "17:23:00",
+            "utterance": "그 장면이 보이는 기술도 있더라"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "17:24:00",
+            "utterance": "맞아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "17:23:00",
+            "utterance": "근데 이미 정부나 이런 쪽에서는"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "17:23:00",
+            "utterance": "뒤로 기술  사용하고 있을 듯"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-05",
+            "time": "17:23:00",
+            "utterance": "스파이나 요원들이"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-05",
+            "time": "17:24:00",
+            "utterance": "충분히 가능하지"
+        }
+    ]
+}

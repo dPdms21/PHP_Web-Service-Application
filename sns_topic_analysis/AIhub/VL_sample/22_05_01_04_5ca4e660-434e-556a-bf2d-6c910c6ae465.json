@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5ca4e660-434e-556a-bf2d-6c910c6ae465",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "난 미성년자랑"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "사는 건"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "알고있었는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "헐???"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "그 뭐시냐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "랜덤채팅으로"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:47:00",
+            "utterance": "알게되서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "어찌 살게됐는데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "네.."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "뭐가 잘못되서"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "헐 미자랑?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "벌금인가"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "물었다는구나"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "대박이네요"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "내가 알기론"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-08-25",
+            "time": "20:48:00",
+            "utterance": "미성년자이기도하여"
+        }
+    ]
+}

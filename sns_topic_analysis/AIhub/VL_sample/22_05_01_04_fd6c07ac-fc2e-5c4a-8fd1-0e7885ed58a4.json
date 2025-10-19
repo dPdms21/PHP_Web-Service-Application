@@ -1,0 +1,133 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd6c07ac-fc2e-5c4a-8fd1-0e7885ed58a4",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "강원도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "강원도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-24",
+            "time": "13:55:00",
+            "utterance": "#@이름#는 애초에 결혼을 잘못한거고.. 자기 의지와 다르게"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-24",
+            "time": "13:55:00",
+            "utterance": "맞아 우린 스스로 ~"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:55:00",
+            "utterance": "엄마가 떠밀었어"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:55:00",
+            "utterance": "#@이름#가 자꾸 나무꾼이ㅏ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:55:00",
+            "utterance": "모텔가고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-24",
+            "time": "13:55:00",
+            "utterance": "아빠도..."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:56:00",
+            "utterance": "절대 안돼"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:56:00",
+            "utterance": "근데 #@이름# 동생도"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:56:00",
+            "utterance": "동생은 여자네쪽이"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:56:00",
+            "utterance": "빨리하자고 했다며"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-09-24",
+            "time": "13:56:00",
+            "utterance": "어어"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-24",
+            "time": "13:56:00",
+            "utterance": "뭐 저런케이스도 있지만"
+        }
+    ]
+}

@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe4ea396-2071-55fa-8807-3bffa810ea9f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "충청북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "20:34:00",
+            "utterance": "난 택시타고 가는중"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "20:54:00",
+            "utterance": "집 도착했어요?? :)"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "20:54:00",
+            "utterance": "고생했어요!!"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "21:56:00",
+            "utterance": "자긴 언제와유?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "나 이제 2차 이동했는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "왜케언오누?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "다들 오시면"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "같이 야식먹을랫는디"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "바로 ㅃㅃ 하고 가려고 ㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "아하"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:24:00",
+            "utterance": "다들 어딧는데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:54:00",
+            "utterance": "자기야"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:54:00",
+            "utterance": "출발햇나?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:56:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "22:56:00",
+            "utterance": "조용히 들어와요"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "23:03:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "23:03:00",
+            "utterance": "안오고"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "23:03:00",
+            "utterance": "이게 머선129"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "23:11:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "23:11:00",
+            "utterance": "129"
+        }
+    ]
+}

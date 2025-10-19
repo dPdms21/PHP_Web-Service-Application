@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "feb2a456-bbf0-59d4-a295-942b55904d00",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:09:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:09:00",
+            "utterance": "#@이름#이 다리"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:09:00",
+            "utterance": "찜질해에에엥~"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:09:00",
+            "utterance": "코끼리다리!!!!!!!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:09:00",
+            "utterance": "다리풀어줘야대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "헿0헤헤헤헤헤헤헤"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "마장"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "이긍"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "그래야"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "내일 또 바이탈해"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "헤헤헤헤"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "이그♥"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "나일단그럼"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "씻고"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "이불깔고올게"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:10:00",
+            "utterance": "응응!!!"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:11:00",
+            "utterance": "히히"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2016-11-16",
+            "time": "22:11:00",
+            "utterance": "댕겨옴~"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:11:00",
+            "utterance": "댕겨와용~~~"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2016-11-16",
+            "time": "22:50:00",
+            "utterance": "#@이름#이 기절...?"
+        }
+    ]
+}

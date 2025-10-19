@@ -1,0 +1,199 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "13939",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "***피디 *** 퇴사한다네"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "이번엔 찐인가봐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "키키 어 20년"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "***** 재밋게 보고잇는데 아쉽다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "키키"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "프로그램 폐지겠지...?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "더큰데로"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "당연히...? 키키"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "에 왜"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "이적하려는것 보다 아예 회사를 차릴것 같다 그러던데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "헐 그럼대박이다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "*****가 ***랑 *** 둘이 꾸려간건데 다른 피디 온다고 케미가 맞을까"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "나는 몰랐는데 **** 예능?도 찍었다고? 하드만"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "그렇긴햐 근데 그렇다고 프로그램도 폐지까진가겟어"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "키키 ***이 더 하려할까?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "부담스러워서 후임도 못들어올것 같은뎁"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "끝물로 가면서 종영하려나"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "아까운데 이번에 하는 ****가 마지막인가 키키"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "난 잘안봐서 ***이후로 안봄"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "***한거 일년전인거 아냐고..."
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-09-13",
+            "time": "00:00:00",
+            "utterance": "아마도 키키 여름에나온거니까"
+        }
+    ]
+}

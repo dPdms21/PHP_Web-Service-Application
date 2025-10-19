@@ -1,0 +1,118 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e4c26fd5-79bf-55a9-842d-7908638b2aa7",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-03",
+            "time": "12:24:00",
+            "utterance": "중국유심끼면 안되는게 맞데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-08-03",
+            "time": "12:24:00",
+            "utterance": "그래서 보통 홍콩 유심사서 간다더라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-08-03",
+            "time": "12:47:00",
+            "utterance": "중국은 머 막아놓은게 많아서 그런가???"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-08-03",
+            "time": "12:50:00",
+            "utterance": "응 ㅋㅋㅋ인스타 네이버블로그 유튜브 다음 다안돼ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-08-03",
+            "time": "12:50:00",
+            "utterance": "중국어플 안깔아갔음 울뻔 구글스토어도 안돼서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-08-03",
+            "time": "12:50:00",
+            "utterance": "공항버스타러와따"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-08-03",
+            "time": "12:50:00",
+            "utterance": "이제 진짜 끝이군"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2019-08-03",
+            "time": "13:02:00",
+            "utterance": "ㅋㅋ조심히와~"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2019-08-03",
+            "time": "13:02:00",
+            "utterance": "헐헐 그렇구나ㅋㅋ 구글스토어도 안될줄은 몰랐넹~"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2019-08-03",
+            "time": "13:02:00",
+            "utterance": "조심히 오렴!!ㅎㅎ"
+        }
+    ]
+}

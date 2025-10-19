@@ -1,0 +1,272 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5fe14bfb-4452-51de-9578-16e4f78277a7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 30,
+            "numberOfTurns": 14,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "근데 진짜 성향따라도 다르긴하겠다ㅋㅋㅋ공사구분 확실한 스탈이면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "맞아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "드립치고 장난으로 메세지 보냈을때 성인이 회사에서 왜저래"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "얘 뭐임?;;;할듯"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "이럴수도"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "있겠네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "엉 걍"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "그사람 답변보고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "이사람도 임티 잘쓰고 막"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "똥고발랄하게 보내주시면 같이그러고.."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "맞춤법 오지고 다나까면 같이그래야지뭐.."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:09:00",
+            "utterance": "나 취직해서 막 저러다가 갑자기 불려가서 상담잼"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ개웃겨"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "걍 사람반응따라"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "나도 첨엔"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "다나까임"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "ㅜㅜ친구한테 배웠어요ㅠ 힝구"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "카톡도"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "했어요~도아니고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "했습니다."
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "이렇게 보냈어 초반엨ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "근데 임티쓰시길래 같이씀;"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "ㅋㄱㅋ나도쵸반엔"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "군기바짝일듯ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "점도 붙여"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "안녕하십니까."
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "네 이렇게 처리하겠습니다."
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "마자"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "네 알겠습니다."
+        },
+        {
+            "utteranceID": "U30",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-05-28",
+            "time": "15:10:00",
+            "utterance": "대답도 깍듯"
+        }
+    ]
+}

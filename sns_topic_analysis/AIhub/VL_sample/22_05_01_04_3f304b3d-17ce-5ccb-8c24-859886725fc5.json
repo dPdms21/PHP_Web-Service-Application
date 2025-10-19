@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "3f304b3d-17ce-5ccb-8c24-859886725fc5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:20:00",
+            "utterance": "아 나도 오늘 개꿈궛어!!!!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:20:00",
+            "utterance": "으어어아악!! 기분개나쁜데 꿈 계속 꿔서 결론내려고 늦잠잠"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:20:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:20:00",
+            "utterance": "너는뭔꿈이었어"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:21:00",
+            "utterance": "나 진짜 이상해"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:22:00",
+            "utterance": "일단 우리집도 아니고 우리 가족도 아닌데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:22:00",
+            "utterance": "꿈에선 우리집이고 우리 가족이라 생각함"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:23:00",
+            "utterance": "다른 사람이 우리집에 같이 있었는데 싸우다가 내쫓았는데 다시 들어오고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:23:00",
+            "utterance": "그사람이 칼들고 위협해서 죄송하다하고 깸"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:23:00",
+            "utterance": "깬건지 다시 내가 그 사람 다리를 걸어서 넘어뜨려서 칼로 찔렀나"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:23:00",
+            "utterance": "암튼 #@기타# 개꿈 기분 개잡쳤어"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:24:00",
+            "utterance": "와기분개더럽겠다"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:24:00",
+            "utterance": "근데 남을 찌르는거였나 그런꿈"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:24:00",
+            "utterance": "좋은꿈이래!!!!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:25:00",
+            "utterance": "난희.....?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-05",
+            "time": "13:25:00",
+            "utterance": "기분 너무 더러웟는걸욭ㅌㅌㅋㅌㅌㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:31:00",
+            "utterance": "ㅋㅋㅋㅋ그렇게들었어"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:31:00",
+            "utterance": "피보면좋은꿈이라곸ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:31:00",
+            "utterance": "뭐 꿈보다해몽이지만"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-05",
+            "time": "13:31:00",
+            "utterance": "뭔들ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

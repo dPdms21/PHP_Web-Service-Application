@@ -1,0 +1,135 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c486bb9d-fca6-5956-ae00-15834f79ff00",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 13,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "그"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "누구지"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "다른샘 동기는"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "초수에 경기됏대요"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "와"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "우리도 초수에"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "쩐다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "서울가요"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "타악전공이여?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "아뇨"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "딴거엿던거같아여"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "머엿더아"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "14:14:00",
+            "utterance": "아하"
+        }
+    ]
+}

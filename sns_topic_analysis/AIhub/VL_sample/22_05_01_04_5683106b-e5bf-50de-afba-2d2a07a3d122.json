@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5683106b-e5bf-50de-afba-2d2a07a3d122",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "조두순 집에 유튜버들이 엄청 많이 찾아왔다더라"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "맞아~ 나도 방송 잠깐 봤어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "사람들 많아?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "엄청 많이 몰려왔어"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "다 조두순 보려고 몰린거야?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "응~ 조두순보고 나오라고하고 난리가 아니였어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "주민들도 스트레스 받겠다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-13",
+            "time": "16:01:00",
+            "utterance": "응~ 주민들이랑 싸우기도 하고 그러더라"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdd34c1a-c831-568d-8349-bfaf344cf8c0",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2013-02-09",
+            "time": "09:05:00",
+            "utterance": "오빤몇시에이러난가야"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2013-02-09",
+            "time": "09:05:00",
+            "utterance": "지금"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2013-02-09",
+            "time": "09:05:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2013-02-09",
+            "time": "09:06:00",
+            "utterance": "여덟시반에맞춰놓고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2013-02-09",
+            "time": "09:06:00",
+            "utterance": "아홉시십오분으로변경했어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2013-02-09",
+            "time": "09:06:00",
+            "utterance": "그래서 꿈속였어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2013-02-09",
+            "time": "09:06:00",
+            "utterance": "아ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2013-02-09",
+            "time": "09:06:00",
+            "utterance": "몬지알거같아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2013-02-09",
+            "time": "09:06:00",
+            "utterance": "나알람없이깨서무지보람차"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2013-02-09",
+            "time": "09:07:00",
+            "utterance": "ㅋㅋㅋㅋ 어 몇시지?두근두근쾅쾅 아홉시 휴~~~~~^..^"
+        }
+    ]
+}

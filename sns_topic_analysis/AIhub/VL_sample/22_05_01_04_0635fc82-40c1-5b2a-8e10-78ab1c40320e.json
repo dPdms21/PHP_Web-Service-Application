@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0635fc82-40c1-5b2a-8e10-78ab1c40320e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-21",
+            "time": "14:44:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-21",
+            "time": "14:44:00",
+            "utterance": "왜저래..?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-21",
+            "time": "17:04:00",
+            "utterance": "나이거봄ㅌㅌㅌㅌㅌㅌㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-21",
+            "time": "17:04:00",
+            "utterance": "이거거짓말이라는말은들엇어!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "ㄹㅇ잉데..?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "우리교회도 들어오는사람 다 검열함"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "마자ㅠㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "너"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "조심해"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "막"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "신천지애들이"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-24",
+            "time": "18:23:00",
+            "utterance": "잠입한대"
+        }
+    ]
+}

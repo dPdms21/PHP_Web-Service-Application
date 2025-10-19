@@ -1,0 +1,232 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "8fdd39b2-3abe-5cf3-8204-8845ae7fb037",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 25,
+            "numberOfTurns": 14,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:33:00",
+            "utterance": "각동물마다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "자기 종족 애들을 데려갈수잇게 사신을 자기 종족에 붙인단말야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "넹넹"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "개의 사신은 개를 데려가고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "붕어가"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "왜 고양이는 목숨이 9개죠?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "햇더니 사신이"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "말하기를 고양이 사신한테"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:34:00",
+            "utterance": "니가 할일이 생겻어"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:35:00",
+            "utterance": "저 고양이를 데려와야해 라고햇더니 고양이사신이 귀차나 하고 안데려가기 때문이야"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:35:00",
+            "utterance": "우리가 고양이라면 날키우는 인간 겁나 뚜까펠꺼같은데"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:36:00",
+            "utterance": "갑자기 그게무슨소리졍"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:37:00",
+            "utterance": "내가 고양이야 그럼 누가 날 키우겠지 그럼난 드럽게 까칠하게 지낼꺼야"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:37:00",
+            "utterance": "왜져 그리고 사신얘기하다가 갑자기 내가 고양이인 가정을 얘기해서 응?모징 햇졍"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:38:00",
+            "utterance": "그래서 고양이면 지금 롤하셧남"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:38:00",
+            "utterance": "넴..글고 이것도잇어"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:39:00",
+            "utterance": "세상에 어..볼링공사고싶다"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:39:00",
+            "utterance": "에..볼링에 빠지셧남"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:41:00",
+            "utterance": "볼링공 이쁜거짱마눔이야"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2017-02-20",
+            "time": "23:41:00",
+            "utterance": "짱마눔이야?"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:41:00",
+            "utterance": "엉엉"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:41:00",
+            "utterance": "나는 커브이런거 휘게하는건 자신없고"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:42:00",
+            "utterance": "그냥던지듯이 빨리굴려서"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2017-02-20",
+            "time": "23:42:00",
+            "utterance": "부셔버리는게좋아"
+        }
+    ]
+}

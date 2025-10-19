@@ -1,0 +1,181 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e3b782b7-54db-555c-8325-8b7ddb805e85",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "준수랑 하니 사귄거보고"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "하니 우리랑 동갑이잖아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "맞아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "어어어어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "하니 친구가"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "그래서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "개진성이라며"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": ";;헐대박"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "ㅋㅋㅋ그랬대"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "그때 기분 개이상햇음"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "유천이랑 사귈수도잇었나"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "물론안사귈거지만 ㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "기분이상했음"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "내가 진짜 진성인데"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": "내친구가사귀면"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P03",
+            "date": "2020-05-19",
+            "time": "13:53:00",
+            "utterance": ".미안한데 나 걔 못사겨"
+        }
+    ]
+}

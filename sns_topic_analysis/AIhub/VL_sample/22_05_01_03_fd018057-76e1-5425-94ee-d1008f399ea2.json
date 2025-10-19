@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd018057-76e1-5425-94ee-d1008f399ea2",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-11-27",
+            "time": "19:11:00",
+            "utterance": "어쩌지"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-11-27",
+            "time": "19:11:00",
+            "utterance": "난 8시반은 되야끝나는데 ㅜ ㅜ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-11-27",
+            "time": "19:20:00",
+            "utterance": "나 곧 도착"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-27",
+            "time": "19:20:00",
+            "utterance": "옹 미안요"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-27",
+            "time": "19:20:00",
+            "utterance": "30분넘게 울고있데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-27",
+            "time": "19:20:00",
+            "utterance": "6시반에 나왔는데 ㅜ ㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-11-27",
+            "time": "19:20:00",
+            "utterance": "나오자마자 깻나봐"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-27",
+            "time": "19:26:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-11-27",
+            "time": "19:26:00",
+            "utterance": "알써"
+        }
+    ]
+}

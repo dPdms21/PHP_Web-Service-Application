@@ -1,0 +1,169 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f0da5bff-d0c1-5c98-9183-5f8741260c9b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "제주특별자치도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "제주특별자치도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "14:04:00",
+            "utterance": "근데옆집언니네는또해외여행갔나봐"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "14:05:00",
+            "utterance": "또?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "14:05:00",
+            "utterance": "응 휴ㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "14:06:00",
+            "utterance": "부러우면지는건데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "14:12:00",
+            "utterance": "ㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:52:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:52:00",
+            "utterance": "이제돈다썬ㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "16:53:00",
+            "utterance": "조금커보이네ㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "16:53:00",
+            "utterance": "이쁜게"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:54:00",
+            "utterance": "응ㅋ좀큰거산ㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:54:00",
+            "utterance": "3년은입혀야지ㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:54:00",
+            "utterance": "#@이름#이가달라젼진짜ㅋㅋ옷몇개는입어봔ㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "16:55:00",
+            "utterance": "ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:55:00",
+            "utterance": "사이즈도막 너무큰거같다고 좀작은거입어볼까?이러고ㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:56:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-08",
+            "time": "16:56:00",
+            "utterance": "#@이름#이꺼도이번에많이삿네 장갑이랑ㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-12-08",
+            "time": "16:56:00",
+            "utterance": "글게"
+        }
+    ]
+}

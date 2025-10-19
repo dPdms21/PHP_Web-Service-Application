@@ -1,0 +1,169 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "7c1f1864-7fa0-56b7-9974-f11fb1309397",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:01:00",
+            "utterance": "사이즈 받으면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:01:00",
+            "utterance": "그거에 따른 나무를 선택한데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:01:00",
+            "utterance": "그래서 사잊.를 알앙8"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:01:00",
+            "utterance": "정확한 가격이 나온다는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "15:01:00",
+            "utterance": "ㅋㅋㅋㅋㅋ아하"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "15:01:00",
+            "utterance": "그럼 그건 사이즈 재고 이야기 하는걸ㄹ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:02:00",
+            "utterance": "사이즈 확인하면 자기도 가격 확인해보고 말해준댜 ㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:02:00",
+            "utterance": "만들면 아무래도 딱 맞춤처럼 될거같음"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "15:02:00",
+            "utterance": "근데 비싸지 않음?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:03:00",
+            "utterance": "나무를 좋은걸 쓴데 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:03:00",
+            "utterance": "그래서 좀 비싼가베"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "15:03:00",
+            "utterance": "아.....:"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "15:04:00",
+            "utterance": "비싼거 필요없는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:04:00",
+            "utterance": "왜? 나중에 바꾸게?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "15:04:00",
+            "utterance": "어짜피 큰집 이사가면 못쓸꺼..."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:04:00",
+            "utterance": "못쓴다 생각하면 우야노 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "15:04:00",
+            "utterance": "어디든 쓰기 마련이지"
+        }
+    ]
+}

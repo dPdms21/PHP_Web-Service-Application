@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdef1f60-1978-5c08-a1f8-d00450bc0b67",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-02-06",
+            "time": "12:43:00",
+            "utterance": "ㅋㅋㅋㅋㅋ좋아!!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-02-06",
+            "time": "12:43:00",
+            "utterance": "수달찡도 있네ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-02-06",
+            "time": "12:47:00",
+            "utterance": "수달찡한테 먹이도 줄수있데요ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-02-06",
+            "time": "12:47:00",
+            "utterance": "오... 꼭가야겠다ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-02-06",
+            "time": "12:48:00",
+            "utterance": "롯데타워 아쿠아리움에도 수달찡있데ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-02-06",
+            "time": "13:11:00",
+            "utterance": "오호?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-02-06",
+            "time": "13:29:00",
+            "utterance": "거기도 가자ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-02-06",
+            "time": "13:29:00",
+            "utterance": "갈곳이 점점 많아지네요ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

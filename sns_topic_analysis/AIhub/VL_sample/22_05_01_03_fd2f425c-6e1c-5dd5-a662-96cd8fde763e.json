@@ -1,0 +1,118 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd2f425c-6e1c-5dd5-a662-96cd8fde763e",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 6,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-31",
+            "time": "20:34:00",
+            "utterance": "야"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-31",
+            "time": "20:34:00",
+            "utterance": "근데 쌍수 왜 믿는거임?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-31",
+            "time": "20:35:00",
+            "utterance": "니 안한 것 같다니까 ㅡㅡ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-31",
+            "time": "20:35:00",
+            "utterance": "그냥 이참에 소문내야지"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-31",
+            "time": "20:35:00",
+            "utterance": "#@이름# 쌍수햇다 풀렷대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2020-05-31",
+            "time": "20:35:00",
+            "utterance": "? 나 쟤 말 이제 다 안 믿는다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-31",
+            "time": "20:36:00",
+            "utterance": "쟤 허언증 도졌네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-05-31",
+            "time": "20:36:00",
+            "utterance": "#@이름# 언니한테 말해줘야지"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2020-05-31",
+            "time": "20:36:00",
+            "utterance": "#@이름# 중2 때 쌍수했다가 풀려서 짝눈이라고"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-05-31",
+            "time": "20:36:00",
+            "utterance": "아 제발 그녀한테만큼은...."
+        }
+    ]
+}

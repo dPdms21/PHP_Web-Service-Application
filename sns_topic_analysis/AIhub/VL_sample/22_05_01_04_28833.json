@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "28833",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_건강정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "미국은 코로나 확진자 진짜 많더라"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "맞아 아직도 엄청 늘고 있더라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "미국이 세계 1위가 될 줄은 진짜 몰랐네..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "그치, 역시 미국인은 엄청나게 자유롭게 다니는 거 같아."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "맞아 근데 사망자도 엄청나더라 우리나라는 별로 안 되는 거야..."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "치사율로 따지면 진짜 우리나라가 방역을 잘 하고 있다고 생각되더라"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "미국 백신 접종도 많이 한 줄 알았는데 생각보다는 적더라고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "응 그치 그러면서 미국은 맞는 사람들은 3차 접종도 한다고 하더라"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "나 전에 미국이 길 가던 사람들 아무나 백신 맞춰주는 거 그거 봤는데 가짜였나...?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "미국도 보니까 병원, 보건소 같은 곳에 가서 체크를 하고 맞더라고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "그래? 일본에는 행정적 오류? 같은 걸로 맞았는데 또 맞고 하던데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "와 진짜 일본은 특이하다 왜 그러는 거지"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "걔네 시스템상에서 오류가 있었던 걸로 알고 있어 키키"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "아아 그렇구나 그렇게 되면 진짜 얼마나 어이없을까,"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "두 번 맞은 그 사람 죽었을걸...?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "와, 맞아 거기다가 모더나 부작용 봤어?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-09-17",
+            "time": "00:00:00",
+            "utterance": "일본 사람 엄청 탈모 심하게 왔자나 ㅜ"
+        }
+    ]
+}

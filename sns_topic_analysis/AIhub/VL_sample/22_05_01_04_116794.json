@@ -1,0 +1,216 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "116794",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 23,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사람/관계_인물정보_인물정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "오빠 지금 백신 다 맞음?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "응 나는 2차까지 다 완료 했어 키키"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "오빠 근데 독감은 안 맞아?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "어 나 독감은 아직 키키"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "너는?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "키키 나는 아예 다 안 맞았어!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "키키 백신은 그렇다 치고 독감도 안 맞는 거야?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "키키 어 그거 알아?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "독감 주사도 맞다가 죽을 수 있는 거?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "엥 독감은 매년 사람들 맞지 않아?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "키키 근데 기사만 안 나오는 거지 독감 주사로도 죽을 수 있대!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "아 그건 전혀 몰랐네 키키"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "독감 주사로 죽는 건 싫다 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "그니까 근데 코로나랑 독감이랑 증상이 같은데 굳이 맞아야 하는 지에 대한 기사가 떴더라고!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "아 그치"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "코로나 맞는데 독감까지 챙길 이유가 있을까..."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "키키 그니까 근데 내가 아는 언니는 병원 다녀서 그런가 이미 독감 주사 맞았대"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "아 병원 다니는 친구들은 다 맞긴 하는 거 같더라고 키키"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "맞아"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "그 언니 한 3번 골골댔대"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "키키 독감까지"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "아 독감 맞아도 아픈가 보네 키키"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-11-02",
+            "time": "00:00:00",
+            "utterance": "싫다 ㅠㅠ"
+        }
+    ]
+}

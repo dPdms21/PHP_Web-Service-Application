@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fea2588f-ebd8-536c-bcde-622c1cd54ac8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-30",
+            "time": "23:15:00",
+            "utterance": "머해용?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-30",
+            "time": "23:15:00",
+            "utterance": "술먹니요"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-30",
+            "time": "23:24:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-30",
+            "time": "23:24:00",
+            "utterance": "쉬는날 코로나때미"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-30",
+            "time": "23:24:00",
+            "utterance": "만날수나있으려나..ㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-30",
+            "time": "23:28:00",
+            "utterance": "조금 위험해보이긴해요 ㅜㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-30",
+            "time": "23:28:00",
+            "utterance": "술목고있어요"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-30",
+            "time": "23:28:00",
+            "utterance": "근데나 9월1일부터"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-30",
+            "time": "23:28:00",
+            "utterance": "ㅣ학교수업듣는다용"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-30",
+            "time": "23:28:00",
+            "utterance": "인강으로"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-31",
+            "time": "00:41:00",
+            "utterance": "나 내일 내일모랴"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-31",
+            "time": "00:41:00",
+            "utterance": "오프"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-31",
+            "time": "01:09:00",
+            "utterance": "낮에 수업듣고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-31",
+            "time": "01:09:00",
+            "utterance": "저녁에 만나면 되지 않을까요?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-31",
+            "time": "01:09:00",
+            "utterance": "이제곧 #@이름#이 수업 끝나겠구먼"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-31",
+            "time": "01:13:00",
+            "utterance": "수업이라니요"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-31",
+            "time": "01:13:00",
+            "utterance": "취랬니요"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-31",
+            "time": "01:23:00",
+            "utterance": "오매"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-31",
+            "time": "01:23:00",
+            "utterance": "일이요"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-31",
+            "time": "01:23:00",
+            "utterance": "오타넴"
+        }
+    ]
+}

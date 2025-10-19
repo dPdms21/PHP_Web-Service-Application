@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fefe3bf7-c63c-545b-afc7-6c40bf2ef957",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "09:45:00",
+            "utterance": "잘 갔오요? 나는 이제 씻고 나와서 덩신ㅣㅇ 차리는 증"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "09:46:00",
+            "utterance": "오ㅓ우 아침 기억이 가물감 ㄹ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:18:00",
+            "utterance": "응응 잘 왔지요오오 헤헤헤"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:18:00",
+            "utterance": "피곤해보여서 안 꺠워써"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:18:00",
+            "utterance": "어제 체해서 그런가.."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:18:00",
+            "utterance": "하루종일 가슴팍 아래가 계속 아파서 예민했걸랑유 자꼬 나도 모르게 신경 많이 써서 그런 듯"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:18:00",
+            "utterance": "속으로 설마 암은 아니겠지함슼ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:39:00",
+            "utterance": "으구으구으구 바보"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:39:00",
+            "utterance": "지금은 괜찮아?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:39:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:39:00",
+            "utterance": "으유웃"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:39:00",
+            "utterance": "쯧쯔"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:43:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ^^ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:43:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ뭐야 ㅣ이 뚱댕이 다람쥐는!"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:43:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ큐귀여워ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "10:44:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:57:00",
+            "utterance": "귀엽지 ㅋㅋㅋㅋ 헤헤헤헤 인터넷에서 찾았어"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:57:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-14",
+            "time": "10:57:00",
+            "utterance": "호오오오 손시려워효오오오오오오오"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-14",
+            "time": "12:19:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ규ㅏ요유"
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe417931-1371-5e4c-99db-a11d2f12f648",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-04",
+            "time": "08:36:00",
+            "utterance": "넌 도착했어??"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-04",
+            "time": "09:00:00",
+            "utterance": "네! 오늘도 무사히 도착했어요 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-04",
+            "time": "09:05:00",
+            "utterance": "잘했다ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-04",
+            "time": "09:07:00",
+            "utterance": "오늘은 아침부터 사무실에 사람이 많네 회의가 일찍끝났나..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-04",
+            "time": "10:16:00",
+            "utterance": "오늘 목요일이라 너무 좋아요!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-04",
+            "time": "10:16:00",
+            "utterance": "내일만 지나가면... 주말!!!!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-04",
+            "time": "10:19:00",
+            "utterance": "맞네ㅋㅋㅋㅋ 토요일 좋아!!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-04",
+            "time": "10:19:00",
+            "utterance": "아 시간표 나온거보니까"
+        }
+    ]
+}

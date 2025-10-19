@@ -1,0 +1,209 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "af09c05e-c406-542a-89b1-0a2ac0e62be5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_자기계발_취업/이직",
+                "사람/관계_인물정보_인물정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:33:00",
+            "utterance": "나 그"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "대학 동기중에 하나가"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "언제더라 몇년전에"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "#@소속#로 이직했는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "거기"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "개발자 1인"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "최대 인센이"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:34:00",
+            "utterance": "50억이었대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!111"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "이제"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "#@기타#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "서비스 후에 입사한 개발자도"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "인센 5000쐈다나봐"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "그거 다 쓰고 죽을수는 있나요"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "그러니까말이야"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "1인 맥시멈이"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "역시...........앱으로 가야하나요.."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "50이고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "그 동기도 최소 1억은 받았을것같다고"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "대학 친구에게 전해듣고"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-03-03",
+            "time": "16:35:00",
+            "utterance": "아...친하게지낼걸.."
+        }
+    ]
+}

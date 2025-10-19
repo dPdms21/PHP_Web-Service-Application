@@ -1,0 +1,207 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd695b67-8b88-5694-aaed-15029adc1295",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "내 패션"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "ㄹ응루 최악인디"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "엥"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "언제 출발하니"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "함볼려?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "봐바"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:03:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:04:00",
+            "utterance": "안에 남방입고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:04:00",
+            "utterance": "반팔티 두장입고"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:04:00",
+            "utterance": "#@소속# 후드집업에"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:04:00",
+            "utterance": "아디디ㅏ스"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:04:00",
+            "utterance": "바지"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:04:00",
+            "utterance": "ㅋㅎ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:07:00",
+            "utterance": "극혐이넹"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:07:00",
+            "utterance": "케이스 뒤에있는"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:07:00",
+            "utterance": "돈이나 가져갈게"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:21:00",
+            "utterance": "이제"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:21:00",
+            "utterance": "출발 ㅋㅎ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:31:00",
+            "utterance": "왕"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:31:00",
+            "utterance": "피곤하겠다"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "23:31:00",
+            "utterance": "비행기 몇시에타서 몇시에"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "23:38:00",
+            "utterance": "8시에 타서"
+        }
+    ]
+}

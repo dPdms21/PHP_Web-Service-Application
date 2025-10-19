@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "83912",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_건강정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "오늘 웬열로 확진자가 1500명대네 키키"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "엥? 나는 언젠가부터 신경 안 쓰기 시작함 키키"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "너 백신 맞았어?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "나 일차 맞았고 2차는 내일모레 맞음 키키 넌,"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "나두 신경 안 써 키키"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그니까 나 화이자 맞았는데 너는"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "헐 2차 개 아프다던데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그려? 나 일차 때 한 개도 안 아파서 이상했음 키키"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "난 쫄보라서 아직 안 맞음"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "뭐여 근데 안 맞은 사람 은근 많음~"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "1차는 아프다는 사람 많이 없더라구"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "그래 너 말 듣고 무서워졌는데?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "화이자가 화장품 알러지 있으면 맞지 말라대 키키"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "화장품 알러지 가끔 일어나는데 그럼 나 맞음 안 대?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "****가 백신 맞으러 갔는데 화장품 알러지 있냐고 물어봤대 키키"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "키키 아니 나 2차 맞고 개아프면 어캄"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-10-19",
+            "time": "00:00:00",
+            "utterance": "무섭다 갑자기"
+        }
+    ]
+}

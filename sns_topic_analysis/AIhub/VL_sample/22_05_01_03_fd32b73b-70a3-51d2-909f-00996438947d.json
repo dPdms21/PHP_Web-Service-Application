@@ -1,0 +1,143 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd32b73b-70a3-51d2-909f-00996438947d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "나 잔다!!!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "나쁜넘"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "아무것도 안해주고 결국 잔대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "에베베베베베"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "해줄게 모있누ㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:14:00",
+            "utterance": "와 아예 생각을 안하고 있구몬 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "01:16:00",
+            "utterance": "빠이요오오옷💓"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:16:00",
+            "utterance": "귀여우니 봐쥰다"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:16:00",
+            "utterance": "잘장 ♥️"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "01:17:00",
+            "utterance": "제가 한 귀여움 하죠"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:17:00",
+            "utterance": "네 많이 귀엽네용"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "01:17:00",
+            "utterance": "곧 33살 치구요"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "01:18:00",
+            "utterance": "#@이모티콘# 넵 31살"
+        }
+    ]
+}

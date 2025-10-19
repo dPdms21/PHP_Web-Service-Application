@@ -1,0 +1,169 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f9ecb44c-482a-58f1-a541-dc5c937c1438",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 7,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_공공시설/교통"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:02:00",
+            "utterance": "그것대문에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:02:00",
+            "utterance": "일손업ㄱ어서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:02:00",
+            "utterance": "계속 체크한다던제"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:02:00",
+            "utterance": "2천원 주고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:02:00",
+            "utterance": "마스크비용도 준대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-03",
+            "time": "21:16:00",
+            "utterance": "음"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-03",
+            "time": "21:16:00",
+            "utterance": "그래도 불안하긴 하것다"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:17:00",
+            "utterance": "아 슬슬 나가야되는데 귀찮넹 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-03",
+            "time": "21:18:00",
+            "utterance": "후 나는 슬슬 씻어야지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-03",
+            "time": "21:18:00",
+            "utterance": "ㅋㅋ몇시까지 만나는디"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:22:00",
+            "utterance": "9:30 !!"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:24:00",
+            "utterance": "나와띠"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:32:00",
+            "utterance": "도착쓰"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:32:00",
+            "utterance": "사람 엄청없네"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-03",
+            "time": "21:35:00",
+            "utterance": "그럼"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-03",
+            "time": "21:35:00",
+            "utterance": "지금 시국이 시국인지라"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-03",
+            "time": "21:36:00",
+            "utterance": "ㅋㅋㅋㅋ#@이름#인 이제씻나유"
+        }
+    ]
+}

@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "01b3b100-eb8e-52c6-9a4a-87e2a287da08",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:40:00",
+            "utterance": "태국에선 까르푸가 까푸고"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:40:00",
+            "utterance": "로터스 쿠키가 로땃이래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "그리고 v를 이응으로 발음한대..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "헬로는 한로~~"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "이상하게읽네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "세븐일레븐은 세웬이레웬~"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "이게바로 태국식영어"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "우린 못알아들을거야"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "걔들은 그럼"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "미국가서"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-11",
+            "time": "02:41:00",
+            "utterance": "대화가 가능한가"
+        }
+    ]
+}

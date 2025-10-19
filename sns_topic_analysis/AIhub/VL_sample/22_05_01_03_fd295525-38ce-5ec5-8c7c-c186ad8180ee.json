@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd295525-38ce-5ec5-8c7c-c186ad8180ee",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_자기계발_공부/시험"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경상북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-22",
+            "time": "09:27:00",
+            "utterance": "먼데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-22",
+            "time": "09:27:00",
+            "utterance": "톡와잇엇노  똥 오래싼다고 엄마보고 투덜대면서 폰봣는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-22",
+            "time": "09:27:00",
+            "utterance": "? 빨리 나오3"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-23",
+            "time": "14:46:00",
+            "utterance": "또 방해"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-23",
+            "time": "14:46:00",
+            "utterance": "방해 엄청^^ 하고싶네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-23",
+            "time": "22:05:00",
+            "utterance": "집근처가면 전화함"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-23",
+            "time": "22:32:00",
+            "utterance": "엄마와서 급빠이"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-23",
+            "time": "22:32:00",
+            "utterance": "낼 시험치고 연락함"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-24",
+            "time": "07:39:00",
+            "utterance": "잘치고 온나"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-24",
+            "time": "11:53:00",
+            "utterance": "와 진짜"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-24",
+            "time": "11:57:00",
+            "utterance": "어렵다........"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-24",
+            "time": "14:55:00",
+            "utterance": "걸어가면 니 강의 다보겠제?"
+        }
+    ]
+}

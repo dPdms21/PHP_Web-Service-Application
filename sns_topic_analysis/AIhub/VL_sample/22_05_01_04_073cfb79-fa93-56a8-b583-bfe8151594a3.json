@@ -1,0 +1,198 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "073cfb79-fa93-56a8-b583-bfe8151594a3",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 16,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "가득찬 느낌이야"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "#@이름#가 사랑에빠졋어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "오 근데 거기서 장사하는거야?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "좋다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "미쓰리랑 결혼햇대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "자기 와이프래"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "아"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "미쓰리는 베트남사람이여)"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "#@이름#야"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "오는손님한테 자꾸 말해"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "나 유부남과"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P02",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "마이 와이프 어쩌고저쩌고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P03",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "사랑에 빠졌어"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "#@이름#는 유부남을 흠모해"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T13",
+            "participantID": "P03",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "나 미스리남편이"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T14",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "혼자 좋아하면 괜첞아"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T15",
+            "participantID": "P03",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "너무멋있어"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T16",
+            "participantID": "P01",
+            "date": "2017-09-08",
+            "time": "15:18:00",
+            "utterance": "티내지 마"
+        }
+    ]
+}

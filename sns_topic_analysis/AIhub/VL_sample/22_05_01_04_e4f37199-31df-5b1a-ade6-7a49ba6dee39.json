@@ -1,0 +1,174 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e4f37199-31df-5b1a-ade6-7a49ba6dee39",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:13:00",
+            "utterance": "일본이"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:13:00",
+            "utterance": "굿즈로 남겨 먹는 돈이 장난 아니랭"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:13:00",
+            "utterance": "걔넨 그런 물건 수집?하고 소장하는거에 집착 오져가지고 얼굴 하나 들어가도 공식굿즈면  사재낀대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "10:14:00",
+            "utterance": "ㅇ ㅏ 일본애들"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:14:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "10:14:00",
+            "utterance": "흠 너 가성비어쩌고달글을 달리고있군"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-09-26",
+            "time": "10:14:00",
+            "utterance": "나도한번기웃거려볼까나"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:14:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:14:00",
+            "utterance": "거기 좀 캐시슬라이드 감성이라섴ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:15:00",
+            "utterance": "아.. 이렇게까지..? 싶은거 좀 있는데 ㅋㅋ 그냥 경각심 가지려고 달린다"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:15:00",
+            "utterance": "나 럽힙 북마크 해제한 사람임"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:15:00",
+            "utterance": "내가 이런사람이야"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2019-09-26",
+            "time": "10:15:00",
+            "utterance": "오 ~~~~~~ ㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:15:00",
+            "utterance": "올겨울 옷 안사기 도전 하고 싶은데"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2019-09-26",
+            "time": "10:16:00",
+            "utterance": "음?"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-09-26",
+            "time": "10:16:00",
+            "utterance": "솔직히 니트 1장 정돈 살거같다"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P03",
+            "date": "2019-09-26",
+            "time": "10:16:00",
+            "utterance": "못할듯?"
+        }
+    ]
+}

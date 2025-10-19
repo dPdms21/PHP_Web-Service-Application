@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffa89c31-ddea-51bd-b06a-2bc223484eb8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "10:21:00",
+            "utterance": "다 통화중이네"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "10:21:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-21",
+            "time": "10:22:00",
+            "utterance": "나 먼저하고잇을게 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-21",
+            "time": "10:22:00",
+            "utterance": "#@이름#이 병원에서 만나~"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "10:26:00",
+            "utterance": "같이가야징"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "10:26:00",
+            "utterance": "무슨소리야"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "10:26:00",
+            "utterance": "ㅎㅎ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-21",
+            "time": "10:29:00",
+            "utterance": "한시간동안 모하게 #@이름#이 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "11:22:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "11:22:00",
+            "utterance": "기다리지몽"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "11:22:00",
+            "utterance": "ㅎㅎ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "11:22:00",
+            "utterance": "같이가는게"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "11:22:00",
+            "utterance": "더좋아"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "11:22:00",
+            "utterance": "ㅎㅎ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-21",
+            "time": "11:44:00",
+            "utterance": "7시까지 갈라면"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-21",
+            "time": "11:44:00",
+            "utterance": "6시 엔출발해야되니까.."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-21",
+            "time": "11:44:00",
+            "utterance": "나는 5시에 일어나야...와우"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "13:16:00",
+            "utterance": "그러니까"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "13:16:00",
+            "utterance": "전화를 안받아"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-21",
+            "time": "13:16:00",
+            "utterance": "여기"
+        }
+    ]
+}

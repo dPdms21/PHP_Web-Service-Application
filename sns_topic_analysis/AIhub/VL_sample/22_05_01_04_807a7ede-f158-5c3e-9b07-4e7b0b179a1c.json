@@ -1,0 +1,272 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "807a7ede-f158-5c3e-9b07-4e7b0b179a1c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 30,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_자기계발_취업/이직"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "의외로 공채 합격자들 스펙"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "높지않네....?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "자소서들의"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "신인가?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "그런가?ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "취겟에서는 쟤네보다 스펙"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "오지는 사람들"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:41:00",
+            "utterance": "롯데 삼성 현대광탈하던대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "남잔가? 붙은 사람들?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "그럴수도"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "말하다보니"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "갑자기"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "남자들이 원래 더 취직 스펙 낮아도 잘되자나"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "생각났어 와"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "진짜남잔가봐..."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:42:00",
+            "utterance": "신빙성잇따ㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "아니ㅋㅋ진짜ㅋㅋㅋㅋ성적3.8  자격증 1개 봉사활동0  토익도 900초중반, 토스도6,7"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "이정도가 합격 스펙이라는데"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "취겟에서 많은 여자들이"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "학점 4.0에 해외연수에 자격증3개"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "인턴도 1~2번~"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "토익900후반~만점 이러거든?"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:43:00",
+            "utterance": "근데 광탈오진다고 하던데ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:44:00",
+            "utterance": "남자가"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:44:00",
+            "utterance": "스펙 그러면"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-06-11",
+            "time": "20:44:00",
+            "utterance": "합격하고도 남음ㅋ"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:44:00",
+            "utterance": "그래서 내가 취겟보고 자신감 하락해서"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:44:00",
+            "utterance": "대기업엔 이력서넣을 생각도"
+        },
+        {
+            "utteranceID": "U30",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-06-11",
+            "time": "20:44:00",
+            "utterance": "못해본거거든"
+        }
+    ]
+}

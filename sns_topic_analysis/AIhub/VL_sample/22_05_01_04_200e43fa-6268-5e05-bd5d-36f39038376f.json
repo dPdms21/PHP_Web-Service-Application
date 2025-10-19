@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "200e43fa-6268-5e05-bd5d-36f39038376f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:13:00",
+            "utterance": "그분들보면 항상 막 부동산 이야기하고 주식이야기하고 그러거든"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:14:00",
+            "utterance": "지금 주식 이야기하는데 요즘 다같이 주식하나봐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:14:00",
+            "utterance": "#@기타# 웃김 다 폭락햇나봐 ㅋㅋㅋㅋ#@기타#ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:16:00",
+            "utterance": "헐ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:17:00",
+            "utterance": "진짜 주식으로 성공하는사람들은 .."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:17:00",
+            "utterance": "원래 돈 많은 놈들이라고 #@기타#"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:17:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "다들 빅히트 사신거 아녀?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "ㅋㅋㅋ#@기타#"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "개웃김"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "달고나 라떼"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "너무 오묘해"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "맛있어..."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "달고나가 녹을수록"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "ㅋㅋㅋ아ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "깊어져 맛이"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-16",
+            "time": "13:18:00",
+            "utterance": "습자지기법"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "13:19:00",
+            "utterance": "달며드네"
+        }
+    ]
+}

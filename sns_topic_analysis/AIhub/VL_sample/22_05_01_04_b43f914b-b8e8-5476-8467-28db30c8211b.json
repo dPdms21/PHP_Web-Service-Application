@@ -1,0 +1,197 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b43f914b-b8e8-5476-8467-28db30c8211b",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:38:00",
+            "utterance": "우리회사도 중구에 위치한 대기업 본사잖니?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:38:00",
+            "utterance": "그래서 어디냐 수근수근 이주변에 그런게 한두군데가 아니니께"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:38:00",
+            "utterance": "근데 설탕집이란 제보가 있었긔"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "13:39:00",
+            "utterance": "우와...."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "13:39:00",
+            "utterance": "장난 아니네회사는 투신????"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "13:39:00",
+            "utterance": "지금 이런 근무중 한낮에?????"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:41:00",
+            "utterance": "걍 극단적선택이라고만.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:43:00",
+            "utterance": "#@시스템#기타#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:43:00",
+            "utterance": "기사에서는 또 부인이 건물안에 있고 직원이 인도에서 발견된걸로 써있네"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-11-23",
+            "time": "13:44:00",
+            "utterance": "으으으"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-11-23",
+            "time": "13:44:00",
+            "utterance": "으으으"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-11-23",
+            "time": "13:44:00",
+            "utterance": "왜그래ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:44:00",
+            "utterance": "22일에 발견이면 주말인데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2020-11-23",
+            "time": "13:46:00",
+            "utterance": "그러게 어젠데.."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2020-11-23",
+            "time": "13:46:00",
+            "utterance": "무섭고만.."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "13:47:00",
+            "utterance": "오잉"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "13:47:00",
+            "utterance": "그러게 휴일이라 목격자가 없대"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "13:47:00",
+            "utterance": "아니 부인을 사무실에서 왜 찔러..."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:52:00",
+            "utterance": "찌르고 숨긴거 아닐까?"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "13:53:00",
+            "utterance": "사내부부면 모르겠지만 걍 가족이 왜 회사를 왔지"
+        }
+    ]
+}

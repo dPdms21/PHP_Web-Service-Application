@@ -1,0 +1,197 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd03f9b0-ca4c-5470-8059-1a01e792915b",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:09:00",
+            "utterance": "긍까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-09-11",
+            "time": "18:09:00",
+            "utterance": "뱀 한마리?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-09-11",
+            "time": "18:09:00",
+            "utterance": "커?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:09:00",
+            "utterance": "두마리였나"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:09:00",
+            "utterance": "안컸어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:09:00",
+            "utterance": "#@이름#검색하네~~ㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-09-11",
+            "time": "18:10:00",
+            "utterance": "아냐아냐~~ 태몽 아냐~"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:10:00",
+            "utterance": "뭐야?태몽도 있다했는데.."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:10:00",
+            "utterance": "아닌가부네"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2016-09-11",
+            "time": "18:10:00",
+            "utterance": "걍 길몽이래~~"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:11:00",
+            "utterance": "로또를해야겠네"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:11:00",
+            "utterance": "ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2016-09-11",
+            "time": "18:11:00",
+            "utterance": "돈들어오거나 귀인을 만나 도움을 받아 출세하는꿈~"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2016-09-11",
+            "time": "18:11:00",
+            "utterance": "이야~~~~~"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:11:00",
+            "utterance": "야~~1등?~~ㅋㅋㅋ 기다려라~~당첨되면 차사줄께^^"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P03",
+            "date": "2016-09-11",
+            "time": "18:12:00",
+            "utterance": "저앙~~~"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:12:00",
+            "utterance": "임산부는 빼고"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P03",
+            "date": "2016-09-11",
+            "time": "18:12:00",
+            "utterance": "꼭사라~~~말만말고~~"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:12:00",
+            "utterance": "문제는 사야한다는거~~~"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2016-09-11",
+            "time": "18:12:00",
+            "utterance": "근데 안산다는거~~"
+        }
+    ]
+}

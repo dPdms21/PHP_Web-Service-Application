@@ -1,0 +1,185 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "92230f49-1c7b-583f-b842-9af3f9befc42",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_미용",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "가격은 어케대?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "레이저??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "그게"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "비너스비바>코레지>레가토"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "이순서대로 좋구"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "가격도 이순서대로 비싸 ㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "아하.. 비너스비바가 얼만데?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:52:00",
+            "utterance": "비너스비바가 50만원"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "그래서 예비신부들이"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "피부관리하면서 받는거고"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "코레지가 43만원 이랬고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "레가토가 33이래"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "별 생각없었는데"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "이렇게"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "들으니까"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "비싸네"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "01:53:00",
+            "utterance": "근데 여기 피부과가 싼거래ㅠ"
+        }
+    ]
+}

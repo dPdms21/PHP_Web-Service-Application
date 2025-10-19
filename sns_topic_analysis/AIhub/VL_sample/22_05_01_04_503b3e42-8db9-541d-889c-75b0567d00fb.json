@@ -1,0 +1,96 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "503b3e42-8db9-541d-889c-75b0567d00fb",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 6,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "18:58:00",
+            "utterance": "장은 다 봣어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "18:58:00",
+            "utterance": "근데 어디서 봤는데 막 서울 저런 옛날 아파트인데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "18:58:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "18:58:00",
+            "utterance": "겉은 저런데 안에 인테리어는 진짜 삐까뻔쩍한데도 있대ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "18:58:00",
+            "utterance": "거의 다 봐가ㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "18:58:00",
+            "utterance": "그거 유재석이 사는 아파트 일껄"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "18:59:00",
+            "utterance": "압구정 현대 아파트"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "18:59:00",
+            "utterance": "압구정ㅋ"
+        }
+    ]
+}

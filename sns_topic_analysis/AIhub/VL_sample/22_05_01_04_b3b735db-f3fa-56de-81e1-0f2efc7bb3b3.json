@@ -1,0 +1,197 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b3b735db-f3fa-56de-81e1-0f2efc7bb3b3",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-06-27",
+            "time": "10:31:00",
+            "utterance": "진지하시네 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "10:33:00",
+            "utterance": "ㅋㅋㅋㅋ궁금해서 그렇습니다"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "10:33:00",
+            "utterance": "한수 배워보고싶기도 하고요"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "10:33:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:57:00",
+            "utterance": "헐 대박이네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:57:00",
+            "utterance": "리얼????ㅔㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:57:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:57:00",
+            "utterance": "이언니 왜이러고사냐 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "아니 나 친구한테 들은걸로는"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "송#@이름#가 임신해서 결혼했다는 얘기도있네"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "근데 유산했가고"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "뭐 송중기가 의처증이네 어쩌고 이런얘기도있고"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "ㅋㅋㅋㅋ 와우 점점 늘어나는 이야기들"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "임신했다고 거짓말한거란 얘기도있고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "11:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "12:00:00",
+            "utterance": "의처증까진 아니어도 나도 진짜 너무 불안할듯"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "12:00:00",
+            "utterance": "송중기가 손찌검 햇단 얘기도 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2019-06-27",
+            "time": "12:00:00",
+            "utterance": "그래사 송#@이름#가 중국간거라고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-06-27",
+            "time": "12:00:00",
+            "utterance": "그럼 대박이구욤"
+        }
+    ]
+}

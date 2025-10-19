@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "04463c45-8a37-5851-9fd7-9ad6da8835cd",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "16:35:00",
+            "utterance": "10프로면 해줄만 한데.."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "16:47:00",
+            "utterance": "주최측의 음모다ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "16:47:00",
+            "utterance": "Lte를 하나 넣어줘야지ㅡㅜ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "16:50:00",
+            "utterance": "그니까.."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "16:50:00",
+            "utterance": "우짜냐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "16:51:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "16:57:00",
+            "utterance": "흠 애매하규몬"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "16:58:00",
+            "utterance": "근데 이번엔 바꾸긴 해야겠어"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "16:59:00",
+            "utterance": "ㅇㅇ 바꿓야지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "16:59:00",
+            "utterance": "생각해바"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:25:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:25:00",
+            "utterance": "웅웅 알게쑈!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:28:00",
+            "utterance": "1년뒤에 지원 통신사가 바뀐다는 말도 있네"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:28:00",
+            "utterance": "그럼 skt로 2년 약정했다가 1년뒤에는 지원 못받게 되는건데ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:28:00",
+            "utterance": "강 sd카드 사서 용량만 늘리까ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "17:28:00",
+            "utterance": "ㅋㅋㅋ 못바꿔"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:28:00",
+            "utterance": "1년 더 참아야되나ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "17:28:00",
+            "utterance": "바꿔도 2년뒤일가야"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-10-29",
+            "time": "17:29:00",
+            "utterance": "음.. 그렇겠지?"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-10-29",
+            "time": "17:29:00",
+            "utterance": "그런 소리누맨날 나오쥬"
+        }
+    ]
+}

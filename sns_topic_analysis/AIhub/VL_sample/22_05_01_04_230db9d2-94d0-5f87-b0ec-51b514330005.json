@@ -1,0 +1,248 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "230db9d2-94d0-5f87-b0ec-51b514330005",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 27,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_학교"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대 미만",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "1명?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "ㅇㅇ아마"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "근데가고오는시간도글코"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "여자애한명 문관데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "어차피 학교가서 걔속 졸다올건데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "남자1명은 이과고"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "남은한명은 누군지모름"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "집와서 밥먹으면 벌써3시"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "졸다온댕ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "남2여4이면"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:22:00",
+            "utterance": "개안을듯"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "야근데갑자기생각났는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "이거정말하"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "머리 여자숏컷처럼안하고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "완전남자처럼 투블럭을하면"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "레즈같아보임.......?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "아무도 그런말은 안했는데"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "#@기타#레즈?"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "갑자기레즈가왜나옴"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "학교에 지금우리학년하고"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "윗학넌잏는대"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "둘다 정마루남자같이생걌는데"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:23:00",
+            "utterance": "레즈라는 소문이 자자함.."
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:24:00",
+            "utterance": "레즈아니면 이성애자"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-04-19",
+            "time": "22:24:00",
+            "utterance": "하......."
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-04-19",
+            "time": "22:24:00",
+            "utterance": "뷁..."
+        }
+    ]
+}

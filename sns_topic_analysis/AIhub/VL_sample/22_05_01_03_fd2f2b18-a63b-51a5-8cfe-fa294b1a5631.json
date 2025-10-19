@@ -1,0 +1,151 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd2f2b18-a63b-51a5-8cfe-fa294b1a5631",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 15,
+            "numberOfTurns": 11,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "20:22:00",
+            "utterance": "타고 가고 있슈💕"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-20",
+            "time": "20:47:00",
+            "utterance": "알겠어요💕"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "20:49:00",
+            "utterance": "올 수 있나유~~? 💕"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-20",
+            "time": "20:51:00",
+            "utterance": "웅💕"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "20:52:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-20",
+            "time": "21:36:00",
+            "utterance": "나 이제 출발해요💕"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "21:41:00",
+            "utterance": "앙앙 조심히와유💕"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-08-20",
+            "time": "22:09:00",
+            "utterance": "나 도착했어💕"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "헐!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "난 아직 케텍이쥬ㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "14분 도착이니까 ㅜ ㅠㅠ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "3번쪽읋 나와서 신호등 건너면 돼💕"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "일단 돌고 있을께💕"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "흐앙 알쑤!! 💕"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-08-20",
+            "time": "22:10:00",
+            "utterance": "이제 잠시흐 더착이래"
+        }
+    ]
+}

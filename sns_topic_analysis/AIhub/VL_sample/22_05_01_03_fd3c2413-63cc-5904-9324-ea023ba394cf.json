@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd3c2413-63cc-5904-9324-ea023ba394cf",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_학교"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:03:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:03:00",
+            "utterance": "설계실에 컴퓨터 있어서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:03:00",
+            "utterance": "겜하러 왓엉"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-12",
+            "time": "21:05:00",
+            "utterance": "나두갈래"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-12",
+            "time": "21:07:00",
+            "utterance": "패딩입을껄....."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:08:00",
+            "utterance": "어딜"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:08:00",
+            "utterance": "와"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:08:00",
+            "utterance": "설계실??"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-12",
+            "time": "21:09:00",
+            "utterance": "와"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-12",
+            "time": "21:09:00",
+            "utterance": "생각보다 너무 고퀄"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:09:00",
+            "utterance": "이렇게 생겼어"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-12",
+            "time": "21:09:00",
+            "utterance": "#@이름#이 방인줄"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:09:00",
+            "utterance": "너 또 꾸민다고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:09:00",
+            "utterance": "춥게 입고갔지?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-11-12",
+            "time": "21:10:00",
+            "utterance": "보돌보돌 응고라"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-11-12",
+            "time": "21:10:00",
+            "utterance": "그거"
+        }
+    ]
+}

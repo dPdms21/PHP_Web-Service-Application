@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fc546e14-0d29-567e-9e8b-2f160478d46b",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-06",
+            "time": "16:24:00",
+            "utterance": "근데 #@이름#가 말해줬는데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-06",
+            "time": "16:24:00",
+            "utterance": "개어이없는 소리 들어쎀ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-06",
+            "time": "16:25:00",
+            "utterance": "내가 조교님 좋아한다는 소문이 돈대 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-06",
+            "time": "16:25:00",
+            "utterance": "#@기타# 금시초문이라... 이해 무 어이 무"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2015-12-06",
+            "time": "16:25:00",
+            "utterance": "나도 눈이 달렸는데....;;"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-12-06",
+            "time": "16:28:00",
+            "utterance": "헐??????"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-12-06",
+            "time": "16:28:00",
+            "utterance": "???????"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-12-06",
+            "time": "16:28:00",
+            "utterance": "개뜬금"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2015-12-06",
+            "time": "16:29:00",
+            "utterance": "#@기타#뜬금데스..."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2015-12-06",
+            "time": "16:29:00",
+            "utterance": "진짜 개어이없짘ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-12-06",
+            "time": "16:29:00",
+            "utterance": "누가소문냇냐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2015-12-06",
+            "time": "16:29:00",
+            "utterance": "악의적이다"
+        }
+    ]
+}

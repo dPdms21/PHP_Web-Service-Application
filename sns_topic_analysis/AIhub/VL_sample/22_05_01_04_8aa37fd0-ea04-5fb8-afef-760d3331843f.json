@@ -1,0 +1,198 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "8aa37fd0-ea04-5fb8-afef-760d3331843f",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_금융_투자"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "#@시스템#검색#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "제약삿냐?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "아니 걍 셀트"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "제약 들갈까???ㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "고놈이"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "고놈같은데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "제약이나 헬스케어나"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-15",
+            "time": "13:27:00",
+            "utterance": "세트지 뭐 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:29:00",
+            "utterance": "바이오쪽은 폭이 커서 잘 모르겄다"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:29:00",
+            "utterance": "8퍼가 어떤 느낌인지를 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2021-01-15",
+            "time": "13:30:00",
+            "utterance": "셀트떨지네 들랖까"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2021-01-15",
+            "time": "13:30:00",
+            "utterance": "들갈타이밍인가"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:31:00",
+            "utterance": "#@이름# 폐허 ㄱㄱ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:31:00",
+            "utterance": "#@이름# 셀트 들가라"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:32:00",
+            "utterance": "함께하자"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:32:00",
+            "utterance": "난 어제.들가서"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:32:00",
+            "utterance": "망했지만"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-15",
+            "time": "13:32:00",
+            "utterance": "오늘은 괜찮을듯 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2021-01-15",
+            "time": "13:34:00",
+            "utterance": "셀트 더 떨질거같은디"
+        }
+    ]
+}

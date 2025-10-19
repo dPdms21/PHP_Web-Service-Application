@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff3ba4e2-ee33-5d75-b7c2-9bf3eb5ea718",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:00:00",
+            "utterance": "솔직히"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:00:00",
+            "utterance": "이제 샤프 돌려줘라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "나 샤프없어서 둘리연필쓴다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "왜 안가져갈까"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "연필꽂이에 있는디,,"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "내방 책상에 가져다 놔주라"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "책상"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "나 집갈때면 이미 꾸마가 방을 장악애서"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:01:00",
+            "utterance": "인정하는구먹"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "장악해서"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "자꾸 짖어서"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "방에 책상도 있고"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "좋은 삶이군"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "이황선생이랑"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "사실밥상임"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "비슷한 책상일 듯"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "15:02:00",
+            "utterance": "성균관대 책상인줄;"
+        }
+    ]
+}

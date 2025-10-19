@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd6458c4-906e-50bd-8146-35467ac51d94",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "보여줫어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "이거 보라고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "신나서?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "그때 앨범이랑 택배왔는데 안 뜯고 있었단 말이지"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "귀찮아서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "#@시스템#검색#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "그러다 #@이름#선배 나 #@이름#선배"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "넷이서 술마실때"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "#@이름#선배가 이거 뭐냐고 뜯어봐도 되냐고 블랙핑크"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:06:00",
+            "utterance": "그래서 알게됐오"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:07:00",
+            "utterance": "신기해라"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:07:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:07:00",
+            "utterance": "방에 걸려있나"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:08:00",
+            "utterance": "모르겠네 호호"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:12:00",
+            "utterance": "난 이시간만 되면 배고파"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-01-28",
+            "time": "17:12:00",
+            "utterance": "고구마 먹어야지"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-01-28",
+            "time": "17:13:00",
+            "utterance": "히히 좋아! 간식거리로 딱이다!"
+        }
+    ]
+}

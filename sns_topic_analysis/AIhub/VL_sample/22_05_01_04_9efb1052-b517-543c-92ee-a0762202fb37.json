@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "9efb1052-b517-543c-92ee-a0762202fb37",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "광주광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:07:00",
+            "utterance": "3단계 되면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:07:00",
+            "utterance": "공장도 안 돌아가서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:07:00",
+            "utterance": "단순히 재택으로 끝나는 게 아니고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:07:00",
+            "utterance": "제조업이 멈추니까"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:07:00",
+            "utterance": "온라인에서 물건 사고 싶어도 못 산대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "17:08:00",
+            "utterance": "여러곳에 타격이 많이 가네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:08:00",
+            "utterance": "그래서 외국에서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-22",
+            "time": "17:08:00",
+            "utterance": "사재기 현상 나왔던 거라는데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "17:08:00",
+            "utterance": "아 그래서 사재기한거구나"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-22",
+            "time": "17:08:00",
+            "utterance": "몰랐다..."
+        }
+    ]
+}

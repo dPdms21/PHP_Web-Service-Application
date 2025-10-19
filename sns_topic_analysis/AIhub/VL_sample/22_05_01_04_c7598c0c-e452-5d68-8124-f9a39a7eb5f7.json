@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c7598c0c-e452-5d68-8124-f9a39a7eb5f7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_인물"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "세상에.,,"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "그래서 #@이름#가 에오에이 탈퇴한건가..."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "그렇대....."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "그 주동자가 지민이래"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "다른 멤버들이랑은 사이 좋았고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "지민이 계속 괴롭혔는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "#@이름#가 인스타에 폭로글 올리니까"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "지민이 인스타스토리에"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:30:00",
+            "utterance": "소설"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:31:00",
+            "utterance": "딱 이 두 글자만 써놓음"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:31:00",
+            "utterance": "세상에..."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:31:00",
+            "utterance": "다른멤버들이랑 사이가 좋은거면"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:31:00",
+            "utterance": "지민이랑만 문제가 잇엇던건가??"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:37:00",
+            "utterance": "그렇대"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-03",
+            "time": "16:37:00",
+            "utterance": "지민 빼고는 에오에이 활동 하는 거 행복했대"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:37:00",
+            "utterance": "와..."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-03",
+            "time": "16:37:00",
+            "utterance": "왜그러지"
+        }
+    ]
+}

@@ -1,0 +1,120 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffe4eff8-76bc-54ed-a461-b1c190604653",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 6,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_공공시설/교통"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "야 너 노량진이라매"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "나 아직 학교에서 가는중이여서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "너가 더 빨리 카페갈수도 잇겟다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "ㅇㅇ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "#@이름#이랑 밥먹고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "감"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "자리 좋은데 잡아주세영"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-08",
+            "time": "19:18:00",
+            "utterance": "지하철은 탐?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-08",
+            "time": "19:19:00",
+            "utterance": "구석탱이로"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-08",
+            "time": "19:19:00",
+            "utterance": "ㅇㅇㅇ가는길임"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-04-08",
+            "time": "19:19:00",
+            "utterance": "ㅇㅋ"
+        }
+    ]
+}

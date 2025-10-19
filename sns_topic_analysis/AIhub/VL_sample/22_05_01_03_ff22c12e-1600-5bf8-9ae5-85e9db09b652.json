@@ -1,0 +1,272 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff22c12e-1600-5bf8-9ae5-85e9db09b652",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 30,
+            "numberOfTurns": 15,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_공공시설/교통"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대 미만",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:45:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:46:00",
+            "utterance": "학교에 길물어보는 아줌마들이랑 고딩들 천지임"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:47:00",
+            "utterance": "감회가 새롭겠네"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:47:00",
+            "utterance": "#@소속# 오고싶어 난린애들일텐데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:48:00",
+            "utterance": "근데 왜 벌써들옴? 시간이 아직이던데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "미리와서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "엄마랑"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "밥먹고 가는듯"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "그게 안전하긴하지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "아 맞어 그러더라"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "옛날에 성대그랬어 국수나무 갈때"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:49:00",
+            "utterance": "애들만나 밥먹는다며"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:50:00",
+            "utterance": "우리떠날때 톡할께"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:50:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:50:00",
+            "utterance": "아빠랑 연락해보구"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "12:50:00",
+            "utterance": "난 계속 학교에 있을게"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "12:50:00",
+            "utterance": "ㅇ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "16:39:00",
+            "utterance": "지금 경진탐"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "16:39:00",
+            "utterance": "니 점 오래 기다릸"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "16:40:00",
+            "utterance": "상관무!"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "16:40:00",
+            "utterance": "동아리방에서 할거마너"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "16:40:00",
+            "utterance": "그래"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "17:40:00",
+            "utterance": "사당 도착했어?"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "17:40:00",
+            "utterance": "거의 다왔는데 막혀"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "17:40:00",
+            "utterance": "아빠는 동작역서 기다리고"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "17:40:00",
+            "utterance": "니 아마 직접 병원으로 와야됤"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "17:41:00",
+            "utterance": "동작서 만나 출발하면 서 전화할께"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "17:41:00",
+            "utterance": "한시간이나 걸리네"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2016-11-19",
+            "time": "17:48:00",
+            "utterance": "사당도착"
+        },
+        {
+            "utteranceID": "U30",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2016-11-19",
+            "time": "17:49:00",
+            "utterance": "나 따로가는게 나음?"
+        }
+    ]
+}

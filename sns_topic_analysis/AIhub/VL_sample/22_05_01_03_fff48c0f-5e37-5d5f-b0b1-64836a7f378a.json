@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fff48c0f-5e37-5d5f-b0b1-64836a7f378a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "세종특별자치시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:32:00",
+            "utterance": "저는 왤케"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:32:00",
+            "utterance": "바보같져"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:37:00",
+            "utterance": "왜엽??"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:38:00",
+            "utterance": "음"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:43:00",
+            "utterance": "연락점욧"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:43:00",
+            "utterance": "네 ??"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:43:00",
+            "utterance": "전화할까여 ??"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:43:00",
+            "utterance": "저 데스크톱 분리해서 하다가 못봤어욥"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:44:00",
+            "utterance": "음 잠깐 내려와요 ㅎㅅㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:50:00",
+            "utterance": "엥"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:50:00",
+            "utterance": "몇층이요 ????"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "잠만여"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "당장내려갈게요"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "천천히 와야"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "요"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "앜ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-15",
+            "time": "18:51:00",
+            "utterance": "귀여옹"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-15",
+            "time": "18:54:00",
+            "utterance": "아 붙잡혔어서"
+        }
+    ]
+}

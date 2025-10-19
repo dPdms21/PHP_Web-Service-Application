@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c6a123f2-b00c-53dd-8afe-a21de82cfc97",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 18,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "17:45:00",
+            "utterance": "놀라운거말해줄까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "17:46:00",
+            "utterance": "먼데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "17:47:00",
+            "utterance": "사람이 매일 하는행동 중 40%이상이 습관의 결과물이래"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "17:50:00",
+            "utterance": "오그래?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "17:51:00",
+            "utterance": "웅웅 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:00:00",
+            "utterance": "그러면 무의식적으로 하는 행동도 전부 습관인가?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "18:01:00",
+            "utterance": "무섭네ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:02:00",
+            "utterance": "아니 맞냐고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "18:18:00",
+            "utterance": "전부는 아니구 대부분은 그럴듯"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:27:00",
+            "utterance": "오오"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "18:27:00",
+            "utterance": "글구 가난한사람들의 공통적습관이 있대"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:38:00",
+            "utterance": "궁금하네"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "18:39:00",
+            "utterance": "매일 두잔이상 취할정도로 술마시기래 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:40:00",
+            "utterance": "이런.. .."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "18:40:00",
+            "utterance": "그리고 저축 안하는거래 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:42:00",
+            "utterance": "그건 좀 뻔했다"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T17",
+            "participantID": "P01",
+            "date": "2020-03-31",
+            "time": "18:42:00",
+            "utterance": "그리고 운동안하기 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T18",
+            "participantID": "P02",
+            "date": "2020-03-31",
+            "time": "18:43:00",
+            "utterance": "운동해야겠다 진짜..ㅋㅋ"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "6d1f0a09-f745-58a1-8e73-c0c5072db5b3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-17",
+            "time": "16:46:00",
+            "utterance": "야 근데 진짜 공대다니는 남자는"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-17",
+            "time": "16:46:00",
+            "utterance": "다 체크남방 입냐?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-17",
+            "time": "16:46:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ너 그런말이 괜히 있는줄 아냐?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-17",
+            "time": "16:46:00",
+            "utterance": "ㅋㅋㅋㅋ 아 진짜 입냐 ?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-17",
+            "time": "16:46:00",
+            "utterance": "ㅇㅇ진짜 우리과만 해도 몇명은 고정임"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-17",
+            "time": "16:47:00",
+            "utterance": "깔별로 있나봐 체크남방이"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-17",
+            "time": "16:47:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ오 신기하네^^"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-17",
+            "time": "16:47:00",
+            "utterance": "그런 소문이 사실이었구나 ㅎㅎ"
+        }
+    ]
+}

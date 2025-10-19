@@ -1,0 +1,215 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffd3228e-2bf0-5066-9f88-e9f47717f3c3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 23,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:14:00",
+            "utterance": "웅...."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:14:00",
+            "utterance": "아님 카택으로 결제할까??....."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:15:00",
+            "utterance": "분실카드리서 사용불가 뜨네..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:15:00",
+            "utterance": "짜증낫"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "14:16:00",
+            "utterance": "으이구"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "14:16:00",
+            "utterance": "다오면 전화혀"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:16:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "14:42:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:42:00",
+            "utterance": "준비하고잇쳐"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:42:00",
+            "utterance": "그냥 편하게 간당?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "14:42:00",
+            "utterance": "융융"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:43:00",
+            "utterance": "뿡스빵스"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:43:00",
+            "utterance": "아씨 급하게 수건 썼는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "14:43:00",
+            "utterance": "이거 #@이름#수건가틈 ;;"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "14:54:00",
+            "utterance": "천천히 오삼유"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "15:01:00",
+            "utterance": "쌩얼로 가도"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "15:01:00",
+            "utterance": "되나효..?!"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "15:08:00",
+            "utterance": "냅"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "15:08:00",
+            "utterance": "천천히 오셈유"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-12-17",
+            "time": "15:08:00",
+            "utterance": "배고파팝"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "15:09:00",
+            "utterance": "밥 간단하게"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "15:09:00",
+            "utterance": "먹구와"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2020-12-17",
+            "time": "15:16:00",
+            "utterance": "먹고 오쇼잉"
+        }
+    ]
+}

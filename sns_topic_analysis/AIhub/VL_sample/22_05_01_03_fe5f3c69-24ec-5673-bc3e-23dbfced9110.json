@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe5f3c69-24ec-5673-bc3e-23dbfced9110",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "희희 언니가 대신 즐거웠으니 다행이얌 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "온니 근데 향은 안 받아왔옹...?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "웅 향 안주던뎅.ㅡ?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "참가자한테 다 향 주는뎅...내가 설명은 못해줘서 못받았나??"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "헐..."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "앗 그래?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "원래 참가하면 파티참가자한테 향을 나눠주는데.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "내가 말을 안해줘서 언니가 못챙겼나봐 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-06",
+            "time": "11:45:00",
+            "utterance": "파티간 다른 친구한테 함 물어볼겜 ㅠ"
+        }
+    ]
+}

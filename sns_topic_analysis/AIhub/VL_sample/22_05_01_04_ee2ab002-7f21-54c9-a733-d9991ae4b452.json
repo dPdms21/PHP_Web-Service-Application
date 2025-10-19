@@ -1,0 +1,145 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ee2ab002-7f21-54c9-a733-d9991ae4b452",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "13:13:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ골든구스같이"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "13:14:00",
+            "utterance": "근데 넘이뽀 깔끔혀"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:18:00",
+            "utterance": "내말이"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:18:00",
+            "utterance": "골든구스도하나사야겟다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:18:00",
+            "utterance": "다음에^_^"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:18:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:18:00",
+            "utterance": "근데골든구스는 착화감이 똥이래"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "13:24:00",
+            "utterance": "ㅁㅈ 그럴것같아 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "13:24:00",
+            "utterance": "딱딱해가지고"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:25:00",
+            "utterance": "이쁘긴한데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "13:25:00",
+            "utterance": "휘뚜루마뚜루"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-07",
+            "time": "13:38:00",
+            "utterance": "ㅁㅈ 은색도이쁘더라구"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "14:08:00",
+            "utterance": "구칭"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-07",
+            "time": "14:08:00",
+            "utterance": "기본!!"
+        }
+    ]
+}

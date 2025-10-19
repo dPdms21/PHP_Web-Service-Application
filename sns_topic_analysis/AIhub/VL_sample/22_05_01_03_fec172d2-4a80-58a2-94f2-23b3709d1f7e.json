@@ -1,0 +1,109 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fec172d2-4a80-58a2-94f2-23b3709d1f7e",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-10-16",
+            "time": "15:37:00",
+            "utterance": "아니..이제진짜"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-10-16",
+            "time": "15:37:00",
+            "utterance": "술이안받나봐"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-10-16",
+            "time": "15:37:00",
+            "utterance": "취하는것보다속이넘안좋아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-10-16",
+            "time": "15:38:00",
+            "utterance": "너무마니마신고아냐??"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-10-16",
+            "time": "15:45:00",
+            "utterance": "그렇게 많이마시지않은거같은데.."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-10-16",
+            "time": "15:45:00",
+            "utterance": "막 과일소주같은거먹어쏘"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-10-16",
+            "time": "15:45:00",
+            "utterance": "복숭아막걸리랑.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2016-10-16",
+            "time": "15:46:00",
+            "utterance": "막걸리는원래숙취가쎄서그런거아닐까"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2016-10-16",
+            "time": "15:46:00",
+            "utterance": "마자"
+        }
+    ]
+}

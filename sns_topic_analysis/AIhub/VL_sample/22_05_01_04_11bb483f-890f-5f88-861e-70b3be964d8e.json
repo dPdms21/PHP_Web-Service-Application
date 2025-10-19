@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "11bb483f-890f-5f88-861e-70b3be964d8e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:20:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:20:00",
+            "utterance": "유튜브에서"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:20:00",
+            "utterance": "봤는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:20:00",
+            "utterance": "중국 전문가가"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:20:00",
+            "utterance": "내년 봄에 다시 유행할수도"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:20:00",
+            "utterance": "있대 ;"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "대박이지"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "뭐..?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "이거..?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "코로나 ???"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "응.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "근데진짜"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "오바야 ㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "뭔가 백신만들어져도"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "변종할수있을거같지않니 ;"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-03-22",
+            "time": "10:21:00",
+            "utterance": "안돼 ㅠㅠㅠㅠㅠㅠㅠㅠㅠ"
+        }
+    ]
+}

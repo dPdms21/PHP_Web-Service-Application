@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e91809de-b8d1-5a2d-905d-2cfbed2e6181",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "그냥 흔들려하는건"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "맞는거같드라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "엄마야엄마야!!!!!!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "#@이름#가 뺏는건가~~!!!!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "난리났네 난리났어~~~"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:03:00",
+            "utterance": "근데 그 똥차를 어마어마하게 버리기 힘드나바"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "진짜 그 똥차가"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "#@이름#보다도"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "작대"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "...뭐야 ㅜ 대체 황금으로 빚은 똥차야?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "나는 정말..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "뭔데 대체"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "그친구 너무"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "속상하더라"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-31",
+            "time": "01:04:00",
+            "utterance": "하.."
+        }
+    ]
+}

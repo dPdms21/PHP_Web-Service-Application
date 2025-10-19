@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "be317c17-e198-50de-9a5b-84d0b9693120",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "아~"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "그치!"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "😏"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "금술참좋아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "아이를좋아하는건가"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "또 아들이면 우째"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:29:00",
+            "utterance": "나"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "다른 아기 인스타 있는데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "그 아기네 넷째 가졋단 말이야"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "두둥!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "여자 28 남자 30인데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "혹시 그게 그 태몽?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "아~"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "21살에 첫째 낳고"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "헐랭"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "아니어니 좀 됏어"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-02-09",
+            "time": "11:30:00",
+            "utterance": "남편"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcd60db2-366d-5101-9e33-7bd5bde1e0e4",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "님"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "내림 나 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "이성당 컵 쩐다"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "저렇게 예뻤나?ㅎ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "오..! 드뎌 더칙?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "예쁘지ㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "엉 대박쓰"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "낼 출근쓰?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "놉 모래"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "다행입니다..."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "ㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "낼츌근이면"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "오늘아침각....ㅠㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:41:00",
+            "utterance": "ㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-01-27",
+            "time": "00:42:00",
+            "utterance": "그래두 빨리 올라가셨네여 ㅠㅠ"
+        }
+    ]
+}

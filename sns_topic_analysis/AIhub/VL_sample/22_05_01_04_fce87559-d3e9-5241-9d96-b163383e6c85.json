@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fce87559-d3e9-5241-9d96-b163383e6c85",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "15:37:00",
+            "utterance": "#@시스템#기타#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "15:38:00",
+            "utterance": "시간날때 요거 해주라 ㅜㅜ ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-21",
+            "time": "16:29:00",
+            "utterance": "했어"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-01-21",
+            "time": "16:30:00",
+            "utterance": "이거하면수수료없이할수있대?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "16:31:00",
+            "utterance": "그런가봐 3명 하면 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "16:31:00",
+            "utterance": "근데ㅜ모르지 모 ㅜㅡ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-01-21",
+            "time": "16:58:00",
+            "utterance": "세명채웠어?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:07:00",
+            "utterance": "웅웅 ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:07:00",
+            "utterance": "근데 저거 전화해도 다 안받넹 ㅡㅡ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-01-21",
+            "time": "17:23:00",
+            "utterance": "방주인들이전화안받아?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:23:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:23:00",
+            "utterance": "다 부동산이야 저거"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:23:00",
+            "utterance": "안심번호라고 통화내용 녹음되는거 같은데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:24:00",
+            "utterance": "5군데 전화했는데 통화된곳은 한곳 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-01-21",
+            "time": "17:37:00",
+            "utterance": "수수료 무료라고 다무시하는건가보네"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:41:00",
+            "utterance": "푸핫 ㅎㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:41:00",
+            "utterance": "그전에 했는뎅 ? ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:41:00",
+            "utterance": "통화된곳 설대 입구에 있다고 낼 오래서 가려공"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-01-21",
+            "time": "17:41:00",
+            "utterance": "#@이름#이 같이 가준다길래 알게따캄ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-01-21",
+            "time": "17:41:00",
+            "utterance": "어떤데?"
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e7a81f4f-c197-5ced-a8a4-caa0f51169ae",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-02-14",
+            "time": "16:25:00",
+            "utterance": "#@이름# 거기서 수업할 때"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-02-14",
+            "time": "16:25:00",
+            "utterance": "영어로 수업한다며?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-02-14",
+            "time": "16:25:00",
+            "utterance": "그래서 애들이 잘 못 알아 듣겠다고 했다던데 ㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-02-14",
+            "time": "16:33:00",
+            "utterance": "응??? 왜 영어로 강의..."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "16:45:00",
+            "utterance": "너무하다 하나의 수단ㅇ라니.... 그렇진 않을거임 인재를 놓친다고 생각하지"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "16:45:00",
+            "utterance": "진짜 갑작스런 면접보느라 수고해쭁"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "16:45:00",
+            "utterance": "영어 강의라니.... 쯥..."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-02-14",
+            "time": "16:47:00",
+            "utterance": "실상 그래요 언니 ㅋㅋㅋ 진짜 여기있다보면 그냥 도구가 된 기분이에요"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-02-14",
+            "time": "16:48:00",
+            "utterance": "영어에 자신감 넘치나보다"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-02-14",
+            "time": "16:48:00",
+            "utterance": "애들 중국인인뎈ㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "16:54:00",
+            "utterance": "그럼 일단 나와 나와도 안 굶을겨! 영어에 자긴감이 넘쳐도......... 영어라니...."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-02-14",
+            "time": "16:55:00",
+            "utterance": ".... ㅋㅋㅋㅋㅋㅋㅋ 대단하군 #@이름#가 그러디?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "17:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋ 절레절레다 진짜ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2017-02-14",
+            "time": "18:27:00",
+            "utterance": "아니ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2017-02-14",
+            "time": "18:28:00",
+            "utterance": "협정대인가? 무튼 저녁에 하는 수업 그거 같이 하는 쌤이 그렇다규 하더라고 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2017-02-14",
+            "time": "18:29:00",
+            "utterance": "근데 애들이 영어를 알아들어서 영어류 수업을 하는 게 아닌데듀 그런다고"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "18:29:00",
+            "utterance": "애들 멘붕이게똬ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2017-02-14",
+            "time": "18:29:00",
+            "utterance": "훔....."
+        }
+    ]
+}

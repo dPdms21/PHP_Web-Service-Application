@@ -1,0 +1,182 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd1b198d-6c68-5463-9eae-879f0d53dd4a",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:57:00",
+            "utterance": "아니 근데 오늘 진짜...."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:57:00",
+            "utterance": "저 궁디는 따숩고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:57:00",
+            "utterance": "왼쪽 허벅지는 얼었는데"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:57:00",
+            "utterance": "인포 괜찮나요...."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "10:57:00",
+            "utterance": ",....."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "10:57:00",
+            "utterance": "담요ㅠㅠ담요를 덮으세요ㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ큐ㅠ네네.. 인포 혹 넘 심하다싶음 2040 전화해서 온도좀 올려달라하세요!"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "거기 넘 손시려울듯 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "여기도 이런데ㅠ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "근데 이 에코백은 #@이름#님께 아니랬죠?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P03",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "네 ㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:58:00",
+            "utterance": "대체 왜...왜 두고가신겨.......뭐가 많이 들었는데.."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-02-06",
+            "time": "10:59:00",
+            "utterance": "아 맞다 동글이 충전시켜놓고 깜빢했다"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-02-06",
+            "time": "10:59:00",
+            "utterance": "김맨 안고있으라고 딱 ㅋ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2020-02-06",
+            "time": "10:59:00",
+            "utterance": "데펴놨죠 ㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-02-06",
+            "time": "10:59:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-02-06",
+            "time": "11:04:00",
+            "utterance": "감사감사ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

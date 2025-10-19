@@ -1,0 +1,105 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "09c6060c-a3b3-5016-b655-c4eb2d39da30",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "생활/행사_특별생활_생활정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "그건 비오고 배달밀리는데 배달안나가면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "오르는거고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "ㅇㅎ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "보통은 기본 5천까지만 ㅇㅋ하고 넘으면 그업체 안쓴대"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "5천원도 비싸다"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "뭐남음?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-11",
+            "time": "19:12:00",
+            "utterance": "경쟁 개심하잖어"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-11",
+            "time": "19:13:00",
+            "utterance": "그래서 배달비 3천원 부담하면 2천원 이모가 내고"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-11",
+            "time": "19:13:00",
+            "utterance": "포장해가면 3천원할인해줌"
+        }
+    ]
+}

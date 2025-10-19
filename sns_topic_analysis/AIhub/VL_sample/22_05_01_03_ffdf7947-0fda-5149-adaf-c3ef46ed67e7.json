@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffdf7947-0fda-5149-adaf-c3ef46ed67e7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "16:31:00",
+            "utterance": "몰러 나도 가본건 아니라"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "16:31:00",
+            "utterance": "암튼 다시 한번 감사링"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "16:31:00",
+            "utterance": "이주동안 카페 이제 다시 여니까"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "16:31:00",
+            "utterance": "ㅇㅇ안걸리게나 잘하길"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "16:31:00",
+            "utterance": "스벅 혹시 필요하면 말하삼"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "16:31:00",
+            "utterance": "세개있음"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "16:40:00",
+            "utterance": "ㅇㅇ지금은 일단 필요없음 너 거기서 쓸라면 쓰셈"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:23:00",
+            "utterance": "혹시 내방에"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:23:00",
+            "utterance": "충전기있??"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:23:00",
+            "utterance": "침대 옆에"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:23:00",
+            "utterance": "네모난거"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "17:26:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "17:26:00",
+            "utterance": "이거?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "17:26:00",
+            "utterance": "근데 이거 침대 옆 아니고 책상 아래에 꽂혀잇엇음"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:26:00",
+            "utterance": "젠장"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "17:27:00",
+            "utterance": "폰 충전기도 안 가져갓는데?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:27:00",
+            "utterance": "아 그건 일부러 안갖고옴"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:27:00",
+            "utterance": "걍 충전기 쓰려고"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-03",
+            "time": "17:27:00",
+            "utterance": "침대 옆에"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-09-03",
+            "time": "17:27:00",
+            "utterance": "ㅇㅎ"
+        }
+    ]
+}

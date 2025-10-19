@@ -1,0 +1,199 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe560e4a-c65b-5f32-a604-8fd622158065",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "14:40:00",
+            "utterance": "바뷰럼"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "14:40:00",
+            "utterance": "잠팅이잠팅이"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:44:00",
+            "utterance": "우 겁낭잤당"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:45:00",
+            "utterance": "시장이가주걱네"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:45:00",
+            "utterance": "돈까스는마시서떱?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "14:47:00",
+            "utterance": "웅 마시써떠"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "14:47:00",
+            "utterance": "시장이 주거떠"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "14:47:00",
+            "utterance": "그래서 하츠또싸떠"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:47:00",
+            "utterance": "비ㅣ브엄"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:47:00",
+            "utterance": "ㅋㅋㅋ이궁얼마사떵"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:48:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:48:00",
+            "utterance": "시장은주버두"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "14:48:00",
+            "utterance": "한올이눈굳건하당"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "15:13:00",
+            "utterance": "우앙"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "15:13:00",
+            "utterance": "한올이 엄텅나넹"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "15:13:00",
+            "utterance": "6개만사떠"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "15:14:00",
+            "utterance": "자래따♡♡♡"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "15:14:00",
+            "utterance": "폭등임박이얌"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "15:15:00",
+            "utterance": "전문가한테 우리방이라는 사람한텡 무러바떠"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-01-30",
+            "time": "15:15:00",
+            "utterance": "그게매아ㅡㅂ"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-01-30",
+            "time": "15:15:00",
+            "utterance": "오라방은 밥머거야딥"
+        }
+    ]
+}

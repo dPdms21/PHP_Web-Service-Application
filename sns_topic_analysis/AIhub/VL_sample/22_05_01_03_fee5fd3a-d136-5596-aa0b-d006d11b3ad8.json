@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fee5fd3a-d136-5596-aa0b-d006d11b3ad8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-16",
+            "time": "23:37:00",
+            "utterance": "그래도 안추워서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-16",
+            "time": "23:37:00",
+            "utterance": "다앻이야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:38:00",
+            "utterance": "마자"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:38:00",
+            "utterance": "그래서 겅어가"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:38:00",
+            "utterance": "걸어가"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-16",
+            "time": "23:42:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ 잘햇어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-16",
+            "time": "23:42:00",
+            "utterance": "조심해서 걸어가랏"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:42:00",
+            "utterance": "반 남아따"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:42:00",
+            "utterance": "화장실 급한데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:42:00",
+            "utterance": "신호 걸려따"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-16",
+            "time": "23:42:00",
+            "utterance": "환장"
+        }
+    ]
+}

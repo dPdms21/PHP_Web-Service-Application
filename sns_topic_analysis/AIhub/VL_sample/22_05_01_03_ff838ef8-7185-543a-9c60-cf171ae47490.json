@@ -1,0 +1,207 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff838ef8-7185-543a-9c60-cf171ae47490",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:49:00",
+            "utterance": "근데 #@이름# 너네는 휴복학 신청"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:49:00",
+            "utterance": "그 해당날짜 몇시까지 받아주는지 알아 ??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:49:00",
+            "utterance": "시간은 안나와잇넹"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:49:00",
+            "utterance": "음 기다려바"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:50:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:51:00",
+            "utterance": "우리도 안나와있는데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:51:00",
+            "utterance": "6시까지 아닐까..?보통"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:51:00",
+            "utterance": "아님 전화해바!"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:54:00",
+            "utterance": "헉 그래 ..??"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:54:00",
+            "utterance": "헐 맞아"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:54:00",
+            "utterance": "몬가 느낌이 6시까지 같은데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "난 지금 떨리고 혼란스러워서 전화 못해 .. ㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "지금 치킨딥에도 저나 못하고 잇는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "마음이 너무 심란해"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "뭐가"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "죽어야지"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "떨리고 혼란스러운건데요"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "그냥 내가 그래 ^^"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "배고파서 토할 것 같은데"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "참나"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-08-18",
+            "time": "13:55:00",
+            "utterance": "일단 그냥 그래"
+        }
+    ]
+}

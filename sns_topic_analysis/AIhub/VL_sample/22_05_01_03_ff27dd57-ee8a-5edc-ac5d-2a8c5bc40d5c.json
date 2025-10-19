@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff27dd57-ee8a-5edc-ac5d-2a8c5bc40d5c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_자기계발_공부/시험"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:15:00",
+            "utterance": "커조"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:15:00",
+            "utterance": "ㅈ도와줘"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:15:00",
+            "utterance": "나 영어 못해"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:17:00",
+            "utterance": "ㅠㅠㅠㅠㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:17:00",
+            "utterance": "앗 언니 커조 영어구나,,,,"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:17:00",
+            "utterance": "난 아직도"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:17:00",
+            "utterance": "정규분포의 덫에서"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:17:00",
+            "utterance": "놀아나고있어"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:18:00",
+            "utterance": "정규분포"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:18:00",
+            "utterance": "#@기타#에도 나와"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:18:00",
+            "utterance": "흑흑"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:18:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:18:00",
+            "utterance": "귀여운 노트북"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:20:00",
+            "utterance": "절대 멋을 위한 게 아니라구"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:20:00",
+            "utterance": "아 나 진짜 씻고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:20:00",
+            "utterance": "나도 가라 가든지 해야지"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:20:00",
+            "utterance": "집중안돼ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-10-20",
+            "time": "16:20:00",
+            "utterance": "ㅎㅎ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-10-20",
+            "time": "16:20:00",
+            "utterance": "ㅠㅠ"
+        }
+    ]
+}

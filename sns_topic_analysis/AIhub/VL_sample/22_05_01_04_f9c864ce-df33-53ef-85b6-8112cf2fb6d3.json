@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f9c864ce-df33-53ef-85b6-8112cf2fb6d3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-07-06",
+            "time": "23:39:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-07-06",
+            "time": "23:39:00",
+            "utterance": "호오~차슈덮밥인가!"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-07-06",
+            "time": "23:39:00",
+            "utterance": "플레이트랑"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-07-06",
+            "time": "23:39:00",
+            "utterance": "갈비찜도 괜찮지?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-07-06",
+            "time": "23:39:00",
+            "utterance": "흐음"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-07-06",
+            "time": "23:40:00",
+            "utterance": "플레이트 특이한게 괜찮아보이넹 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-07-06",
+            "time": "23:40:00",
+            "utterance": "여기가"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-07-06",
+            "time": "23:40:00",
+            "utterance": "대구에서젤맛잇는집이라는"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-07-06",
+            "time": "23:40:00",
+            "utterance": "소문이잇대"
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe582f6b-be68-5888-9e78-a7db7a63bc4c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-01-04",
+            "time": "08:25:00",
+            "utterance": "지금 병원이야?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-01-04",
+            "time": "08:25:00",
+            "utterance": "놉 안양역이야!ㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-01-04",
+            "time": "08:26:00",
+            "utterance": "거기서 머해?? ㅋㅋ 같이가"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-01-04",
+            "time": "08:27:00",
+            "utterance": "#@이름#기다링ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-01-04",
+            "time": "08:27:00",
+            "utterance": "만낫당 #@이름#..병언에서만나..ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-01-04",
+            "time": "08:28:00",
+            "utterance": "안돼"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-01-04",
+            "time": "08:28:00",
+            "utterance": "아나.. 같이 가면 좋은데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-01-04",
+            "time": "08:29:00",
+            "utterance": "빨리와ㅠㅋㅋㅋ"
+        }
+    ]
+}

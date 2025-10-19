@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fce43980-6607-579b-9a9d-5f5793348c9c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "14:15:00",
+            "utterance": "ㅎㅎ배불로오"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "14:15:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "14:15:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "15:38:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "15:38:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "15:39:00",
+            "utterance": "ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "15:39:00",
+            "utterance": "기여웡"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "15:44:00",
+            "utterance": "모햄"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "15:44:00",
+            "utterance": "나는 지금 앉아서"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "15:44:00",
+            "utterance": "간만에 병점아이파크캐슬 보고있어영"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "15:44:00",
+            "utterance": "ㅎㅎ 나는"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "15:45:00",
+            "utterance": "스티커택 샘플지 보고있어용"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "16:30:00",
+            "utterance": "아이쿠"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "16:31:00",
+            "utterance": "나도 일찍 퇴근하려궁"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "16:48:00",
+            "utterance": "여부"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "16:49:00",
+            "utterance": "#@이모티콘# 나 집가려구"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "16:58:00",
+            "utterance": "나 퇴근해용"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "17:01:00",
+            "utterance": "조심히가~"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-11-19",
+            "time": "17:02:00",
+            "utterance": "넹 알겠어요~"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2020-11-19",
+            "time": "17:15:00",
+            "utterance": "버스탔어??"
+        }
+    ]
+}

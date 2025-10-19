@@ -1,0 +1,169 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b5defa74-cba4-5a1e-8256-038b2c4dfe52",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 9,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "사회/경제_금융_투자"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "대전광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "50대 이상",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:17:00",
+            "utterance": "그래 요즘에는 일부러 도시생활 정리하고"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:17:00",
+            "utterance": "시골로 내려가는 사람들도 많다더라"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:17:00",
+            "utterance": "응 그런 것 같아요"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:18:00",
+            "utterance": "시골로 내려가더라도 만만치가 않아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:18:00",
+            "utterance": "잘 준비하지 않으면 그것도 고생이다"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:18:00",
+            "utterance": "응 그래서 나도 지금부터 미리 잘 준비해 두려고"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:23:00",
+            "utterance": "너 돈 좀 모으려면 재테크 같은 것도 해야 되는데"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:23:00",
+            "utterance": "뭐 하는 거 있니"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:23:00",
+            "utterance": "어 그러지 않아도 따로 소액이라도 재테크 하려고"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:23:00",
+            "utterance": "월급만 가지고서는 돈 모으기가 정말 어려운 것 같아"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:24:00",
+            "utterance": "그래 집 장만 하나 하는 것이 쉽진 않아"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:24:00",
+            "utterance": "더군다나 전원주택이면 땅까지 사야 되잖아"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:25:00",
+            "utterance": "그래서 몇 군데 소액 투자 할 곳을 알아보고 있거든"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:25:00",
+            "utterance": "지금부터라도 투자 했어 월급외에"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-30",
+            "time": "11:26:00",
+            "utterance": "소득이 필요할 것 같아"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:26:00",
+            "utterance": "당연하다"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-30",
+            "time": "11:26:00",
+            "utterance": "미리미리 조금씩이라도 모아야 해"
+        }
+    ]
+}

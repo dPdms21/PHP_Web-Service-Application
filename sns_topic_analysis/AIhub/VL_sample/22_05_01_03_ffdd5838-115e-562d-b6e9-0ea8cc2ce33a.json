@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffdd5838-115e-562d-b6e9-0ea8cc2ce33a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 12,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "40대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "40대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:00:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:00:00",
+            "utterance": "대구 85만원"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:02:00",
+            "utterance": "아놔, 어제 올렸으면.."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:03:00",
+            "utterance": "사기래. 흠.."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:04:00",
+            "utterance": "그래??"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:04:00",
+            "utterance": "그럼 뭐 끝"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:04:00",
+            "utterance": "댓글이 그렇네. 몰겠으"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:04:00",
+            "utterance": "댓글이 맞을거야 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:04:00",
+            "utterance": "내가 문자보냈는데 씹힘"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:12:00",
+            "utterance": "난 양재아이씨에서 40분서있음"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "왜?????"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "왜 서있어 여보~"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "차가 많아서"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "차 버려"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "집에 못갈듯"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "버리고 더 서있게 만들고, 당신은 걸어와"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "고속도로에?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-01-21",
+            "time": "18:13:00",
+            "utterance": "응. 버리고 와"
+        }
+    ]
+}

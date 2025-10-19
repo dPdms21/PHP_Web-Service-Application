@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fedd20be-d4c7-5220-8c76-7778fd51602d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "11:47:00",
+            "utterance": "늦게 학교 가니까 좋네요 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:06:00",
+            "utterance": "엉 ㅋㅋㅋㅋ 시간나면 가는거야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:06:00",
+            "utterance": "ㅋㅋㅋㅋㅋ달리는고얍"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:06:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:06:00",
+            "utterance": "지...금가니... ?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:06:00",
+            "utterance": "존부..."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:21:00",
+            "utterance": "지금 가는중"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:21:00",
+            "utterance": "히히히히ㅣㅎ이히히ㅣㅎ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:21:00",
+            "utterance": "아 오늘 #@이름#랑"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:21:00",
+            "utterance": "점심 먹게쌩걌어요"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ 괜차나....내일 모레는 내가 위너!!!!ㅠㅠ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "엥 갑자기 갑분점심...?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "둘이?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ흑"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "아뇨"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "그 인싸 친구랑"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-11",
+            "time": "12:22:00",
+            "utterance": "#@이름#랑 그오ㅣ2면"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:30:00",
+            "utterance": "아아 ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:31:00",
+            "utterance": "그럼 뭐..."
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-11",
+            "time": "12:31:00",
+            "utterance": "어색하구만"
+        }
+    ]
+}

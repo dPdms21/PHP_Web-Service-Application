@@ -1,0 +1,208 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd158204-b435-57b7-ba8a-e15d80a0dbeb",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "문화/건강_취미/여가_문화생활"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "00:54:00",
+            "utterance": "나 허리 아파서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "00:55:00",
+            "utterance": "좀 괜찮아지면 하게"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "00:55:00",
+            "utterance": "ㅜㅜ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "00:55:00",
+            "utterance": "일단 스터디 카페 가보는게"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "00:55:00",
+            "utterance": "목표얌"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "00:56:00",
+            "utterance": "ㅠㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "00:56:00",
+            "utterance": "병원 가밨어??"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "12:25:00",
+            "utterance": "아침에 가야대는데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "12:26:00",
+            "utterance": "자꾸"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "12:26:00",
+            "utterance": "늦잠자"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "12:34:00",
+            "utterance": "ㅡㅡ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "12:34:00",
+            "utterance": "지금이라두 ㅜㅡ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "14:27:00",
+            "utterance": "구치만 오늘은"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "14:27:00",
+            "utterance": "캡틴마블을 보러가"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "15:21:00",
+            "utterance": "쿠키 2개래."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "15:21:00",
+            "utterance": "학 대갑"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "15:21:00",
+            "utterance": "대박 몰랏어"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "15:21:00",
+            "utterance": "나 지굼 보러 감 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "15:23:00",
+            "utterance": "후기 꼭꼭"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "22:41:00",
+            "utterance": "진 짜 머 싯"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-06",
+            "time": "22:41:00",
+            "utterance": "꼭 바"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-03-06",
+            "time": "23:50:00",
+            "utterance": "내일 보게"
+        }
+    ]
+}

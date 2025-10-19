@@ -1,0 +1,183 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe155938-4fb8-5057-a7eb-5da84cb34a3c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:43:00",
+            "utterance": "배고츠당"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "12:45:00",
+            "utterance": "나왔어??ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:45:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:45:00",
+            "utterance": "버그타쩌"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "12:46:00",
+            "utterance": "버그타쩌??ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:46:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:46:00",
+            "utterance": "나올래용?_?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "12:49:00",
+            "utterance": "어디루갈가"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:49:00",
+            "utterance": "음 나 어디서 내리지"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "12:50:00",
+            "utterance": "원래 나 내리는거처럼 내려서 갈게용"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "12:50:00",
+            "utterance": "넹 #@이름#아♥.♥꿈교회555"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "17:18:00",
+            "utterance": "가기로 결정???"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "17:20:00",
+            "utterance": "음"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "17:20:00",
+            "utterance": "그래야겠장"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "17:20:00",
+            "utterance": "ㅎㅎ웅웅 그래용"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "17:20:00",
+            "utterance": "잘가...ㅠㅠ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2013-04-05",
+            "time": "17:21:00",
+            "utterance": "가지말까????????♥.♥"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "17:21:00",
+            "utterance": "2층갔능데 부원장님 2명이랑 원장님계셨는뎅 아무말씀은 안하시엠"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2013-04-05",
+            "time": "17:21:00",
+            "utterance": "이번주에 가구ㅎㅎ담주는 가지말아욭"
+        }
+    ]
+}

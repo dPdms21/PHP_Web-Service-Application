@@ -1,0 +1,161 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "34302",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_시사/정치_사건/사고",
+                "사회/경제_시사/정치_정책/규칙"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "엄마 뉴스 봤어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "어떤 뉴스?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "요즘에 저출산으로 학생은 줄어가는데 교육재정금은 계속 는대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "왜 그러지?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "그러니까... 질을 높이는 데 쓰이는 건가?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "학교하고 학급, 교원 수가 늘어나서 그렇다는데?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "뭐 정확한 건 그 사람들만 알겠지"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "그러니까... 비리 같은 게 없었으면 좋겠다."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "에휴 학생들이 좀 늘어야 될 텐데 큰일이다."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "나라가 좋아야 애를 낳지!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "비리도 좀 없어져야 하고..."
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "그건 그래 ㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "특히 부모 백으로 대학 들어가고 이런 건 진짜 평범한 학생들을 무기력하게 하지"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "맞아 ㅠㅠ 열심히 한 학생들은 뭐가 되냐구"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "쌍둥이 그 시험 그것도 그렇고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-10-01",
+            "time": "00:00:00",
+            "utterance": "부모가 나쁜 거야"
+        }
+    ]
+}

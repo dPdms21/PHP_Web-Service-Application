@@ -1,0 +1,199 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe153b44-3266-52a1-aa02-3b8be0b19192",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "20:53:00",
+            "utterance": "의자란 무엇이라고 생각하니."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "20:53:00",
+            "utterance": ".."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:00:00",
+            "utterance": "[왜 선박인데 가구회사 지원했나] 학부에서 재료선정부터 설계 그리고 생산까지 배웠습니다."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:00:00",
+            "utterance": "특히 설계프로그램 카티아와 구조해석 프로그램 앤시스를 실습으로 익혔고, 이의 연장선으로 일반기계기사를 취득하며 기계의 기본 역학과 솔리드웍스 오토캐드 또한 활용할 수 있게 되었습니다. 안전하고 편안한 가구를 제작하기 위하여 설계 및 구조 역량을 활용해야 한다고 생각합니다. 제가 함양하고 있는 역량을 적재적소에 활용할 수 있는 분야라고 생각하여 가구 회사에 지원하게 되었습니다."
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:00:00",
+            "utterance": "이것도 봐주라아"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:10:00",
+            "utterance": "나는 치즈케익 좀 만들고 올게.."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "21:18:00",
+            "utterance": "허걱"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "21:18:00",
+            "utterance": "맛있겠다!!"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "21:20:00",
+            "utterance": "좋아! #@이름#이의 역량이 잘 들어가있오!!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "21:20:00",
+            "utterance": "흠 의자란.."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "21:21:00",
+            "utterance": "내가 생각해놓은거 파일에 가구란? 있나"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "21:21:00",
+            "utterance": "허허"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:50:00",
+            "utterance": "새악ㄱ보다 오래 걸리겟군.."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:50:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "21:50:00",
+            "utterance": "다해잉야"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "22:04:00",
+            "utterance": "또잉"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "22:04:00",
+            "utterance": "많이 만들옹?"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "22:04:00",
+            "utterance": "궁금해!"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "22:06:00",
+            "utterance": "나는 이제 씻어보까나"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-18",
+            "time": "22:20:00",
+            "utterance": "나도 씻어야징"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-18",
+            "time": "22:20:00",
+            "utterance": "이제 정말루 씻어유"
+        }
+    ]
+}

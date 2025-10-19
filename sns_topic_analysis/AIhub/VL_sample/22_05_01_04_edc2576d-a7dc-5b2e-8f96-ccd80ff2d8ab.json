@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "edc2576d-a7dc-5b2e-8f96-ccd80ff2d8ab",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "아까 쩌리에서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "누가 자니스 후계자 된다던데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "어케되는거임??"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "탓키..?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "친구한테 들었는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "쩌리가 더 빠르네~~"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "아하"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "근데 찌라시라서"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "아직 모른대 ㅠ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-08-30",
+            "time": "00:01:00",
+            "utterance": "찬구가 머래?!"
+        }
+    ]
+}

@@ -1,0 +1,144 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "896cde17-6a8a-5e9b-8305-a78472aa7b96",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_일상경험"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "09:33:00",
+            "utterance": "ㅋㅋ안간댴ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-23",
+            "time": "11:09:00",
+            "utterance": "아하ㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-23",
+            "time": "11:09:00",
+            "utterance": "어제 #@이름#이 죽었냐ㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "11:17:00",
+            "utterance": "ㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ엌ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "11:17:00",
+            "utterance": "그래두 제발로 걸어갈만큼이여쓰"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-23",
+            "time": "13:46:00",
+            "utterance": "생일주 모야..?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-23",
+            "time": "13:46:00",
+            "utterance": "#@기타# 색깔 이상하든디ㅠㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "14:22:00",
+            "utterance": "긐ㅋㅋㅋ#@이름#이 남자친구가"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "14:22:00",
+            "utterance": "마실거 주고 갓은데 #@이름#이항테"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "14:23:00",
+            "utterance": "우유속에 모카치노인같ㅌㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "14:23:00",
+            "utterance": "그거 주고 가서"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "14:23:00",
+            "utterance": "그거 넣어줌"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-23",
+            "time": "14:23:00",
+            "utterance": "근데 마싯다던데 색만 그렇지"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-23",
+            "time": "14:24:00",
+            "utterance": "맛있데?"
+        }
+    ]
+}

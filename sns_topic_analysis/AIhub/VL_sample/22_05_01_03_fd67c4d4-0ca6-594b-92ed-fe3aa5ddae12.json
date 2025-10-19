@@ -1,0 +1,200 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd67c4d4-0ca6-594b-92ed-fe3aa5ddae12",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_가정"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "제주특별자치도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "제주특별자치도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "집에 스팸 , 김치, 햄 , 당면 잇엉ㅍㅇ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "대파도잇고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "고추도잇고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "나중애 시간나면"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "대파좀 썰어서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:56:00",
+            "utterance": "냉정고에 놔줄수리또?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "10:57:00",
+            "utterance": "ㅎㅎㅎㅎㅎ웅웅"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "10:57:00",
+            "utterance": "알겠유!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:58:00",
+            "utterance": "오늘은 필테가면서"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "10:58:00",
+            "utterance": "강아지 약 사여겟다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "11:15:00",
+            "utterance": "웅웅!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "11:15:00",
+            "utterance": "그래유!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "11:20:00",
+            "utterance": "ㅎㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "11:20:00",
+            "utterance": "웅웅~~~"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "12:27:00",
+            "utterance": "끝났당!"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "12:30:00",
+            "utterance": "ㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "12:30:00",
+            "utterance": "집에갈꺼야??"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "12:32:00",
+            "utterance": "웅!"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-07-25",
+            "time": "12:32:00",
+            "utterance": "일단 밥 먹을꾸!"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-07-25",
+            "time": "12:35:00",
+            "utterance": "ㅇ웅"
+        }
+    ]
+}

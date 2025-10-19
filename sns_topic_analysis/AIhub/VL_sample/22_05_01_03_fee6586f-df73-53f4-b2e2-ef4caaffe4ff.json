@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fee6586f-df73-53f4-b2e2-ef4caaffe4ff",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사람/관계_인물정보_인물정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:10:00",
+            "utterance": "#@이름#언니랑 #@이름# 언니 말고는 모르겠넹ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:10:00",
+            "utterance": "아 그 #@이름# 언니랑 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:10:00",
+            "utterance": "#@이름# 개오랜만"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:10:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:19:00",
+            "utterance": "ㅋㅋㅋ 불현듯 떠오름ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:19:00",
+            "utterance": "아직 퇴근 안함?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:19:00",
+            "utterance": "나 집근천데?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:20:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ 부럽다"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:24:00",
+            "utterance": "야 암튼"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:25:00",
+            "utterance": "난중 내 임부패션은"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:25:00",
+            "utterance": "너가 책임지도록"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:25:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:25:00",
+            "utterance": "배불뚝이."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:25:00",
+            "utterance": "티내면서 회사다니기 싫음ㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:26:00",
+            "utterance": "ㅋㅋㅋㅋ 알아쏭"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:26:00",
+            "utterance": "잘 알아봄ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:26:00",
+            "utterance": "일단 빕스 맛있게 먹옹"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:27:00",
+            "utterance": "엉"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-03-14",
+            "time": "18:27:00",
+            "utterance": "퇴근햐"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-03-14",
+            "time": "18:32:00",
+            "utterance": "빠잉!ㅋㅋㅋ"
+        }
+    ]
+}

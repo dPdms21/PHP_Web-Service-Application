@@ -1,0 +1,145 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd026149-345c-5e41-b7a5-e54d9c21926e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:38:00",
+            "utterance": "#@이름#쓰"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:38:00",
+            "utterance": "땡큐베리마치야"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-08-09",
+            "time": "19:39:00",
+            "utterance": "연락옴?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:39:00",
+            "utterance": "어제 그 너한테 넘긴 콤카드 연락로셨었는데 월욜날 서울에서 미팅하신다고 하더라고, 근데 나는 미팅참가는 못하고, 그냥 사진으로만 일단 보여드린다고해서"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-08-09",
+            "time": "19:39:00",
+            "utterance": "웅웅"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:39:00",
+            "utterance": "8웡 17일 미팅하시고 되면 연락주신다고 하셨엄"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:40:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-09",
+            "time": "19:40:00",
+            "utterance": "아하아하"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-08-09",
+            "time": "19:40:00",
+            "utterance": "좋은결과있었으면 좋겠구만"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:40:00",
+            "utterance": "아잉 너가 소개시켜주는것만으로도 감사하지여~"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "19:40:00",
+            "utterance": "되면좋쥐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-08-09",
+            "time": "19:46:00",
+            "utterance": "이 계기루 많은 일들이 쭉쭉들어왔으면!!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-08-09",
+            "time": "19:46:00",
+            "utterance": "또 좋은거 있으면 소개해줄게"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-08-09",
+            "time": "20:18:00",
+            "utterance": "아이 감사합네다"
+        }
+    ]
+}

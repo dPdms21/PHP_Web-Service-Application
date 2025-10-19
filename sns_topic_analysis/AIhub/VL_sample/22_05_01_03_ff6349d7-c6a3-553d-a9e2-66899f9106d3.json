@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff6349d7-c6a3-553d-a9e2-66899f9106d3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "내일 쭙쭙이하게 해주면"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "괜찮음"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "헤헤"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "뀨우~?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "낼 맘대루행"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "헤헤"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "14:05:00",
+            "utterance": "4시에 바지 줄이러 갈꾸"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "14:06:00",
+            "utterance": "깨워죵~"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:07:00",
+            "utterance": "웅웅!!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:07:00",
+            "utterance": "알았옹알았옹"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:35:00",
+            "utterance": "(입대까지 사귄날)÷(오늘까지 사귄날)×100"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:35:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:36:00",
+            "utterance": "우리가 사귄것중에 약 75%가 군대라니이이이이이이이이이!!!!!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:36:00",
+            "utterance": "제대 날꺼로 계산해보니까"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "14:36:00",
+            "utterance": "80%더라구!!!"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "16:12:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "16:12:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "16:12:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2016-05-28",
+            "time": "16:16:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2016-05-28",
+            "time": "16:25:00",
+            "utterance": "히.. 애깅 사랑해ㅣ"
+        }
+    ]
+}

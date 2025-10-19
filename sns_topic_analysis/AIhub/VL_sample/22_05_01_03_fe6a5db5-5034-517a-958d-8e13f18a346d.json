@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe6a5db5-5034-517a-958d-8e13f18a346d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 9,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_식사/요리"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:27:00",
+            "utterance": "ㅋㅋㅋㅋ 언능옵셔~~ 스벅옆 고기깁 오픈했더랑ㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "17:29:00",
+            "utterance": "오 대박 벌써 오픈?? 사람은 많고?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "17:29:00",
+            "utterance": "오늘 거기 고?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:31:00",
+            "utterance": "난 좋음ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "17:31:00",
+            "utterance": "오키 그럼 거기 고 나 도착하기 전에 얘기 해줄게 ㅋㅋㅋㅋㅋㅋ 사람 많앗어?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:32:00",
+            "utterance": "없어보이기는했는데 잘안보여서ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "17:33:00",
+            "utterance": "아 ㅋㅋㅋㅋㅋ 정확히는 모르는구나?ㅋㅋㅋㅋ 일단 가봐야알겟네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:36:00",
+            "utterance": "앙앙~~~"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "17:39:00",
+            "utterance": "거기 이름이 뭔지 모르징??"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "17:39:00",
+            "utterance": "웅ㅋㅋㅋㅋ 그냥 들어가면서 본거라성ㅜㅜㅜㅜ"
+        }
+    ]
+}

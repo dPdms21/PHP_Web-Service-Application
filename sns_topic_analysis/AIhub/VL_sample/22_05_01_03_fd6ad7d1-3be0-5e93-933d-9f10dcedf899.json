@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd6ad7d1-3be0-5e93-933d-9f10dcedf899",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "행사",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "강원도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-18",
+            "time": "13:12:00",
+            "utterance": "조심히 가세요~~~!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-18",
+            "time": "13:12:00",
+            "utterance": "안녕 #@이름# 즐거웠다네~~~~!!!"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-18",
+            "time": "13:12:00",
+            "utterance": "오늘 푹쉬고ㅠㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-18",
+            "time": "13:19:00",
+            "utterance": "고생했슈 #@이름# 다음에 또봐~~~"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-18",
+            "time": "13:43:00",
+            "utterance": "혹 ㅠㅠㅠㅠㅠㅠ 버스타셨겠네요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-18",
+            "time": "17:24:00",
+            "utterance": "와 진짜 #@기타#듯이 잤어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-18",
+            "time": "17:25:00",
+            "utterance": "그리고 지금도착했으니까 세시간반걸렸지"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-18",
+            "time": "17:25:00",
+            "utterance": "완전 막혔어"
+        }
+    ]
+}

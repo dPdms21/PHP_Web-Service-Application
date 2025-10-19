@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "60a204f4-8626-5616-b4eb-5b1e34dbd6a1",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "같이가자..."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "인종차별도 없고"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "알바만 해도 살 수 있는 나라래"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "나도 캐나다 사고시퍼"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "캥거루"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "단풍국이 어디얐드라"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "그게 캐나단가"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "단풍국이 캐나다"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "오왕"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "거기 이뿌자마"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "ㅜㅜㅜㅜㅜ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "캥거루는 호주아니야?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "그러네"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "ㅋㅋㅋ̆̈ㅋㅋ̄̈ㅋㅋ꙼̈ㅋㅋ̆̎ㅋㅋ̐̈ㅋㅋ̊̈"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "호주가 인종차별 대박이래"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:11:00",
+            "utterance": "그런 정보는"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:12:00",
+            "utterance": "누가 알려조"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-19",
+            "time": "01:12:00",
+            "utterance": "아빠?"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:12:00",
+            "utterance": "아니 간 사람이"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-12-19",
+            "time": "01:12:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

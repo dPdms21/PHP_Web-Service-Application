@@ -1,0 +1,257 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fef2ce92-d04f-595b-8fb4-c691c564e920",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 28,
+            "numberOfTurns": 9,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_가정",
+                "생활/행사_반복생활_식사/요리"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:45:00",
+            "utterance": "아빠쉬는날이라"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:45:00",
+            "utterance": "아니원래"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:46:00",
+            "utterance": "티비"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:46:00",
+            "utterance": "사서"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:46:00",
+            "utterance": "설치해줄라고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:46:00",
+            "utterance": "가는건데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "16:46:00",
+            "utterance": "티비를 안샀엉"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "17:10:00",
+            "utterance": "할머니집에"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "17:10:00",
+            "utterance": "티비업ㅎ어?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:10:00",
+            "utterance": "있는데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:10:00",
+            "utterance": "개박살"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "17:17:00",
+            "utterance": "아항"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "17:17:00",
+            "utterance": "그렇구만"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:19:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:19:00",
+            "utterance": "ㅎ ㅎ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:19:00",
+            "utterance": "가는즁 흑흐"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "17:19:00",
+            "utterance": "#@이름#랑 놀구싶네"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:21:00",
+            "utterance": "아빠한테"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:21:00",
+            "utterance": "다말해"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:21:00",
+            "utterance": "지금 옆에 있는데"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "17:21:00",
+            "utterance": "ㅋ ㅋ"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "19:52:00",
+            "utterance": "십이마넌짜리..."
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "19:53:00",
+            "utterance": "돌돔...."
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "20:45:00",
+            "utterance": "왕..."
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "20:45:00",
+            "utterance": "마싯뎃따"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "20:45:00",
+            "utterance": "엄마가 때워서"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-05",
+            "time": "20:45:00",
+            "utterance": "밥먹는즁ㅠ"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-05",
+            "time": "20:50:00",
+            "utterance": "배불롱"
+        }
+    ]
+}

@@ -1,0 +1,192 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fcf4e597-444d-55eb-80b5-71b04ae5abba",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_반복생활_직장"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "19:15:00",
+            "utterance": "난 야근행..ㅎㅎ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "19:15:00",
+            "utterance": "이따 같이 끝날수도 있겠다 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "19:15:00",
+            "utterance": "엽떡시켰으"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "19:20:00",
+            "utterance": "헐 ㅠㅠㅠㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "19:21:00",
+            "utterance": "같이끝날정도로"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "19:21:00",
+            "utterance": "늦게끝나??"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "19:21:00",
+            "utterance": "1시이때까지해?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "20:15:00",
+            "utterance": "그정도는 아니고 .."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "20:15:00",
+            "utterance": "12시?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "20:16:00",
+            "utterance": "엽떡먹고왔당 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "20:32:00",
+            "utterance": "ㅎㅎㅎㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "20:32:00",
+            "utterance": "왜케"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "20:32:00",
+            "utterance": "늦게까지해??"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "20:32:00",
+            "utterance": "내일아침까지 해야되는거 있어서 ㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "20:47:00",
+            "utterance": "헐 ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "20:47:00",
+            "utterance": "급하게들어온거야??"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "20:54:00",
+            "utterance": "아닝, ㅎㅎ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-07-30",
+            "time": "20:54:00",
+            "utterance": "사람 별로 없지??"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "21:03:00",
+            "utterance": "ㅎㅎㅎ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-07-30",
+            "time": "21:03:00",
+            "utterance": "갑자기"
+        }
+    ]
+}

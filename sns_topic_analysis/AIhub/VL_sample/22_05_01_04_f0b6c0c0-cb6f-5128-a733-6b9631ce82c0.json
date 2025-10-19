@@ -1,0 +1,119 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f0b6c0c0-cb6f-5128-a733-6b9631ce82c0",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-23",
+            "time": "01:46:00",
+            "utterance": "아근데 #@이름#가 전에 그 얘기하긴 했어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-23",
+            "time": "01:46:00",
+            "utterance": "궁금하당"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-23",
+            "time": "01:46:00",
+            "utterance": "어의"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-23",
+            "time": "01:46:00",
+            "utterance": "여기 얘들 기 쎄다고ㅋㅋㄱㅋㄱ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-23",
+            "time": "01:46:00",
+            "utterance": "여기애들이뭐야 아 우리학교애들?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-23",
+            "time": "01:47:00",
+            "utterance": "#@기타#라 그럴수도..."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-23",
+            "time": "01:47:00",
+            "utterance": "응응ㅋㅋㅋ여자애들이 ㅇ진짜 술도 노는 것도 완전 범접불가라고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-23",
+            "time": "01:47:00",
+            "utterance": "ㅋㄱㅋㄱㄱㄱㄱㅋㄱㄱㄱㄱㅋㄱㄱㄱㄱㅋㄱㄱㄱㄱ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-23",
+            "time": "01:47:00",
+            "utterance": "모텔방 잡고 술마시는 애들은 처음이라고 그랬어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-23",
+            "time": "01:47:00",
+            "utterance": "진짜였니..? 나 그게 궁금했음"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-23",
+            "time": "01:48:00",
+            "utterance": "아ㅋㄱㄱ아맞아ㅋㄱㅋ"
+        }
+    ]
+}

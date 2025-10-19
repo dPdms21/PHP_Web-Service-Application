@@ -1,0 +1,121 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "4d20ca9a-8b42-584c-9bc9-beda5310f7e6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 11,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "강원도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "강원도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "18:12:00",
+            "utterance": "당근마켓 99도인 사람본적있어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "18:12:00",
+            "utterance": "언니 맨날 당근하자나ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "아니 40돈가 55도? 이사람들고 아주가끔봐"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "그게 가능해.....?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "맨날 당근마켓만하는사람들아냐?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "얼마나 매너가 좋르면그러지ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "누가 99도인 사람이랑"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "거래 후기 남겼는데ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-21",
+            "time": "18:13:00",
+            "utterance": "돈 새돈으로 뽑아서 봉투에 담아왔대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "18:14:00",
+            "utterance": "오멬ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-21",
+            "time": "18:14:00",
+            "utterance": "나도담에 그렇게해야지"
+        }
+    ]
+}

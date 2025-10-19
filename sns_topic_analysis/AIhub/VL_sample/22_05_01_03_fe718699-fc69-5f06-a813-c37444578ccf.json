@@ -1,0 +1,151 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe718699-fc69-5f06-a813-c37444578ccf",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 15,
+            "numberOfTurns": 5,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:16:00",
+            "utterance": "근데 #@이름#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "여행하고 살 찐 줄 알았는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "2키로 빠짐"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "똥 잘싸서 그런가"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "ㅋㅋㅌㅌㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "오 ㅋㅋㅋ 2키로면 대박인댕?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "난 찐 것 같아 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "바지가 작아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "그니까"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "재보고 놀람......"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "아니면 어제 점심"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "삶계2개만 먹어서 그런가 ㅇㅁㅇ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-24",
+            "time": "12:17:00",
+            "utterance": "생리끝나서 효과일수도이ㅛ규?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-06-24",
+            "time": "12:18:00",
+            "utterance": "급찐급빠 느낌"
+        }
+    ]
+}

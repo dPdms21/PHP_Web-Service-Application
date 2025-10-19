@@ -1,0 +1,103 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffe72d15-1b54-59fc-af4c-e03594b08c09",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 9,
+            "numberOfTurns": 7,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-01",
+            "time": "08:16:00",
+            "utterance": "굿모닝~~~♡♡♡"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-01",
+            "time": "08:16:00",
+            "utterance": "무시로도르착"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-01",
+            "time": "10:40:00",
+            "utterance": "굿모닝❤️❤️❤️"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-01",
+            "time": "10:40:00",
+            "utterance": "아주 엄청 푹 잣다요 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-01",
+            "time": "10:40:00",
+            "utterance": "다해이다 어제 잠잘못자는것같더니"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-01",
+            "time": "11:00:00",
+            "utterance": "어제 잠 잘 못잣어 나???"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-01",
+            "time": "11:01:00",
+            "utterance": "잘려고 누웠는데 여보 눈이 똥그래서ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-01",
+            "time": "11:01:00",
+            "utterance": "앜ㅋㅋㅋㅋㅋㅋ 잠 안온다고 여보 괴롭혀서 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-01",
+            "time": "11:01:00",
+            "utterance": "앙ㅋㅋㅋ 엄청나게 #@기타#듯이 아주막!!!"
+        }
+    ]
+}

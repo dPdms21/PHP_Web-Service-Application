@@ -1,0 +1,136 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "b24413c5-85b9-5c45-92f3-e7df09745d8d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 13,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경상남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "17:59:00",
+            "utterance": "헐 2만명이"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "17:59:00",
+            "utterance": "벌써 몰려서 끝났구나"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "17:59:00",
+            "utterance": "하긴 그럴만두,,"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-08",
+            "time": "17:59:00",
+            "utterance": "ㅠㅠ 대박인건"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-08",
+            "time": "17:59:00",
+            "utterance": "6만원짜리7처넌에 살려고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "아침부터 매장앞에 가서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "와,,"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "줄 서 있엇대"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "당여니 나같아도"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "더 비싼거"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "사겠다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-08",
+            "time": "18:00:00",
+            "utterance": "그치그치"
+        }
+    ]
+}

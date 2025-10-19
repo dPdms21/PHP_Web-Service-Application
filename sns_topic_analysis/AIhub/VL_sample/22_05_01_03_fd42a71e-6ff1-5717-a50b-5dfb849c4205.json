@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd42a71e-6ff1-5717-a50b-5dfb849c4205",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-08",
+            "time": "13:03:00",
+            "utterance": "아반떼는 브레이크등 잘 나가나보군요^^"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-06-08",
+            "time": "13:03:00",
+            "utterance": "볼일 다 보고 이제 출발하나요?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-08",
+            "time": "13:22:00",
+            "utterance": "집입니다..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-08",
+            "time": "13:22:00",
+            "utterance": "옷도 입어야하고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-08",
+            "time": "13:22:00",
+            "utterance": "머리도 해야해서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-06-08",
+            "time": "13:22:00",
+            "utterance": "아우 무슨 40분이너 낭비를.."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-06-08",
+            "time": "13:23:00",
+            "utterance": "헉 도로위에서 시간 다 날려버렸군요 ㅠ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-06-08",
+            "time": "13:25:00",
+            "utterance": "네... 눈떠가워서 10분만 눈붙이고 싶어도 운붙일 시간이 없군요..?!"
+        }
+    ]
+}

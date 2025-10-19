@@ -1,0 +1,273 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "bd36e662-180f-559f-881a-99c730a208b9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 30,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "생활/행사_반복생활_반려동물"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대 미만",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:06:00",
+            "utterance": "인간들이 농업을 하면서"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:06:00",
+            "utterance": "곡식을 보관하는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:06:00",
+            "utterance": "거기에 침입하는 쥐들을 잡아주는 역할을 했다고들음"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:06:00",
+            "utterance": "고양이가 ㅇㅇ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:06:00",
+            "utterance": "그래서 인간이랑 상호적인 관계를 가지게되었고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:07:00",
+            "utterance": "ㅇㅇ 나도 그거 들었음 유튜브로 ㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:07:00",
+            "utterance": "일리있는것같음"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:07:00",
+            "utterance": "그리고 일단 고양이가 귀엽잖아 ㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:07:00",
+            "utterance": "고양이가"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:07:00",
+            "utterance": "귀엽긴하지 눈도 똘망똘망하고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:07:00",
+            "utterance": "ㅇㅇ ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:08:00",
+            "utterance": "그리고 #@기타#사피엔스들의 대표적인 특성이"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:08:00",
+            "utterance": "분업임"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:08:00",
+            "utterance": "아 분업?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:08:00",
+            "utterance": "ㅇㅇ 다른동물들이랑 다르게"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:08:00",
+            "utterance": "자신의 적성에맞은 지식들을 찾아다니고"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:08:00",
+            "utterance": "한분야의 전문가가되고"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "문제나 궁금점이있을땐 다른 전문가에게 의존하잖아"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "하긴"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "이런건 사피엔스들의 특성인듯"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "그래서 유발하라리가"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "바보들을 위한 생태적 지위라고 부르더라고"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:09:00",
+            "utterance": "이름이 왜그래 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:10:00",
+            "utterance": "그니깐 그 조금 지능이나 체력이 떨어져도"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:10:00",
+            "utterance": "한분야의 전문가가되면"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:10:00",
+            "utterance": "삶을 잘 살아갈수있으니깐"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:10:00",
+            "utterance": "아 ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U29",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-20",
+            "time": "23:10:00",
+            "utterance": "근데 이름이 너무 웃기다"
+        },
+        {
+            "utteranceID": "U30",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-02-20",
+            "time": "23:10:00",
+            "utterance": "너무 팩트폭력으로 이름을 짓는듯"
+        }
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e929a61d-1c36-556a-a7b4-eb8fbbca62f3",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "12:53:00",
+            "utterance": "독감백신맞고 사망사고 생기니까"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "12:53:00",
+            "utterance": "살짝 무섭네"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-20",
+            "time": "13:52:00",
+            "utterance": "봤어ㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-20",
+            "time": "13:52:00",
+            "utterance": "아직 못맞았는디"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "15:35:00",
+            "utterance": "이거 맞으면 이틀정도 미열 올라오나봐"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "15:36:00",
+            "utterance": "형 맞았는데 이틀정도 미열있다고 했어"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-20",
+            "time": "21:59:00",
+            "utterance": "집근처 다 없대"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "21:59:00",
+            "utterance": "백신?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "21:59:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-20",
+            "time": "22:00:00",
+            "utterance": "서울갈 때 맞으십쇼"
+        }
+    ]
+}

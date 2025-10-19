@@ -1,0 +1,128 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "26646",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 12,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_여행"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "포르투갈이 그렇게 좋대"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "아 포르투갈 여행?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "응 후기가 좋더러고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "주변에 간 사람 있나"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "응 의외로 많아"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "오 그래 놀랍네"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "오히려 스페인보다 좋대"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "그래? 특별한가 보네"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "응 분위기가 다르대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "스페인이랑 다르다는 거니"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "응 훨씬 여유롭대"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-09-27",
+            "time": "00:00:00",
+            "utterance": "스페인은 사람이 많나"
+        }
+    ]
+}

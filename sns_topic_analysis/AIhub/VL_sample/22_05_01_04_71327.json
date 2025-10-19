@@ -1,0 +1,176 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "71327",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 16,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_인물"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "영화배우 하정우가 프로포폴 불법 투약 혐의로 1심 재판에서 벌금 3000만원을 선고 받았대."
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "역시 사람 이미지나 얼굴로만 판단하면 안돼"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "요즘 안 나오는 거 같더니 약하고 있었나 봐"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "그래도 어떻게 걸려서 다행이다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "하정우는 1심 선고가 끝난 뒤 기자들에게 \"겸허이 받아들이고 죄송하다는 말씀을 드리겠다 앞으로 더 책임을 갖고 당당하게 살도록 노력하겠다\"고 했대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "그럼 2심 재판이 또 있는 건가?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "하정우가 항소 신청하면 2심 재판이 있겠지?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "근데 저렇게 얘기했으니 항소는 안 하지 않을까?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "그치 받아들인댔으니까 항소는 안 할 거 같아!"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "응응 키키 댓글 보고 안 사실인데 아빠가 40살이나 어린 동생을 만들었다는데...? 알고 있었어?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "웅 키키 안 그래도 한동안 그거 때문에 웃겼잖아"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "아 진짜야? 진짜 저 나이에 애기 낳은 거야?"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "응 그렇다고 하더라고 키키 그 여자가 소송도 걸었었어"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "김용건... 76살이래... 대단하다... 소송도 아직 진행 중인가 봐..."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T13",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "김용건 여자친구가 합의할 생각이 없다고 했대"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T14",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "소송 끝난 걸로 알고 있었는데 아직 하는구나 키키"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T15",
+            "participantID": "P01",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "응응 이번에 하정우 사건 터지면서 김용건도 다시 주목받고 있나 봐..."
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T16",
+            "participantID": "P02",
+            "date": "2021-09-30",
+            "time": "00:00:00",
+            "utterance": "애기 아빠로서 잘할 거라 했던 거 같은데 키키"
+        }
+    ]
+}

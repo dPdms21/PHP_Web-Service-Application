@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f6ac3cad-e640-5efe-878e-007d635de7b6",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_미디어"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:46:00",
+            "utterance": "러시아는"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:46:00",
+            "utterance": "테이크아웃컵도 버린다매"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:46:00",
+            "utterance": "차밖으로"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "14:48:00",
+            "utterance": "걔네는"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "14:48:00",
+            "utterance": "겨육 안받나..?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "어쨋거나 교육 받아서 이건 옳지 않다고 생각하고 버리기 전에 죄책감이 드는 거자나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "걔네는 죄책감없는거같더라.."
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "예전에 그 영상봣는데,, 차밖으로 버린쓰레기 자전거타고 따라가서 차 창문에다가 다시 넣는거"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "러시아.."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-24",
+            "time": "14:49:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋ멋잇다"
+        }
+    ]
+}

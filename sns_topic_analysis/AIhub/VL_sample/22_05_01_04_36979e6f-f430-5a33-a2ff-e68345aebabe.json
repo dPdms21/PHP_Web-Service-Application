@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "36979e6f-f430-5a33-a2ff-e68345aebabe",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대전광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:11:00",
+            "utterance": "....하는못된의심"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-09-16",
+            "time": "00:11:00",
+            "utterance": "근데 자기 진짜"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-09-16",
+            "time": "00:11:00",
+            "utterance": "몰랐대"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-09-16",
+            "time": "00:11:00",
+            "utterance": "근데 내 친구들은 다"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-09-16",
+            "time": "00:11:00",
+            "utterance": "알았을거라고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:11:00",
+            "utterance": "근데 언니 그오빠 캐그많이햇자나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:12:00",
+            "utterance": "태그"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:12:00",
+            "utterance": "솔직히"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:12:00",
+            "utterance": "난 그사람 얼굴"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:12:00",
+            "utterance": "본적도엄ㅅ는데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-09-16",
+            "time": "00:12:00",
+            "utterance": "다아는데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-09-16",
+            "time": "00:12:00",
+            "utterance": "웅 니가 태그란거에 걔가 좋아요누릉거 봣다고"
+        }
+    ]
+}

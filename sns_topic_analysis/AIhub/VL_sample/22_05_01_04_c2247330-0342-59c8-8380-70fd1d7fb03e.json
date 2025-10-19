@@ -1,0 +1,198 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c2247330-0342-59c8-8380-70fd1d7fb03e",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 12,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "식음료"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "음식 맛있었다고 하더니만"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "머ㅜ징"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "그래서 숙박이.비싼거지"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "음식값이 포함되니깡"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "양고기를.많이 먹는데"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "양냄새 제거를"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "우리나라보다 덜 해"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "그래서 그 냄새가 좀 긇거"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:17:00",
+            "utterance": "그것은 곤란해"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "양냄새가 세서 그런가"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "돼지고기를 시켜고"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "도"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "약간 냄새가 나는거 같아"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "ㅋㅋ외국에서 고기먹을때"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P03",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "ㅋㅋㅋ그래도 찾아보면"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "좀 그런가바"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "심지어 초코 아이스크림도"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P03",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "맛잇는게잇을거야"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P01",
+            "date": "2018-12-26",
+            "time": "14:18:00",
+            "utterance": "홍콩에서도"
+        }
+    ]
+}

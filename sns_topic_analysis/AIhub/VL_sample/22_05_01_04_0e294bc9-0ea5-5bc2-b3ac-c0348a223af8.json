@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "0e294bc9-0ea5-5bc2-b3ac-c0348a223af8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "인천광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:24:00",
+            "utterance": "설에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:24:00",
+            "utterance": "세배하면 세뱃돈 주잖아 ㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "21:24:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:24:00",
+            "utterance": "근데 요즘 코로나 때문에 돈 만지기를"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "다들 싫어해서 신권 발급해가는 사람이 없다드라"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "그렇구나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "다 카카오 봉투"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "이런거 한대 ㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "누가 새배를 해 지금 ᆢ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "하는애들도 잇긴 잇겟지 ㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "아이들은 하려나 ᆢ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "애기들 있는집은"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:25:00",
+            "utterance": "다하지"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "21:26:00",
+            "utterance": "그렇긴 하겟네"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:26:00",
+            "utterance": "우리는 애기들이 없으니"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-02-11",
+            "time": "21:26:00",
+            "utterance": "안하는거지~"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-02-11",
+            "time": "21:26:00",
+            "utterance": "그렇지 ㅋ"
+        }
+    ]
+}

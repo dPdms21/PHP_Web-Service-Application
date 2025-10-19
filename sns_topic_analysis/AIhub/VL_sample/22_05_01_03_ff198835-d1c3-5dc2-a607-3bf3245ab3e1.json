@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff198835-d1c3-5dc2-a607-3bf3245ab3e1",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "미용과 건강",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:08:00",
+            "utterance": "자기야"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:08:00",
+            "utterance": "그"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:08:00",
+            "utterance": "전면카메라 이상하게 나오는거"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:08:00",
+            "utterance": "유지를 해제해야하지?!"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "유지!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "#@시스템#사진#"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "아마? ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "자기가 직접 해바 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "내가 기억이안나 ㅎ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "안 한게 더 잘나와서..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "아 나 유지장치"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "헐그래?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "자긴 얼굴 죄우대칭이"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "나 왤케 못생기게 나오지ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-03",
+            "time": "21:09:00",
+            "utterance": "질맞나바"
+        }
+    ]
+}

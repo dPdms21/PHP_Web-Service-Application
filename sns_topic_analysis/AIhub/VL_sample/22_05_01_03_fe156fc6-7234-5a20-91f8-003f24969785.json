@@ -1,0 +1,123 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe156fc6-7234-5a20-91f8-003f24969785",
+            "numberOfParticipants": 4,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P04",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-06-12",
+            "time": "09:20:00",
+            "utterance": "졸린 눈을 비비고 왓는디"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-06-12",
+            "time": "09:20:00",
+            "utterance": "영화관 들너와서 앉자마자 졸리잖아"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-06-12",
+            "time": "09:42:00",
+            "utterance": "일어난거 대단쓰"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P03",
+            "date": "2018-06-12",
+            "time": "09:54:00",
+            "utterance": "ㅋㅋㅋㅋ싸게 보려다 졸다옴"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P01",
+            "date": "2018-06-12",
+            "time": "11:15:00",
+            "utterance": "영화 존잼!!!!"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P04",
+            "date": "2018-06-12",
+            "time": "11:19:00",
+            "utterance": "오 재밌군!!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2018-06-12",
+            "time": "11:30:00",
+            "utterance": "엉 내용이 뻔하긴한데 재밋음ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2018-06-12",
+            "time": "11:30:00",
+            "utterance": "Love yourself"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P02",
+            "date": "2018-06-12",
+            "time": "11:37:00",
+            "utterance": "내가좋아하는장르군ㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2018-06-12",
+            "time": "11:41:00",
+            "utterance": "엉 재밋엌ㅋㅋㅋ"
+        }
+    ]
+}

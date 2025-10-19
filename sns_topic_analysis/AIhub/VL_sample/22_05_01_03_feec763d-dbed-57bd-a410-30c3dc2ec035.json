@@ -1,0 +1,161 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "feec763d-dbed-57bd-a410-30c3dc2ec035",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_금융_상태/은행",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "선배 나 큰일날뻔했다"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "아주 바지에쌀뻔"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "쾌변햇니?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "와중에 도나스 아저시씨 집에 가실 시간인데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "도나스 너무 많길래"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "헐 아저씨오셕구마"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "ㅜㅠㅜㅠㅜ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "괜히 삼천원 어치"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "사서 집에 오다가"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "찹쌀도너츠 ㅜㅜㅜㅠㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "아주 큰일날빤"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:20:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-03",
+            "time": "17:21:00",
+            "utterance": "많리 쌋니"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:21:00",
+            "utterance": "ㅇㅇ겁나 많이쌈ㅋㅋㅋㅋㅌㅌㅌ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-10-03",
+            "time": "17:21:00",
+            "utterance": "어으식은땀"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-10-03",
+            "time": "17:21:00",
+            "utterance": "많리 쌋다니 다행이구나"
+        }
+    ]
+}

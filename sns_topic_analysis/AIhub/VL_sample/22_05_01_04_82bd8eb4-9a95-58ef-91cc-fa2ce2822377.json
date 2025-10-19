@@ -1,0 +1,184 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "82bd8eb4-9a95-58ef-91cc-fa2ce2822377",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:52:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:52:00",
+            "utterance": "카드를"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "어떻게뽑아?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "보여주지도 않아"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "전화로 두번째꺼요"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "이러나?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "자기가 전화 너어로 보고 있대"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "내가 무슨카드요 그러니까"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "뒤집어서 다 본거래"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "아니 지금 한강에서 누워있을지 알게 뭐야 그여자가"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "그러면서 솔루션이 내가 산부인과에 가보면 애가 금방 생김다"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "그나이 되었음 병원도 가봐라"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:53:00",
+            "utterance": "사업은 초반엔 힘에 부쳐도 38세쯤 대박이 난다"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:54:00",
+            "utterance": "야 이얘기 누가 못해"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-03-10",
+            "time": "23:54:00",
+            "utterance": "그러면서 타로에 그렇게 나왔대^^^%"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:54:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ놀라운세상이네 진짜"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-03-10",
+            "time": "23:54:00",
+            "utterance": "전화로 타로를 다봐주는데"
+        }
+    ]
+}

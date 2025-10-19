@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "36e3d9f2-13fc-5361-9106-2bd88c6363ff",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 6,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_취미/여가_인물"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "13:49:00",
+            "utterance": "#@URL#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "13:49:00",
+            "utterance": "아 진짜 류이호 조폭딸이랑 사귀는줄 알았짢아요!"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "13:50:00",
+            "utterance": "뭐 했다고 벌써 키스야"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "13:50:00",
+            "utterance": "방구석에서 보는 여우 마음 설레게"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "13:50:00",
+            "utterance": "갑자기 프랑스남 생각나네"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "13:51:00",
+            "utterance": "뭐헀다고 콘돔산대;"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "14:08:00",
+            "utterance": "얼굴 작네 류이호"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "14:22:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ류이호..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-12-18",
+            "time": "14:23:00",
+            "utterance": "다음은  니놈이다"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-12-18",
+            "time": "14:23:00",
+            "utterance": "^^"
+        }
+    ]
+}

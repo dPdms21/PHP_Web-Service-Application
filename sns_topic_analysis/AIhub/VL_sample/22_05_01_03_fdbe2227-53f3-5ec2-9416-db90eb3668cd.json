@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdbe2227-53f3-5ec2-9416-db90eb3668cd",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-06",
+            "time": "21:52:00",
+            "utterance": "나는 집가요"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "21:52:00",
+            "utterance": "아구 고생했어요"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "21:52:00",
+            "utterance": "전화가능하면"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "21:52:00",
+            "utterance": "전화주세영"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-06",
+            "time": "21:52:00",
+            "utterance": "엘베 내리면 할겡"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "21:52:00",
+            "utterance": "넹!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-06",
+            "time": "22:00:00",
+            "utterance": "씻오"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:00:00",
+            "utterance": "으안돼"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:00:00",
+            "utterance": "#@이름#선배 연락왔어"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:00:00",
+            "utterance": "집이예요?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:00:00",
+            "utterance": "으잉"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:00:00",
+            "utterance": "🤦🏻‍♂️"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:02:00",
+            "utterance": "#@이름#나가요"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:03:00",
+            "utterance": "더 전화 하시지"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:09:00",
+            "utterance": "#@이름#이 전화 끊으니까 전화가 오네 밍"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:09:00",
+            "utterance": "다녀올게요"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:14:00",
+            "utterance": "내일은 #@이름#선배 차타고 가야할지도 모르겠오 얘기해놔여지"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-06",
+            "time": "22:14:00",
+            "utterance": "#@이름#님이 안 오셔가지구"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-06",
+            "time": "22:16:00",
+            "utterance": "허걱"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-06",
+            "time": "22:16:00",
+            "utterance": "조아조아"
+        }
+    ]
+}

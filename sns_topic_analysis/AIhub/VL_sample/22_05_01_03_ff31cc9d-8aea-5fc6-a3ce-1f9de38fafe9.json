@@ -1,0 +1,200 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff31cc9d-8aea-5fc6-a3ce-1f9de38fafe9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "사회/경제_자기계발_취업/이직"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경상남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:17:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:17:00",
+            "utterance": "일안다니며너 따도되는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:17:00",
+            "utterance": "면접은 보러가자!"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "16:18:00",
+            "utterance": "고민후후후"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "16:18:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:25:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ이게~!"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:25:00",
+            "utterance": "서울에맘떳네"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:25:00",
+            "utterance": "#@소속#에있는동안"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "16:26:00",
+            "utterance": "약간 그런걸수도 있어~.~"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "16:26:00",
+            "utterance": "가산디지털에사 면접본당"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:40:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:40:00",
+            "utterance": "가깝잖아!!!!!!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:41:00",
+            "utterance": "#@기타# 안갈아타도돼!"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "16:41:00",
+            "utterance": "일단 면접을 본다~~그랭"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:44:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ그래 당장봐"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "16:44:00",
+            "utterance": "몇시야?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "16:49:00",
+            "utterance": "낼 열시반"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "18:46:00",
+            "utterance": "오"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "18:46:00",
+            "utterance": "#@이름# 열심히"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-03-18",
+            "time": "18:46:00",
+            "utterance": "오고있나"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-03-18",
+            "time": "19:00:00",
+            "utterance": "자버렸넹..."
+        }
+    ]
+}

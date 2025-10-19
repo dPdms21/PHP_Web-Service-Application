@@ -1,0 +1,112 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "6c449d7d-3060-5495-b18c-5efbe2a95238",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 10,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_가정"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "인천광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "펠로우 안하고"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "연구직한대요"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "그럼?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "환자보기싫다고 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "#@이름#이처럼 놀구싶구나"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "아이가 크는모습을"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "20:04:00",
+            "utterance": "뭐 비슷하져 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "20:05:00",
+            "utterance": "보구싶구나"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-23",
+            "time": "20:05:00",
+            "utterance": "시모가 욕을 바가지로 하고 난리난리"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-23",
+            "time": "20:05:00",
+            "utterance": "진정한 아빠네"
+        }
+    ]
+}

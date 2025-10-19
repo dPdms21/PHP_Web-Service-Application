@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff548269-40ef-5f25-83a5-6d7d184fb156",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-15",
+            "time": "11:38:00",
+            "utterance": "치과갔다왔어?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-15",
+            "time": "11:39:00",
+            "utterance": "응 ㅠㅠ 비많이와"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-15",
+            "time": "11:39:00",
+            "utterance": "많이와?? ㅠㅜㅠ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-15",
+            "time": "11:39:00",
+            "utterance": "카페야?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-15",
+            "time": "11:43:00",
+            "utterance": "서면 잠깐왔다가 이제 카페갈고얌"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-15",
+            "time": "11:45:00",
+            "utterance": "그래?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-15",
+            "time": "11:45:00",
+            "utterance": "ㅠㅠ 비 너무 많이왕"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-15",
+            "time": "11:46:00",
+            "utterance": "ㅠㅠ 올때 조심해서와"
+        }
+    ]
+}

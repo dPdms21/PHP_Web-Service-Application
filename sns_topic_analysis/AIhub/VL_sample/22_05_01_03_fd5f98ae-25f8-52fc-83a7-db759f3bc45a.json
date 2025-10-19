@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fd5f98ae-25f8-52fc-83a7-db759f3bc45a",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "안부/일상_일상공유_생각/감정/성향",
+                "생활/행사_특별생활_사적행사"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:55:00",
+            "utterance": "#@이름#"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:55:00",
+            "utterance": "#@이름#이"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:55:00",
+            "utterance": "결홍식가"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "09:59:00",
+            "utterance": "아니 안가유"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:59:00",
+            "utterance": "ㅠ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:59:00",
+            "utterance": "나만 갈듯"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:59:00",
+            "utterance": "ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "09:59:00",
+            "utterance": "다들 안가는 분위기넹"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "10:00:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "10:00:00",
+            "utterance": "사람들 많이 갈줄 알고 안가는건데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:05:00",
+            "utterance": "ㅠ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:05:00",
+            "utterance": "초대 받앗엉?!"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:05:00",
+            "utterance": "나몸이 안돟긴한데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:05:00",
+            "utterance": "가까우ㅏ서"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "10:06:00",
+            "utterance": "모바일청첩장 받았음"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:12:00",
+            "utterance": "안갈래?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:12:00",
+            "utterance": "ㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "10:17:00",
+            "utterance": "안갈래 지금은 이미 늦었어 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-05-30",
+            "time": "10:17:00",
+            "utterance": "어제 얘기했으면 같이갈걸그랬네"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-05-30",
+            "time": "10:18:00",
+            "utterance": "ㅠㅠ어키"
+        }
+    ]
+}

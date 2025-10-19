@@ -1,0 +1,189 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fe472e5b-3957-5ad4-a61b-be216647955a",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 19,
+            "numberOfTurns": 13,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:05:00",
+            "utterance": "이슬톡톡 파뤼중"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:05:00",
+            "utterance": "힝ㅠㅠ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "뭐라구??"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "#@이름#도껴죠"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "내꺼두 샀댜구??"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "#@이름#네캔쨔"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "언냐"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "배송비맞추려규"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "#@이름#ㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "만오천원 입금합니댜ㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "내맘이야ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "안대퓨ㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:06:00",
+            "utterance": "#@이름# 하이네캔들고 일로 와ㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:07:00",
+            "utterance": "제발ㅠㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:07:00",
+            "utterance": "내맘대루산고니끄"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:07:00",
+            "utterance": "시로 #@이름#맘 앙대"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2019-05-02",
+            "time": "22:07:00",
+            "utterance": "반사!"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2019-05-02",
+            "time": "22:07:00",
+            "utterance": "시져ㅠㅠㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T13",
+            "participantID": "P03",
+            "date": "2019-05-02",
+            "time": "22:07:00",
+            "utterance": "다들 저녁슐!"
+        }
+    ]
+}

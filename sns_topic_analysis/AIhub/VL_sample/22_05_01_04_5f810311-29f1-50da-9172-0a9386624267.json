@@ -1,0 +1,201 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "5f810311-29f1-50da-9172-0a9386624267",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 21,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "일과 직업",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_반복생활_직장",
+                "안부/일상_일상공유_생각/감정/성향"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:37:00",
+            "utterance": "경찰친구가"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:37:00",
+            "utterance": "냄새때문에"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:37:00",
+            "utterance": "고독사 신고나가몀"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:37:00",
+            "utterance": "확인만하고 바로 뛰쳐나와야한대"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:37:00",
+            "utterance": "온몸에 배겨서"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:46:00",
+            "utterance": "`으악"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:46:00",
+            "utterance": "그래도 진짜 노출된 시체는아니고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:46:00",
+            "utterance": "약품처리된 시체니까"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:46:00",
+            "utterance": "그나마 좀 괜찮지않겟나.."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "난 그리고 정리보조 열체크담당이라"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "금방하고 나올듯.."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "직접적으로"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "무서워"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "니가 대하는건"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "아니니까"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "그나마 다행이다"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "엉엉 아닌거지ㅠ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "내말이..ㅠ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "아니엇으면"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-08",
+            "time": "11:47:00",
+            "utterance": "포기햇을듯"
+        }
+    ]
+}

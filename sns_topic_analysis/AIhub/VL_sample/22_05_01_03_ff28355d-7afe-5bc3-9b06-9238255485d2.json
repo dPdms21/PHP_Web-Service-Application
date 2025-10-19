@@ -1,0 +1,191 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff28355d-7afe-5bc3-9b06-9238255485d2",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "15:08:00",
+            "utterance": "이제 우리 구 국회의원 보고있어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "15:17:00",
+            "utterance": "자??"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "16:44:00",
+            "utterance": "또 잠들었다..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "16:44:00",
+            "utterance": "으 왜 이러징...ㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "16:56:00",
+            "utterance": "ㅋㅋ그럴 수 있지"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "16:56:00",
+            "utterance": "잘 잤어?"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "17:25:00",
+            "utterance": "다시 자?ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "17:35:00",
+            "utterance": "헐"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "17:35:00",
+            "utterance": "흠"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "17:35:00",
+            "utterance": "애매한걸"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "17:41:00",
+            "utterance": "으앙"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "17:41:00",
+            "utterance": "ㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "17:41:00",
+            "utterance": "#@이모티콘#"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "17:59:00",
+            "utterance": "엥 개운하게 못잤어?"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "17:59:00",
+            "utterance": "왜 울어ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "18:00:00",
+            "utterance": "잠탱이 여자친구라서"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "18:00:00",
+            "utterance": "ㅠㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "18:03:00",
+            "utterance": "엥ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-04-11",
+            "time": "18:03:00",
+            "utterance": "별걸 가지고..."
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-04-11",
+            "time": "18:05:00",
+            "utterance": "ㅠㅠ"
+        }
+    ]
+}

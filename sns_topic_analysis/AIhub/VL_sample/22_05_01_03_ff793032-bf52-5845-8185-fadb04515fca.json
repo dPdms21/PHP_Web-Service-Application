@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff793032-bf52-5845-8185-fadb04515fca",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "08:13:00",
+            "utterance": "아침먹구왓다아0"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "08:13:00",
+            "utterance": "이제다시자야지ㅎ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:13:00",
+            "utterance": "쟈기이이이"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:13:00",
+            "utterance": "언제일오나ㅠㅠㅠㅠ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-11-16",
+            "time": "12:41:00",
+            "utterance": "일어났어 헤헤"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:42:00",
+            "utterance": "와아안전"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:42:00",
+            "utterance": "늦게일어나네에"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-11-16",
+            "time": "12:42:00",
+            "utterance": "점심머것어?"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:43:00",
+            "utterance": "개노잼이야우우...."
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:43:00",
+            "utterance": "하아응ㅠ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-11-16",
+            "time": "12:44:00",
+            "utterance": "수업 ?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-11-16",
+            "time": "12:44:00",
+            "utterance": "강의4개"
+        }
+    ]
+}

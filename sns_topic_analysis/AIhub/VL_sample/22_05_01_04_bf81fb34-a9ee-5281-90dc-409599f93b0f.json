@@ -1,0 +1,257 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "bf81fb34-a9ee-5281-90dc-409599f93b0f",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 28,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "상거래(쇼핑)",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품",
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "11:57:00",
+            "utterance": "그걸로 조져"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:57:00",
+            "utterance": "안햇어"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:57:00",
+            "utterance": "리빙박스가"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:57:00",
+            "utterance": "상당히 비싸네"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:57:00",
+            "utterance": "다이소에서 사면 쌀려나"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:58:00",
+            "utterance": "개당 만원잡고 7개사면 벌써 7마넌이다"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "11:58:00",
+            "utterance": "머가 그리"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "11:58:00",
+            "utterance": "비사"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "11:58:00",
+            "utterance": "ㅜㅜ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "대충 잡앗어"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "아마 사이즈 클수록 비싸겟지"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "2021년 117명"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "2022년 95명"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "이래"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "부교공"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "채용날짜는 불확실"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "11:59:00",
+            "utterance": "여부와 시기는 미정"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "12:00:00",
+            "utterance": "근데 현직은아니고 준비생이네"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "12:01:00",
+            "utterance": "준비생이"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "12:01:00",
+            "utterance": "멀안다고"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "12:01:00",
+            "utterance": "그런찌라시를"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "12:01:00",
+            "utterance": "뿌리고 다니는거야"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "12:03:00",
+            "utterance": "그"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "12:04:00",
+            "utterance": "채용종이 그런건 줬었지"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "12:04:00",
+            "utterance": "전화해"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "12:12:00",
+            "utterance": "너으모습"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-27",
+            "time": "12:13:00",
+            "utterance": "노 완전 널널쓰"
+        },
+        {
+            "utteranceID": "U28",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-27",
+            "time": "12:15:00",
+            "utterance": "버스 널널해?"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "bfab18a5-9bb6-5f0d-98dd-b01b9b8d85a9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 5,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_생각/감정/성향",
+                "생활/행사_특별생활_생활정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "충청남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-26",
+            "time": "09:52:00",
+            "utterance": "진짜 한 가운데에 바리스타 분들이 잔뜩 들어가있어서 1:1로 상대하는거같았어"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-04-26",
+            "time": "09:53:00",
+            "utterance": "그거 찾아보니까 커피 내리는 방법같은것도 고를 수 있대"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-04-26",
+            "time": "13:38:00",
+            "utterance": "오 신기하다 ㅋㅋㅋㅋㅋ 뭔가 커피 잘 모르는사람 힘들거같아"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-27",
+            "time": "17:06:00",
+            "utterance": "그러게"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-04-27",
+            "time": "17:06:00",
+            "utterance": "나도 잘은 몰라서ㅋㅋㅋㅋㅋ궁금해 아직 안 가봤어"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-04-27",
+            "time": "21:27:00",
+            "utterance": "ㅋㅋㅋ사란 많았겠다..."
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-27",
+            "time": "22:11:00",
+            "utterance": "응?"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-04-27",
+            "time": "22:11:00",
+            "utterance": "ㅋㅋㅋㅋ안 가봤는데"
+        }
+    ]
+}

@@ -1,0 +1,167 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "db698497-e630-5f2b-b7ca-b70c8d2473f8",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:51:00",
+            "utterance": "올해 내 생일은 3월 17일이라고 생각해줘"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:51:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:51:00",
+            "utterance": "동생들 장하다 ㅜㅜ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:51:00",
+            "utterance": "#@이름#이가 어제 만났는데"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:51:00",
+            "utterance": "속마음 들었다"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:51:00",
+            "utterance": "왜왱??"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "너랑 나랑 장난쳤을때"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "이 누나가 미쳤나 했대"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "제정신인가 했다고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "ㅋㅋㅋㅋ개웃겨 진짜 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "어니"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "왜 나라고 생각하냐고"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "그래놓고 ㅋㅋ 말로는 누나도 새해복 많이 받으라고"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "하...."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-01-25",
+            "time": "23:52:00",
+            "utterance": "ㅋㅋㅋㅋㅋ"
+        }
+    ]
+}

@@ -1,0 +1,208 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "502ced91-ca29-578f-a55a-07423197b5f9",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 22,
+            "numberOfTurns": 11,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_자기계발_공부/시험"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "울산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대 미만",
+                "residentialProvince": "울산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "지금 여기에 연암다니는애들이"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "만촌에 새로생긴학원이"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "그 원래 연암에 잘가르치는 쌤이 직접수업하는게 아니라 다른쌤이 수업한다고 별로라고 뭐라카드라고ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "나 사씨남정기 비교독서감상문"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "분명독서감상문인데"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "비교내용만써서1200자넘어버렷단말임ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "엥원래잏단쌤이 가르치는거맞는데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "내 소감이 잇어야대는데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:36:00",
+            "utterance": "왜 알지도못하면서지껄이노 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "직접가본것도아닌데"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "이미 1200자 다써버려서 더쓰기가시름..ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "원래 그 원장"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "그건물주쌤이하는거맞는데ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "그거막 새로운 쌤 영입햇다고카드라고..."
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "그쌤은 따로 반있대"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:37:00",
+            "utterance": "그카고그쌤 시지에서도 수업하는데머지ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:41:00",
+            "utterance": "엥ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:41:00",
+            "utterance": "머지 왜다르게 알고잇지ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:42:00",
+            "utterance": "그르게말이야ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2018-05-28",
+            "time": "22:43:00",
+            "utterance": "새로온쌤도잘가르치던데"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2018-05-28",
+            "time": "22:54:00",
+            "utterance": "ㅋㅋㅋㅋ걍연암이 실력이좋은듯"
+        }
+    ]
+}

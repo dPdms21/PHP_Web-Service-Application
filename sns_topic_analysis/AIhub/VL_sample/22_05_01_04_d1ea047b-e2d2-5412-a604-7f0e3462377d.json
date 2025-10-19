@@ -1,0 +1,160 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "d1ea047b-e2d2-5412-a604-7f0e3462377d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사회/경제_쇼핑/거래_상품"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:43:00",
+            "utterance": "저게 5차까지만 팔고 품절해놨는데"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:44:00",
+            "utterance": "인스타에 더 풀어달라고하는사람이랑"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-02-20",
+            "time": "15:44:00",
+            "utterance": "많이 팔았노"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2019-02-20",
+            "time": "15:44:00",
+            "utterance": "옴맘마"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:44:00",
+            "utterance": "어떤사람은 뭐 흔한디자인이 되면안된다 그만플어라하는사람이랑"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:44:00",
+            "utterance": "싸웠다던데 ㅠ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:44:00",
+            "utterance": "이미 산사람 ㅇㅇ ,,"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "방관잼"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "웅 ㅎㅎ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "받아보고"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "맘에안들면 불량인거같다하고 환불하지뭐 ㅜ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "앜ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "일단 받고 말하셈~"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "ㅇㅇ ,,"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "내껀 5차니까"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2019-02-20",
+            "time": "15:45:00",
+            "utterance": "아니,, 대단해.. 한달을 기다려서 옷을 받다니.."
+        }
+    ]
+}

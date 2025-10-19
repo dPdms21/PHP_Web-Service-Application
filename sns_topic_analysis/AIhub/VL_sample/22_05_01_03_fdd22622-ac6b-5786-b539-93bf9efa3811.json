@@ -1,0 +1,143 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdd22622-ac6b-5786-b539-93bf9efa3811",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 14,
+            "numberOfTurns": 7,
+            "source": "한국어SNS",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "부산광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "주식사세요!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "네네.."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "갑분 주식"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "아니 여기애들"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "주식에 미쳐가지고"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "일은 안하고 맨날천날 주식만 함"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "무서워..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "전 주식한지 한 삼년 넘엇늗데"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "요새 갑자기.."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "광풍 부는듯"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-18",
+            "time": "13:32:00",
+            "utterance": "그래서 한국주식에서 발뺌"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:33:00",
+            "utterance": "와우"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-18",
+            "time": "13:33:00",
+            "utterance": "외국주식 하는구만요"
+        }
+    ]
+}

@@ -1,0 +1,204 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "d7747f67-a75f-5f41-a9b7-36fab83d0b2c",
+            "numberOfParticipants": 4,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 11,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "문화/건강_건강/미용_건강정보공유"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "남성",
+                "age": "50대 이상",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P04",
+                "gender": "여성",
+                "age": "50대 이상",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-18",
+            "time": "15:27:00",
+            "utterance": "폐렴증세로"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-02-18",
+            "time": "15:27:00",
+            "utterance": "집에서 죽엇댜"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:27:00",
+            "utterance": "대박이네/..."
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:27:00",
+            "utterance": "너 학교 안가야되는거 아니냥"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:52:00",
+            "utterance": "열어분"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:52:00",
+            "utterance": "마스크 역에서 매일 하나씩 받으세여"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:53:00",
+            "utterance": "무료배포한대여"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:53:00",
+            "utterance": "합정역이면 6호선 아이센터 가서 받으면 편리하다고 #@이름#가 알려줌 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-02-18",
+            "time": "15:56:00",
+            "utterance": "근데 코로나 아닐수도 잇다함"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P03",
+            "date": "2020-02-18",
+            "time": "15:57:00",
+            "utterance": "#@이름# 당분간 자가격리!"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:57:00",
+            "utterance": "좋겠다"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:57:00",
+            "utterance": "#@이름# 자가격리 -> 나 자가격리"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "15:57:00",
+            "utterance": "오케이 ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P02",
+            "date": "2020-02-18",
+            "time": "17:26:00",
+            "utterance": "나는 오늘도 야근~~~"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T06",
+            "participantID": "P01",
+            "date": "2020-02-18",
+            "time": "17:32:00",
+            "utterance": "사층에 영양제 왓나보네유"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T07",
+            "participantID": "P03",
+            "date": "2020-02-18",
+            "time": "17:34:00",
+            "utterance": "뭐 왔더라..영양제 시켰나? 우한폐렴 방지용?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P01",
+            "date": "2020-02-18",
+            "time": "17:35:00",
+            "utterance": "엄마가 뭐 삿어여"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2020-02-18",
+            "time": "17:36:00",
+            "utterance": "근데 왜  사층으로 옴? 오층으로 와야지.."
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P04",
+            "date": "2020-02-18",
+            "time": "17:44:00",
+            "utterance": "#@이름#이가 네이버로 시켜서 그래요"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T11",
+            "participantID": "P03",
+            "date": "2020-02-18",
+            "time": "19:19:00",
+            "utterance": "야근?"
+        }
+    ]
+}

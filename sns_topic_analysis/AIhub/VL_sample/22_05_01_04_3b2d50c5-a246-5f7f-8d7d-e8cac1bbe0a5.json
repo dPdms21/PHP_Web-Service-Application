@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "3b2d50c5-a246-5f7f-8d7d-e8cac1bbe0a5",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "안부/일상_일상공유_일상경험"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "오늘 아침에"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "영어모임이 있는데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "아 오늘도 해?"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "오늘 하는날이었음ㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "어어ㅋ"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "그래서"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "캐나다 선생님"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "사무실로 오잖아"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "응"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "근데 선생님이"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "도너츠를 좋아해"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "어 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:49:00",
+            "utterance": "던킨?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:50:00",
+            "utterance": "미국식"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:50:00",
+            "utterance": "도너츠"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-23",
+            "time": "10:50:00",
+            "utterance": "아나?"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-07-23",
+            "time": "10:50:00",
+            "utterance": "미국식이 뭔데?"
+        }
+    ]
+}

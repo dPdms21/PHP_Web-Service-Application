@@ -1,0 +1,193 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ff35cc1c-79e1-5bf1-a493-712ea95a762c",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 10,
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위",
+                "생활/행사_특별생활_사적행사",
+                "생활/행사_반복생활_식사/요리"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "행사"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "14:11:00",
+            "utterance": "너 나갓음?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "14:11:00",
+            "utterance": "아니"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "14:11:00",
+            "utterance": "지금"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "14:11:00",
+            "utterance": "감"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:14:00",
+            "utterance": "영화 용산에서 몇시에 끝?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:14:00",
+            "utterance": "8 와이"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:14:00",
+            "utterance": "아하 오키 걍"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:14:00",
+            "utterance": "떼잉"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "내일 카레 먹으러 가실?"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "시간되나"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "영화 5-7임"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "영화 몇시 시작인데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "아하"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "너무 늦군"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "나 공연이 3시라사"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-09-22",
+            "time": "15:15:00",
+            "utterance": "점심으로 먹을라 햇음"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:16:00",
+            "utterance": "아하"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:16:00",
+            "utterance": "점심 먹고"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-09-22",
+            "time": "15:16:00",
+            "utterance": "씨지비가있어도 상관없긴함"
+        }
+    ]
+}

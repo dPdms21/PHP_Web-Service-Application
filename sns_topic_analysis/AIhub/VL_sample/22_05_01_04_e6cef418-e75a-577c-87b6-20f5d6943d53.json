@@ -1,0 +1,248 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "e6cef418-e75a-577c-87b6-20f5d6943d53",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 27,
+            "numberOfTurns": 9,
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "생활/행사_특별생활_생활정보공유"
+            ],
+            "source": "한국어SNS",
+            "single_topic": "주거와 생활"
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라남도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:55:00",
+            "utterance": "요기요"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:55:00",
+            "utterance": "망했네"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:55:00",
+            "utterance": "원래 요기요는 독일계"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:55:00",
+            "utterance": "하지만 그 회사가 배민을 먹고"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:56:00",
+            "utterance": "요기요는 버려버림"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:57:00",
+            "utterance": "오 ㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:57:00",
+            "utterance": "난 요기요랑 배미이랑"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:57:00",
+            "utterance": "같은 회사인줄 알았네"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:57:00",
+            "utterance": "둘다 독일 우아한형제들?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:57:00",
+            "utterance": "거기인줄 알았어"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "우아한 형제들은"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "배민"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "요기요는?"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "요기요는 딜리버리 서비스"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "독일"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "아하"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "독일 vs 배민"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "경쟁하다가"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "배민 사장이 독일 회사 밑으로 들어가서"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:58:00",
+            "utterance": "둘다 자회사 되는듯 싶었는데"
+        },
+        {
+            "utteranceID": "U21",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "배민사장이 딜리버리 서비스 아시아 지부장으로 들어가는거 딜복느"
+        },
+        {
+            "utteranceID": "U22",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "딜 보고"
+        },
+        {
+            "utteranceID": "U23",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "이번에 요기요를 해체시켜버림"
+        },
+        {
+            "utteranceID": "U24",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "그럼 지금 일단"
+        },
+        {
+            "utteranceID": "U25",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "배민은"
+        },
+        {
+            "utteranceID": "U26",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "독일 기업 소속인거지?"
+        },
+        {
+            "utteranceID": "U27",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-12-28",
+            "time": "15:59:00",
+            "utterance": "아마,"
+        }
+    ]
+}

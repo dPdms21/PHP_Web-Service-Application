@@ -1,0 +1,168 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "f5169bcf-7ce8-5d10-b8fd-d69a8c1129a7",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 17,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머",
+                "사람/관계_인물정보_인물정보공유"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:38:00",
+            "utterance": "동기"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "결혼한데"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "9월25일에"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "우와 두명째네"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "과로따지면"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "4명"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "와"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "현대파트도 2명잇엇어"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "한국파트는 1명"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "이제 2명된다"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "진짜 무용과는 결혼빨리하신당"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "이뻐서 그런가"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:39:00",
+            "utterance": "아직못들어봣는데"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:40:00",
+            "utterance": "임신한거같으"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-08-17",
+            "time": "00:40:00",
+            "utterance": "3명다 아기때문에 결혼한거야"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-08-17",
+            "time": "00:52:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-08-17",
+            "time": "00:52:00",
+            "utterance": "우리나이에 결혼이면 99퍼는 임신이지 뭐..."
+        }
+    ]
+}

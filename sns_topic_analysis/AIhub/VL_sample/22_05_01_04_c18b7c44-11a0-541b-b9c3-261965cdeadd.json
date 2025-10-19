@@ -1,0 +1,175 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "c18b7c44-11a0-541b-b9c3-261965cdeadd",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 18,
+            "numberOfTurns": 9,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "경기도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "지금 고양이 수의사로"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "유명한 유투버들..."
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "큰 논란은 아니고"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "별로래?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "캣텍스에"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "일조한다고"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "그런말 나오더라ㅠ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "엥 ㅋ"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "맞아..ㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "근데 다들"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "나도 느끼고 있엇어"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "콜라보? 이런거하자나"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "강#@이름#처럼"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "웅"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "그러다보니.."
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "뭐.. 고양이 용품 가격이 점점"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-11-24",
+            "time": "23:54:00",
+            "utterance": "더 오르게되는거같아."
+        }
+    ]
+}

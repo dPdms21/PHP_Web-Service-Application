@@ -1,0 +1,127 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "154681",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 12,
+            "numberOfTurns": 12,
+            "source": "주제별 텍스트 일상대화",
+            "single_topic": "시사/교육",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "30대",
+                "residentialProvince": null
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": null
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "인도에 유명한 힌두교 축제 알아?"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "혹시 그 소똥으로 하는 그 축제에요?"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "맞아 소똥 던지기 축제"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "아... ㅋ 네 들어본 적은 있어요"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "코로나 바이러스를 막겠다고 몸에 소똥을 발랐대"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "헐... 와우... 난리 났겠네요"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "그래서 그 축제 때문에 델타 변이가 더 확산된 것 같다고 하더라구"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "아니 왜 이런 시기에 그런 축제를..."
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "힌두교는 소에게 나온 것들은 뭐든지 특별한 효능이 있다고 생각한대"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "그래서 코로나도 물리칠 수 있을 거라고 생각했나 보네요..."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T11",
+            "participantID": "P01",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "그랬겠지 대유행이 또 나오지 않으면 다행이지"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T12",
+            "participantID": "P02",
+            "date": "2021-11-16",
+            "time": "00:00:00",
+            "utterance": "에휴... 이런 시기엔 그런 행사는 좀 조심하지"
+        }
+    ]
+}

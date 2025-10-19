@@ -1,0 +1,95 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "167d059d-0572-593e-bfd7-093467d8b47e",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 8,
+            "numberOfTurns": 4,
+            "source": "한국어SNS",
+            "single_topic": "여가 생활",
+            "multi_topic": [
+                "안부/일상_일상공유_소문/루머"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-12-24",
+            "time": "23:49:00",
+            "utterance": "이런이런~~"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-24",
+            "time": "23:49:00",
+            "utterance": "거기서 맨날 뭉쳐서 기숙하면은"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-12-24",
+            "time": "23:50:00",
+            "utterance": "연애 노리고 오는 애들 많을거 같오"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-12-24",
+            "time": "23:50:00",
+            "utterance": "에버랜드 알바도 그래서 인기가 많아! ㅎㅎ 스키장처럼"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-24",
+            "time": "23:50:00",
+            "utterance": "아 진짜루?"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-24",
+            "time": "23:50:00",
+            "utterance": "거기두 기숙이구나"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-24",
+            "time": "23:50:00",
+            "utterance": "스키장알바"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-12-24",
+            "time": "23:50:00",
+            "utterance": "쫌 별루네"
+        }
+    ]
+}

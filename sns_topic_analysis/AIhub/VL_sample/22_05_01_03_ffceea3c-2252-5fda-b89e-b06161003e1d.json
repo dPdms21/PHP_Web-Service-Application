@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "ffceea3c-2252-5fda-b89e-b06161003e1d",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 8,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "17:08:00",
+            "utterance": "응????"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "17:22:00",
+            "utterance": "자기 좋은시간 보내용????"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "18:03:00",
+            "utterance": "자기야아아 나 끝나구 집 가용~~"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "18:44:00",
+            "utterance": "자기는 뭐허나~?"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "19:04:00",
+            "utterance": "나 슬퍼 지금"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "19:04:00",
+            "utterance": "지하철 거꾸로 탓오 자기야"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "19:16:00",
+            "utterance": "에… 맙소사 무슨일이야"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "19:16:00",
+            "utterance": "자기 어디까지갔오!"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "19:41:00",
+            "utterance": "와아아아아앙십리"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "19:53:00",
+            "utterance": "아이고 자기 피곤한데"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "19:53:00",
+            "utterance": "자기 이제 내리나~~?"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "19:54:00",
+            "utterance": "난 누나랑 밥 먹오~~~"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-10-15",
+            "time": "19:54:00",
+            "utterance": "자기두 언능 가서 조금 더 배 채우자"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "22:06:00",
+            "utterance": "#@시스템#기타#"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-10-15",
+            "time": "22:07:00",
+            "utterance": "#@시스템#기타#"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-10-16",
+            "time": "00:29:00",
+            "utterance": "자기야아"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fdda8bda-a4ad-54e6-80d6-82c8aa872b62",
+            "numberOfParticipants": 2,
+            "numberOfUtterances": 16,
+            "numberOfTurns": 10,
+            "source": "한국어SNS",
+            "single_topic": "식음료",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "남성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "전라북도"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "10:57:00",
+            "utterance": "난 점심은 쭈꾸미다!"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "11:30:00",
+            "utterance": "밥 먹는당"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "11:30:00",
+            "utterance": "!!!!"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "11:39:00",
+            "utterance": "뭐먹엉"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "11:44:00",
+            "utterance": "오뎅국이랑 단호박샐러드,,,"
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "11:44:00",
+            "utterance": "생선까스랑 내가 조아하는 타르타르 나왔는데ㅜㅜ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "11:45:00",
+            "utterance": "그래도"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "11:45:00",
+            "utterance": "근데"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "11:45:00",
+            "utterance": "오뎅은먹어두되나?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "11:50:00",
+            "utterance": "그래서 국물 마셔..."
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "12:06:00",
+            "utterance": "다먹구 나는 레몬패션후르츠에이드 먹는당"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "12:07:00",
+            "utterance": "에이드 탄산인데..."
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "12:07:00",
+            "utterance": "레몬 같은 과일 먹은면 단거인뎅..."
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "12:12:00",
+            "utterance": "이건 쫌 먹자...."
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T09",
+            "participantID": "P01",
+            "date": "2020-07-21",
+            "time": "12:12:00",
+            "utterance": "탄산"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T10",
+            "participantID": "P02",
+            "date": "2020-07-21",
+            "time": "12:12:00",
+            "utterance": "밥 같지도 않은 밥을 먹어가지고.."
+        }
+    ]
+}

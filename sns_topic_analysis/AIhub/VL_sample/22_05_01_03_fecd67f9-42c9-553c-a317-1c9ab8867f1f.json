@@ -1,0 +1,197 @@
+{
+    "header": {
+        "dialogueInfo": {
+            "dialogueID": "fecd67f9-42c9-553c-a317-1c9ab8867f1f",
+            "numberOfParticipants": 3,
+            "numberOfUtterances": 20,
+            "numberOfTurns": 12,
+            "source": "한국어SNS",
+            "single_topic": "개인 및 관계",
+            "multi_topic": [
+                "안부/일상_일상공유_현재상태/행위"
+            ]
+        },
+        "participantsInfo": [
+            {
+                "participantID": "P01",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P02",
+                "gender": "여성",
+                "age": "20대",
+                "residentialProvince": "대구광역시"
+            },
+            {
+                "participantID": "P03",
+                "gender": "여성",
+                "age": "30대",
+                "residentialProvince": "서울특별시"
+            }
+        ]
+    },
+    "body": [
+        {
+            "utteranceID": "U01",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:01:00",
+            "utterance": "운동하러 여까지... 우예 오노 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U02",
+            "turnID": "T01",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:01:00",
+            "utterance": "뭘또 실망ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U03",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:01:00",
+            "utterance": "아맞다 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U04",
+            "turnID": "T02",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:01:00",
+            "utterance": "요즘 구미 계시제 ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U05",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:01:00",
+            "utterance": "#@이름# ㅋㅋㅋ 요즘 용량 과다..."
+        },
+        {
+            "utteranceID": "U06",
+            "turnID": "T03",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:01:00",
+            "utterance": "과부하 걸림ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U07",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:06:00",
+            "utterance": "과부하 ㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U08",
+            "turnID": "T04",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:06:00",
+            "utterance": "정신 챙기기.. 훔ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U09",
+            "turnID": "T05",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:07:00",
+            "utterance": "ㅎㅎㅎㅎㅎ #@이름# 근데 #@이름#언니 결혼식 몇시였노?"
+        },
+        {
+            "utteranceID": "U10",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:07:00",
+            "utterance": "1시ㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U11",
+            "turnID": "T06",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:07:00",
+            "utterance": "였어 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U12",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:14:00",
+            "utterance": "1시에 수성구 근처였는가? ㅠㅠㅋㅋ 아 1시인데.. 그 동네면 와... 나는 억지스레가도 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U13",
+            "turnID": "T07",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:14:00",
+            "utterance": "결혼식 종료일듯"
+        },
+        {
+            "utteranceID": "U14",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:29:00",
+            "utterance": "헐ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U15",
+            "turnID": "T08",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:29:00",
+            "utterance": "ㅇㅏ 일요일이네"
+        },
+        {
+            "utteranceID": "U16",
+            "turnID": "T09",
+            "participantID": "P03",
+            "date": "2017-06-13",
+            "time": "17:35:00",
+            "utterance": "#@이모티콘# 오 줌바?!ㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U17",
+            "turnID": "T10",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "17:36:00",
+            "utterance": "아악ㅋㅋㅋ #@기타# 스티커"
+        },
+        {
+            "utteranceID": "U18",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:53:00",
+            "utterance": "ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U19",
+            "turnID": "T11",
+            "participantID": "P02",
+            "date": "2017-06-13",
+            "time": "17:54:00",
+            "utterance": "스티커로 추는 줌바 ㅋㅋㅋ"
+        },
+        {
+            "utteranceID": "U20",
+            "turnID": "T12",
+            "participantID": "P01",
+            "date": "2017-06-13",
+            "time": "18:38:00",
+            "utterance": "좡난아니넼ㅋㅋㅋㅋ"
+        }
+    ]
+}
