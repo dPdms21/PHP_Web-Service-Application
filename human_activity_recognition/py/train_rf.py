@@ -85,6 +85,16 @@ acc = accuracy_score(y_test, y_pred)
 rep = classification_report(y_test, y_pred, output_dict=True, zero_division=0)
 cm  = confusion_matrix(y_test, y_pred, labels=labels_sorted)
 
+# --- 클래스 분포 저장 (labels_sorted 순서 기준) ---
+def counts_per(labels, y):
+    y_arr = np.asarray(y)
+    return [int(np.sum(y_arr == lab)) for lab in labels]
+
+class_dist = {
+    "train": counts_per(labels_sorted, y_train),
+    "test":  counts_per(labels_sorted, y_test),
+}
+
 # ---------------------------
 # 저장 (모델/메트릭/이미지)
 # ---------------------------
@@ -102,7 +112,8 @@ metrics = {
         for k, v in rep.items() if k in labels_sorted
     },
     "labels": labels_sorted,
-    "confusion_matrix": cm.astype(int).tolist()
+    "confusion_matrix": cm.astype(int).tolist(),
+    "class_dist": class_dist
 }
 with open(OUT / "metrics.json", "w", encoding="utf-8") as f:
     json.dump(metrics, f, ensure_ascii=False, indent=2)
