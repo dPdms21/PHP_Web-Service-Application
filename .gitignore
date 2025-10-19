@@ -1,0 +1,7 @@
+sns_topic_analysis/AIhub/
+
+human_activity_recognition/data/
+human_activity_recognition/outputs/
+
+*.pkl
+*.ipynb_checkpoints
