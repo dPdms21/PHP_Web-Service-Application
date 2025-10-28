@@ -16,7 +16,7 @@ import joblib
 # 프로젝트 경로
 ROOT = Path(__file__).resolve().parents[1]
 DATA_ROOT = ROOT / "data" / "UCI HAR Dataset"
-OUT = ROOT / "outputs"
+OUT = ROOT / "outputs" / "imu"
 OUT.mkdir(parents=True, exist_ok=True)
 
 # ---------------------------
