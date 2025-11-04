@@ -1,7 +1,26 @@
+# Python venv
+.venv/
+.venv311/
+
+# IDE / editor files
+.vscode/
+__pycache__/
+*.pyc
+*.pyo
+
+# 데이터 및 대용량 결과
 sns_topic_analysis/AIhub/
 
 human_activity_recognition/data/
 human_activity_recognition/outputs/
 
+# 모델/결과물
 *.pkl
-*.ipynb_checkpoints
+*.joblib
+*.csv
+*.json
+*.log
+
+# OS / temp
+.DS_Store
+Thumbs.db
