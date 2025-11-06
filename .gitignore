@@ -1,7 +1,22 @@
+# === Dataset & Outputs ===
 sns_topic_analysis/AIhub/
-
 human_activity_recognition/data/
 human_activity_recognition/outputs/
 
-*.pkl
+# === Python virtual environments ===
+.venv/
+.venv311/
+
+# === Python cache & temp ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 *.ipynb_checkpoints
+*.pkl
+
+# === OS / IDE specific ===
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
