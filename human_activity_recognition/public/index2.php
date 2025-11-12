@@ -1,6 +1,6 @@
 <?php
 $root = realpath(__DIR__ . '/..');
-$metricsPath = $root . '/outputs/metrics.json';
+$metricsPath = $root . '/outputs/imu/metrics.json';
 $data = file_exists($metricsPath) ? json_decode(file_get_contents($metricsPath), true) : null;
 ?>
 <!doctype html>

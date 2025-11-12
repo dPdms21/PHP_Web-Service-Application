@@ -14,7 +14,9 @@ import torchaudio.transforms as T
 from sklearn.metrics import classification_report
 from tqdm import tqdm
 
-# =====[ 경로 / 하이퍼파라미터 ]=================================================
+# =========================================================
+# ⚙️ 설정
+# =========================================================
 DATA_DIR   = "data/audio_esc50_grouped"
 OUTPUT_DIR = "outputs/audio_fast"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
@@ -23,77 +25,98 @@ SAMPLE_RATE = 44100
 N_MELS      = 64
 IMG_SIZE    = 128
 BATCH_SIZE  = 16
-EPOCHS      = 6
-LR          = 1e-4
+EPOCHS      = 8              # 안정된 수렴
+LR          = 8e-5
 WEIGHT_DECAY = 1e-5
 DEVICE      = torch.device("cpu")
+SAMPLES_PER_CLASS = 80       # 클래스당 샘플 수
 
-# 클래스 균형 샘플 수 (총 5클래스 × 80 = 400)
-SAMPLES_PER_CLASS = 80
+# =========================================================
+# 🎯 HAR 라벨 통합 (5개)
+# =========================================================
+label_map = {
+    "climbing": "Outdoor",
+    "exercising": "Active",
+    "interacting": "Interaction",
+    "moving": "Locomotion",
+    "posturing": "Resting"
+}
 
-# =====[ 안전한 오디오 로딩 (TorchCodec 완전 우회) ]=============================
+# =========================================================
+# 🎧 안전한 오디오 로딩 (TorchCodec 완전 우회)
+# =========================================================
 def load_waveform(path: str):
-    # backend="soundfile" 사용. 실패 시 soundfile 직접 사용.
     try:
         wav, sr = torchaudio.load(path, backend="soundfile")
     except Exception:
-        import soundfile as sf  # pip install soundfile
+        import soundfile as sf
         x, sr = sf.read(path, dtype="float32", always_2d=False)
         if x.ndim == 1:
-            wav = torch.tensor(x).unsqueeze(0)         # [1, T]
+            wav = torch.tensor(x).unsqueeze(0)
         else:
-            wav = torch.tensor(x).T                    # [C, T]
+            wav = torch.tensor(x).T
     return wav, sr
 
-# =====[ 스펙트로그램 변환 ]=====================================================
+# =========================================================
+# 🎵 스펙트로그램 변환
+# =========================================================
 mel_transform = T.MelSpectrogram(
     sample_rate=SAMPLE_RATE, n_fft=1024, hop_length=256, n_mels=N_MELS
 )
 amp_to_db = T.AmplitudeToDB()
 
 def waveform_to_mel(wav: torch.Tensor) -> torch.Tensor:
-    # mono
     if wav.size(0) > 1:
         wav = wav.mean(dim=0, keepdim=True)
-    mel = mel_transform(wav)               # [1, n_mels, time]
+    mel = mel_transform(wav)
     mel = amp_to_db(mel)
     mel = (mel - mel.mean()) / (mel.std() + 1e-6)
-    # 3채널 복제 + 128x128 리사이즈
     mel = mel.repeat(3, 1, 1)
-    resize = transforms.Resize((IMG_SIZE, IMG_SIZE))
-    mel = resize(mel)
+    mel = transforms.Resize((IMG_SIZE, IMG_SIZE))(mel)
     return mel
 
 def audio_loader(path: str) -> torch.Tensor:
     wav, _ = load_waveform(path)
     return waveform_to_mel(wav)
 
-# =====[ 데이터셋 / 균형 샘플링 ]================================================
+# =========================================================
+# 📂 데이터셋 로드 및 균형 샘플링
+# =========================================================
 dataset = DatasetFolder(root=DATA_DIR, loader=audio_loader, extensions=(".wav",))
 classes = dataset.classes
 print(f"✅ Loaded audio dataset: {len(dataset)} files, {len(classes)} classes → {classes}")
 
-by_class = defaultdict(list)
+# 기존 클래스 → HAR 그룹으로 통합
+grouped_indices = defaultdict(list)
 for idx, (_, y) in enumerate(dataset.samples):
-    by_class[classes[y]].append(idx)
+    orig_label = classes[y]
+    if orig_label in label_map:
+        grouped_label = label_map[orig_label]
+        grouped_indices[grouped_label].append(idx)
 
 selected_indices = []
-for cls in classes:
-    indices = by_class[cls]
+for group, indices in grouped_indices.items():
     n = min(SAMPLES_PER_CLASS, len(indices))
     selected_indices.extend(random.sample(indices, n))
 
 subset = Subset(dataset, selected_indices)
+group_labels = [label_map[classes[dataset.samples[i][1]]] for i in selected_indices]
+label_to_idx = {lbl: i for i, lbl in enumerate(sorted(set(label_map.values())))}
+idx_to_label = {i: lbl for lbl, i in label_to_idx.items()}
+targets = torch.tensor([label_to_idx[lbl] for lbl in group_labels])
 
-# train/val = 8:2
+print(f"📊 Balanced groups: {Counter(group_labels)}")
+
+# =========================================================
+# ✂️ Train / Val split
+# =========================================================
 num_total = len(subset)
 train_size = int(0.8 * num_total)
 val_size = num_total - train_size
-train_ds, val_ds = random_split(subset, [train_size, val_size])
+train_ds, val_ds = random_split(list(zip(subset, targets)), [train_size, val_size])
 
 # ----- 증강 -----
 def augment(spec: torch.Tensor) -> torch.Tensor:
-    # spec: [3, H, W]
     _, H, W = spec.shape
     if random.random() < 0.5:
         f = random.randint(0, max(1, H // 8))
@@ -107,7 +130,7 @@ def augment(spec: torch.Tensor) -> torch.Tensor:
 
 def collate_fn(batch, train: bool):
     xs, ys = [], []
-    for x, y in batch:
+    for (x, _), y in batch:
         if train:
             x = augment(x.clone())
         xs.append(x)
@@ -119,30 +142,31 @@ train_loader = DataLoader(train_ds, batch_size=BATCH_SIZE, shuffle=True,
 val_loader   = DataLoader(val_ds, batch_size=BATCH_SIZE, shuffle=False,
                           collate_fn=lambda b: collate_fn(b, False))
 
-print(f"📦 Balanced: {Counter([classes[dataset.samples[i][1]] for i in selected_indices])}")
 print(f"📦 Train={len(train_ds)}, Val={len(val_ds)}")
 
-# =====[ 모델 ]==================================================================
+# =========================================================
+# 🧠 모델 정의 (ResNet18)
+# =========================================================
 model = models.resnet18(pretrained=True)
-# 일부 레이어 고정(학습 속도/안정성 증가)
 for p in model.layer1.parameters(): p.requires_grad = False
 for p in model.layer2.parameters(): p.requires_grad = False
 
-in_feats = model.fc.in_features
 model.fc = nn.Sequential(
-    nn.Linear(in_feats, 256),
+    nn.Linear(model.fc.in_features, 512),
     nn.ReLU(),
-    nn.Dropout(0.4),
-    nn.Linear(256, len(classes))
+    nn.Dropout(0.3),
+    nn.Linear(512, len(label_to_idx))
 )
 model = model.to(DEVICE)
 
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(filter(lambda p: p.requires_grad, model.parameters()),
                        lr=LR, weight_decay=WEIGHT_DECAY)
-scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=3, gamma=0.5)
+scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=4, gamma=0.6)
 
-# =====[ 평가 함수 ]=============================================================
+# =========================================================
+# 🚀 평가 함수
+# =========================================================
 def evaluate(loader):
     model.eval()
     correct, total, loss_sum = 0, 0, 0.0
@@ -161,7 +185,9 @@ def evaluate(loader):
     acc = correct / total
     return acc, loss_sum / max(1, len(loader)), y_true, y_pred
 
-# =====[ 학습 루프 ]=============================================================
+# =========================================================
+# 🔁 학습 루프
+# =========================================================
 best_acc, best_report = 0.0, None
 for epoch in range(EPOCHS):
     model.train()
@@ -178,28 +204,34 @@ for epoch in range(EPOCHS):
     val_acc, val_loss, y_true, y_pred = evaluate(val_loader)
     print(f"📈 Epoch {epoch+1}: Val Acc={val_acc*100:.2f}%, Loss={val_loss:.4f}")
 
-    if val_acc > best_acc:
+    if val_acc > best_acc * 0.995:
         best_acc = val_acc
         torch.save(model.state_dict(), os.path.join(OUTPUT_DIR, "best_model.pth"))
         report = classification_report(
-            y_true, y_pred, target_names=classes,
+            y_true, y_pred,
+            target_names=list(label_to_idx.keys()),
             output_dict=True, zero_division=0
         )
         best_report = report
 
-print(f"✅ Finished. Best Val Accuracy: {best_acc*100:.2f}%")
+print(f"✅ Finished Training. Best Accuracy: {best_acc*100:.2f}%")
 
-# =====[ metrics.json 저장 (PHP 호환) ]==========================================
-if best_report is not None:
+# =========================================================
+# 💾 metrics.json 저장
+# =========================================================
+if best_report:
     labels = list(best_report.keys())[:-3]
-    f1 = [best_report[k]["f1-score"] for k in labels]
+    f1_scores = [best_report[k]["f1-score"] for k in labels]
     macro_f1 = best_report["macro avg"]["f1-score"]
+
     metrics = {
         "accuracy": round(best_acc, 4),
         "macro_f1": round(macro_f1, 4),
         "labels": labels,
-        "f1": [round(v, 4) for v in f1]
+        "f1": [round(v, 4) for v in f1_scores]
     }
+
     with open(os.path.join(OUTPUT_DIR, "metrics.json"), "w", encoding="utf-8") as f:
         json.dump(metrics, f, indent=2, ensure_ascii=False)
-    print("💾 Saved:", os.path.join(OUTPUT_DIR, "metrics.json"))
+
+    print("💾 Saved metrics.json for PHP dashboard.")

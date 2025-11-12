@@ -34,11 +34,11 @@ h2{margin:14px 0 10px 0; font-size:18px; font-weight:700}
 p,li{color:var(--text); opacity:.92; line-height:1.7; font-size:15.5px}
 small,.muted{color:var(--muted); font-size:13px}
 .sidebar code{
-  background:var(--codebg); color:#fcd34d; padding:2px 5px; border-radius:6px;
+  background:var(--codebg); color:#38bdf8; padding:2px 5px; border-radius:6px;
   font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size:12.5px;
 }
 .pill{
-  background:rgba(245,158,11,.15); color:#fcd34d; border:1px solid rgba(245,158,11,.35);
+  background:rgba(56, 189, 248, .15); color:#cfe2ff; border:1px solid rgba(59,130,246,.35);
   padding:8px 12px; border-radius:999px; display:inline-block; margin:0 8px 8px 0; font-weight:700;
 }
 .content{padding:18px}
@@ -52,7 +52,7 @@ small,.muted{color:var(--muted); font-size:13px}
 <div class="container">
   <!-- LEFT -->
   <aside class="sidebar">
-    <h1>Audio-based HAR</h1>
+    <h1>Audio-based HAR (ESC-50)</h1>
     <?php if ($data): ?>
       <div style="margin:6px 0 12px 0">
         <span class="pill">Accuracy <?=number_format($data['accuracy']*100,2)?>%</span>
@@ -60,38 +60,58 @@ small,.muted{color:var(--muted); font-size:13px}
       </div>
     <?php endif; ?>
 
-    <p class="muted">데이터 출처:<br>&emsp;<b>ESC-50 (5개 행동 그룹)</b></p>
-
-    <h2>데이터셋</h2>
-    <ul style="padding-left:18px">
-      <li>총 약 520 오디오 파일</li>
-      <li>그룹 (5): climbing, exercising, interacting, moving, posturing</li>
-      <li>훈련 80% / 검증 20%</li>
-      <li>전처리: MelSpectrogram (64×128) → Normalize</li>
-    </ul>
-
-    <h2>모델</h2>
-    <ul style="padding-left:18px">
-      <li><b>ResNet18</b> (ImageNet pretrained)</li>
-      <li>Optimizer: Adam (lr=1e-4, weight_decay=1e-5)</li>
-      <li>Loss: CrossEntropyLoss</li>
-      <li>Epochs: 6 (CPU)</li>
-    </ul>
-
-    <h2>입력 특징</h2>
-    <p>
-      ESC-50 데이터셋의 환경음을 기반으로 <b>5가지 인간 행동군</b>에 해당하는 소리를 추출하였습니다.
-      <br>예: <code>exercising</code> → 운동/충돌음, <code>moving</code> → 발소리/이동음 등
+    <p class="muted">
+      데이터 출처:<br>&emsp;<b>ESC-50</b> (Environmental Sound Classification Dataset)<br>
+      &emsp;· 환경음 50개 클래스(자연·인공·동물·인간 소리 포함)<br>
+      &emsp;· 총 2,000개 오디오 클립(각 5초, 44.1 kHz)
     </p>
 
-    <h2>지표</h2>
+    <h2>데이터셋 개요</h2>
+    <p>
+      <b>ESC-50</b>은 인간이 경험하는 다양한 환경음을 50개의 범주로 구성한 공개 오디오 데이터셋입니다.  
+      본 연구에서는 행동 인식(HAR)에 적합한 소리를 선별하여 <b>5개 행동 그룹</b>으로 재구성했습니다.
+    </p>
+
+    <h2>행동 그룹 매핑 (원본 → 5 그룹)</h2>
     <ul style="padding-left:18px">
-      <li>Accuracy, Macro-F1</li>
-      <li>클래스별 Precision / Recall / F1-score</li>
+      <li><b>Active</b> ← 운동·충돌·기계소음(exercising)</li>
+      <li><b>Interaction</b> ← 대화·도구 사용(interacting)</li>
+      <li><b>Locomotion</b> ← 발소리·걷기·이동(moving)</li>
+      <li><b>Outdoor</b> ← 바람·비·자연소리(climbing)</li>
+      <li><b>Resting</b> ← 정적 환경·실내(posturing)</li>
     </ul>
 
-    <br><br>
-    <p class="muted">파이프라인:<br>&emsp;ESC-50 → MelSpectrogram 변환 → ResNet18 학습 → metrics.json 시각화</p>
+    <h2>데이터 구성 및 전처리</h2>
+    <ul style="padding-left:18px">
+      <li>총 <b>520개</b> 오디오 파일 (그룹당 약 104개)</li>
+      <li>Split: 훈련 80% · 검증 20%</li>
+      <li>샘플링 레이트 44.1 kHz, 모노 채널</li>
+      <li>전처리: MelSpectrogram(64 mel bands, frame 128) → dB 스케일 → Normalize → 3-채널 이미지화 (64×128)</li>
+    </ul>
+
+    <h2>모델 및 학습 설정</h2>
+    <ul style="padding-left:18px">
+      <li><b>백본:</b> ResNet18 (ImageNet pretrained)</li>
+      <li><b>입력:</b> MelSpectrogram을 RGB 형태로 변환해 CNN 입력에 적용</li>
+      <li><b>헤드:</b> Linear(512→512) + ReLU + Dropout(0.3) + Linear(512→5)</li>
+      <li><b>Optimizer:</b> Adam (lr = 1e-4, weight_decay = 1e-5)</li>
+      <li><b>Loss:</b> CrossEntropyLoss, <b>Epochs:</b> 6 (기기: CPU)</li>
+    </ul>
+    <p class="muted">
+      파이프라인:<br>&emsp;ESC-50 오디오 → MelSpectrogram 변환 → ResNet18 파인튜닝 → <code>metrics.json</code> 시각화
+    </p>
+
+    <h2>성능 및 그래프 해석</h2>
+    <p>
+      아래 그래프는 <b>클래스별 F1-score</b>와 <b>전체 성능 요약</b>을 나타냅니다.  
+      F1-score는 Precision과 Recall의 조화평균으로, 1.0에 가까울수록 정확한 분류를 의미합니다.
+    </p>
+    <ul style="padding-left:18px">
+      <li><b>Locomotion(이동)</b>이 가장 높은 F1 값을 보이며, 걷기·이동음의 주파수 패턴이 뚜렷하게 인식됨</li>
+      <li><b>Resting(휴식)</b>과 <b>Outdoor(야외)</b>도 상대적으로 높은 정확도를 유지</li>
+      <li><b>Active/Interaction</b> 그룹은 소리 유형이 다양해 클래스 간 경계가 부분적으로 혼동됨</li>
+      <li>전체적으로 <b>Accuracy 85%</b>, <b>Macro-F1 84.6%</b>로 이미지 단일 모달보다 더 정교한 오디오 패턴을 포착</li>
+    </ul>
   </aside>
 
   <!-- RIGHT -->
@@ -126,8 +146,8 @@ const labels = <?= json_encode($data['labels']) ?>;
 const f1 = <?= json_encode($data['f1']) ?>;
 const acc = <?= $data['accuracy'] ?>;
 const macro = <?= $data['macro_f1'] ?>;
-const ticksColor = '#fcd34d';
-const gridColor  = 'rgba(252,211,77,0.15)';
+const ticksColor = '#dbe7ff';
+const gridColor  = 'rgba(219,231,255,0.15)';
 
 // F1-score chart
 new Chart(document.getElementById('f1Chart'), {
@@ -137,7 +157,7 @@ new Chart(document.getElementById('f1Chart'), {
     datasets: [{
       label: 'F1-score',
       data: f1,
-      backgroundColor: 'rgba(245,158,11,0.8)',
+      backgroundColor: 'rgba(56, 189, 248, 0.7)',
       borderWidth: 0
     }]
   },

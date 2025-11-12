@@ -16,38 +16,40 @@ OUTPUT_DIR = "outputs/image_fast_v2"
 os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 BATCH_SIZE = 16
-SAMPLES_PER_CLASS = 400   # 클래스당 샘플 수 (5 x 400 = 2000)
+SAMPLES_PER_CLASS = 400
+EXTRA_SAMPLES = {"Locomotion": 600, "Resting": 600}  # 클래스별 샘플 수 보정
 IMG_SIZE = 128
-EPOCHS = 6
-LR = 1e-4
+EPOCHS = 8
+LR = 8e-5
 DEVICE = torch.device("cpu")
 
 # =========================================================
-# 🎯 라벨 병합 매핑 (wave는 포함하지 않음)
+# 🎯 라벨 병합 매핑 (HAR 통합 그룹)
 # =========================================================
 label_map = {
-    'climb': 'climbing',
-    'climb_stairs': 'climbing',
-    'walk': 'moving',
-    'run': 'moving',
-    'sit': 'posturing',
-    'stand': 'posturing',
-    'eat': 'interacting',
-    'talk': 'interacting',
-    'jump': 'exercising',
-    'situp': 'exercising'
+    'climb': 'Outdoor',
+    'climb_stairs': 'Locomotion',
+    'walk': 'Locomotion',
+    'run': 'Locomotion',
+    'sit': 'Resting',
+    'stand': 'Resting',
+    'eat': 'Interaction',
+    'talk': 'Interaction',
+    'jump': 'Active',
+    'situp': 'Active'
 }
-
-valid_classes = set(label_map.keys())  # 유효 클래스만 허용
+valid_classes = set(label_map.keys())
 
 # =========================================================
 # 🧩 데이터셋 로드 및 전처리
 # =========================================================
+# 💡 모든 클래스에 동일한 augmentation 적용
 transform = transforms.Compose([
     transforms.Resize((IMG_SIZE, IMG_SIZE)),
-    transforms.RandomHorizontalFlip(),
-    transforms.RandomRotation(10),
-    transforms.ColorJitter(brightness=0.2, contrast=0.2),
+    transforms.RandomHorizontalFlip(p=0.5),
+    transforms.RandomRotation(8),
+    transforms.RandomAffine(degrees=10, translate=(0.05, 0.05)),
+    transforms.ColorJitter(brightness=0.25, contrast=0.25, saturation=0.2),
     transforms.ToTensor(),
     transforms.Normalize(mean=[0.485, 0.456, 0.406],
                          std=[0.229, 0.224, 0.225])
@@ -57,25 +59,25 @@ dataset = datasets.ImageFolder(DATA_DIR, transform=transform)
 print(f"✅ Loaded dataset: {len(dataset)} images, {len(dataset.classes)} classes")
 
 # =========================================================
-# ⚖️ 클래스 균형 샘플링 (wave 등 label_map에 없는 건 제외)
+# ⚖️ 클래스 균형 샘플링
 # =========================================================
 class_to_indices = defaultdict(list)
 for idx, (path, class_idx) in enumerate(dataset.samples):
     orig_label = dataset.classes[class_idx]
     if orig_label not in valid_classes:
-        continue  # wave 같은 클래스는 건너뛴다
+        continue
     merged_label = label_map[orig_label]
     class_to_indices[merged_label].append(idx)
 
 selected_indices = []
 for label, indices in class_to_indices.items():
-    n = min(SAMPLES_PER_CLASS, len(indices))
+    target_n = EXTRA_SAMPLES.get(label, SAMPLES_PER_CLASS)
+    n = min(target_n, len(indices))
     selected_indices.extend(random.sample(indices, n))
 
 subset = Subset(dataset, selected_indices)
 merged_labels = [label_map[dataset.classes[dataset.samples[i][1]]] for i in selected_indices]
 label_to_idx = {lbl: i for i, lbl in enumerate(sorted(set(label_map.values())))}
-idx_to_label = {i: lbl for lbl, i in label_to_idx.items()}
 targets = torch.tensor([label_to_idx[t] for t in merged_labels])
 
 print(f"📊 Balanced label count: {Counter(merged_labels)}")
@@ -100,20 +102,20 @@ val_loader = DataLoader(val_ds, batch_size=BATCH_SIZE, shuffle=False, collate_fn
 print(f"📦 Train={len(train_ds)}, Val={len(val_ds)}")
 
 # =========================================================
-# 🧠 모델 정의
+# 🧠 모델 정의 (표현력 확장)
 # =========================================================
 model = models.resnet18(pretrained=True)
 model.fc = nn.Sequential(
-    nn.Linear(model.fc.in_features, 256),
+    nn.Linear(model.fc.in_features, 512),
     nn.ReLU(),
-    nn.Dropout(0.4),
-    nn.Linear(256, len(label_to_idx))
+    nn.Dropout(0.3),
+    nn.Linear(512, len(label_to_idx))
 )
 model = model.to(DEVICE)
 
 criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=LR, weight_decay=1e-5)
-scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=3, gamma=0.5)
+scheduler = optim.lr_scheduler.StepLR(optimizer, step_size=4, gamma=0.6)
 
 # =========================================================
 # 🚀 학습 및 검증
@@ -153,7 +155,7 @@ for epoch in range(EPOCHS):
     val_acc, val_loss, y_true, y_pred = evaluate(model, val_loader)
     print(f"📈 Epoch {epoch+1}: Val Acc={val_acc*100:.2f}%, Loss={val_loss:.4f}")
 
-    if val_acc > best_acc:
+    if val_acc > best_acc * 0.995:   # 소폭 개선도 갱신
         best_acc = val_acc
         torch.save(model.state_dict(), os.path.join(OUTPUT_DIR, "best_model.pth"))
         report = classification_report(

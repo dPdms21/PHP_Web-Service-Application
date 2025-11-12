@@ -1,6 +1,6 @@
 <?php
     $root = realpath(__DIR__ . '/..');
-    $metricsPath = $root . '/outputs/metrics.json';
+    $metricsPath = $root . '/outputs/imu/metrics.json';
     $data = file_exists($metricsPath) ? json_decode(file_get_contents($metricsPath), true) : null;
     ?>
     <!doctype html>
@@ -114,8 +114,8 @@
             <!-- Confusion Matrix: 이미지로 표시 -->
             <div class="card">
             <h2>혼동행렬 (Confusion Matrix)</h2>
-            <?php if ($data && file_exists($root.'/outputs/confusion_matrix_rf.png')): ?>
-                <img class="cm" src="../outputs/confusion_matrix_rf.png" alt="Confusion Matrix">
+            <?php if ($data && file_exists($root.'/outputs/imu/confusion_matrix_rf.png')): ?>
+                <img class="cm" src="../outputs/imu/confusion_matrix_rf.png" alt="Confusion Matrix">
             <?php else: ?>
                 <p class="muted">학습 후 확인 가능합니다.</p>
             <?php endif; ?>
