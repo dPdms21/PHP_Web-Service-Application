@@ -20,3 +20,6 @@ __pycache__/
 Thumbs.db
 .vscode/
 .idea/
+
+human_activity_recognition/config/db.php
+chat_app/db.php
