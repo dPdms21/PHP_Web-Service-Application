@@ -10,6 +10,7 @@ IMG_MODEL_PATH = "outputs/image_fast_v2/best_model.pth"
 AUD_MODEL_PATH = "outputs/audio_fast/best_model.pth"
 RESULT_PATH = "outputs/fusion_fast/infer_result.json"
 DEVICE = torch.device("cpu")
+
 IMG_SIZE = 128
 SR = 44100
 N_MELS = 64
@@ -21,6 +22,7 @@ os.makedirs("outputs/fusion_fast", exist_ok=True)
 
 HAR_LABELS = ["Active", "Interaction", "Locomotion", "Outdoor", "Resting"]
 
+
 # =========================================================
 # 🎞 영상 프레임 추출 (OpenCV)
 # =========================================================
@@ -29,8 +31,10 @@ def extract_frames(video_path, out_dir=TEMP_DIR, fps=3):
     cap = cv2.VideoCapture(video_path)
     frame_rate = int(cap.get(cv2.CAP_PROP_FPS))
     interval = max(1, frame_rate // fps)
+
     frames = []
     count = 0
+
     while cap.isOpened():
         ret, frame = cap.read()
         if not ret:
@@ -44,9 +48,10 @@ def extract_frames(video_path, out_dir=TEMP_DIR, fps=3):
     if frames:
         thumb_path = os.path.join(out_dir, "frame_000.jpg")
         cv2.imwrite(thumb_path, cv2.cvtColor(frames[0], cv2.COLOR_RGB2BGR))
-        
+
     print(f"🖼️ Extracted {len(frames)} frames from video.")
     return frames
+
 
 # =========================================================
 # 🎧 오디오 추출 (ffmpeg)
@@ -60,6 +65,7 @@ def extract_audio(video_path, audio_path=os.path.join(TEMP_DIR, "temp_audio.wav"
     print(f"🎧 Audio extracted to {audio_path}")
     return audio_path
 
+
 # =========================================================
 # 🔊 MelSpectrogram 변환
 # =========================================================
@@ -68,10 +74,13 @@ def wav_to_mel_tensor(wav_path, n_mels=N_MELS, sr=SR):
     mel = librosa.feature.melspectrogram(y=y, sr=sr, n_mels=n_mels)
     mel_db = librosa.power_to_db(mel, ref=np.max)
     mel_norm = (mel_db - mel_db.mean()) / (mel_db.std() + 1e-6)
-    tensor = torch.tensor(mel_norm).unsqueeze(0).repeat(3, 1, 1)  # (3, H, W)
+
+    tensor = torch.tensor(mel_norm).unsqueeze(0).repeat(3, 1, 1)
     tensor = transforms.Resize((IMG_SIZE, IMG_SIZE))(tensor)
+
     print(f"📈 MelSpectrogram shape: {tuple(tensor.shape)}")
     return tensor
+
 
 # =========================================================
 # 🧩 이미지 변환
@@ -83,6 +92,7 @@ img_transform = transforms.Compose([
     transforms.Normalize(mean=[0.485, 0.456, 0.406],
                          std=[0.229, 0.224, 0.225])
 ])
+
 
 # =========================================================
 # 🧠 모델 로드
@@ -99,20 +109,24 @@ def build_model(model_path):
     model.eval().to(DEVICE)
     return model
 
+
 print("📦 Loading models...")
 img_model = build_model(IMG_MODEL_PATH)
 aud_model = build_model(AUD_MODEL_PATH)
+
 
 # =========================================================
 # 🚀 Fusion 예측
 # =========================================================
 def predict_fusion(video_path):
+    video_name = os.path.basename(video_path)
+
     # 1. 프레임 + 오디오 추출
     frames = extract_frames(video_path)
     audio_path = extract_audio(video_path)
     audio_tensor = wav_to_mel_tensor(audio_path).unsqueeze(0).to(DEVICE)
 
-    # 2. 프레임별 이미지 예측 평균
+    # 2. 이미지 모델 예측
     img_logits_list = []
     for frame in frames:
         img_tensor = img_transform(frame).unsqueeze(0).to(DEVICE)
@@ -125,48 +139,46 @@ def predict_fusion(video_path):
     with torch.no_grad():
         aud_logits = aud_model(audio_tensor)
 
-    # 4. Late Fusion (weighted sum)
+    # 4. Late Fusion
     fused = W_IMG * img_logits + W_AUD * aud_logits
     probs = F.softmax(fused, dim=1).squeeze()
 
-    # 5. 결과 계산
     pred_idx = probs.argmax().item()
     pred_label = HAR_LABELS[pred_idx]
-    confidence = probs[pred_idx].item()
+    confidence = float(probs[pred_idx].item())
 
-    # Top-3 클래스
+    # 5. Top 3
     top3_idx = probs.topk(3).indices.tolist()
-    top3_labels = [HAR_LABELS[i] for i in top3_idx]
-    top3_probs = [probs[i].item() for i in top3_idx]
+    top3 = [
+        {"label": HAR_LABELS[i], "prob": float(probs[i].item())}
+        for i in top3_idx
+    ]
 
-    print("======================================")
-    print(f"🎯 Predicted Action: {pred_label}")
-    print(f"🔥 Confidence: {confidence*100:.2f}%")
-    print("======================================")
-
-    # 결과 JSON 저장 (PHP에서 읽기용)
+    # 6. JSON 저장
     result = {
+        "video_name": video_name,
         "predicted_action": pred_label,
-        "confidence": float(confidence),
-        "top3": [
-            {"label": lbl, "prob": float(p)} for lbl, p in zip(top3_labels, top3_probs)
-        ]
+        "confidence": confidence,
+        "top3": top3
     }
+
     with open(RESULT_PATH, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
-    print(f"💾 Saved to {RESULT_PATH}")
 
+    print(f"Saved result → {RESULT_PATH}")
     return pred_label, confidence
 
+
 # =========================================================
-# 🧹 실행 및 정리
+# 🧹 실행부
 # =========================================================
 if __name__ == "__main__":
     if not os.path.exists(VIDEO_PATH):
         print(f"❌ Video not found: {VIDEO_PATH}")
     else:
         predict_fusion(VIDEO_PATH)
-        # 임시 파일 정리
+
+        # temp 오디오 제거
         temp_audio = os.path.join(TEMP_DIR, "temp_audio.wav")
         if os.path.exists(temp_audio):
             os.remove(temp_audio)
