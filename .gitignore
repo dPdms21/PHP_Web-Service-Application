@@ -2,6 +2,7 @@
 sns_topic_analysis/AIhub/
 human_activity_recognition/data/
 human_activity_recognition/outputs/
+human_activity_recognition/outputs_light/
 
 # === Python virtual environments ===
 .venv/
