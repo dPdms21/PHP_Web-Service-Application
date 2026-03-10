@@ -27,7 +27,7 @@
 * **Web Chat Application**
 * **SNS Topic Analysis & Visualization**
 
-각 프로젝트는 **독립적인 실습 및 실험 단위**로 구성되어 있으며,
+각 프로젝트는 **독립적인 실습 및 실험 단위**로 구성되어 있으며,   
 웹 서비스 개발 역량과 AI·데이터 처리 경험을 함께 보여줄 수 있도록 정리했습니다.
 
 ---
@@ -36,8 +36,8 @@
 
 ### Multimodal Human Activity Recognition (HAR)
 
-본 저장소의 **대표 프로젝트**로,
-영상 정보와 환경 오디오 정보를 결합하여 인간 행동을 인식하는
+본 저장소의 **대표 프로젝트**로,   
+영상 정보와 환경 오디오 정보를 결합하여 인간 행동을 인식하는   
 **Multimodal Deep Learning 기반 Human Activity Recognition 시스템**입니다.
 
 #### Key Highlights
