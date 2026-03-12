@@ -123,8 +123,6 @@ SNS 토픽 분포와 시간대별 활동 패턴을 그래프로 표현합니다.
 
 <img src="images/time_topic_distribution.png" width="900">
 
-<br>
-
 시간대별 주요 토픽 분포(Grouped Bar Chart)와 전체 발화량(Bar Chart)을 함께 시각화한 결과입니다.  
 각 시간대(새벽, 오전, 오후, 저녁)에서 어떤 주제가 많이 등장하는지 비교할 수 있습니다.
 
@@ -133,8 +131,6 @@ SNS 토픽 분포와 시간대별 활동 패턴을 그래프로 표현합니다.
 ### Topic Trend Dashboard
 
 <img src="images/time_topic_trend.png" width="900">
-
-<br>
 
 시간대별 토픽 변화 추이(Dual Y-Axis Chart)와 전체 발화량 흐름(Line Chart)을 함께 시각화한 결과입니다.  
 시간대별 사용자 활동 패턴과 주제 변화 경향을 확인할 수 있습니다.
