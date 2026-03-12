@@ -14,9 +14,7 @@ Python 기반 데이터 처리 스크립트를 통해 SNS 데이터를 가공하
 
 ---
 
-<br>
-
-# Project Overview
+## Project Overview
 
 본 프로젝트는 SNS 대화 데이터 (JSON 형식)를 분석하여   
 시간대별 토픽 분포를 시각화하는 데이터 분석 파이프라인을 구현합니다.
@@ -45,9 +43,7 @@ Python 기반 데이터 처리 스크립트를 통해 SNS 데이터를 가공하
 
 ---
 
-<br>
-
-# Key Features
+## Key Features
 
 ### Data Processing
 
@@ -80,9 +76,7 @@ Python 기반 데이터 처리 스크립트를 통해 SNS 데이터를 가공하
 
 ---
 
-<br>
-
-# Data Processing Pipeline
+## Data Processing Pipeline
 
 전체 데이터 처리 흐름은 다음과 같습니다.
 
@@ -109,13 +103,11 @@ Python 스크립트는 SNS 데이터에서 토픽 정보를 추출하고
 
 ---
 
-<br>
-
-# Web Visualization
+## Web Visualization
 
 분석 결과는 `public` 디렉터리의 웹 페이지에서 확인할 수 있습니다.
 
-예시 페이지
+**예시 페이지**
 
 * Line Chart
 * Grouped Bar Chart
@@ -149,12 +141,12 @@ SNS 토픽 분포와 시간대별 활동 패턴을 그래프로 표현합니다.
 
 ---
 
-<br>
-
-# Project Structure
+## Project Structure
 
 ```
 sns_topic_analysis
+│
+├── images                 # README charts
 │
 ├── output                 # 분석 결과 CSV 저장
 │
@@ -170,9 +162,7 @@ sns_topic_analysis
 
 ---
 
-<br>
-
-# Tech Stack
+## Tech Stack
 
 ### Data Processing
 
@@ -195,18 +185,14 @@ sns_topic_analysis
 
 ---
 
-<br>
-
-# Run Environment
+## Run Environment
 
 * Python 3+
 * Apache / XAMPP
 
 ---
 
-<br>
-
-# Author
+## Author
 
 Yeeun Park
 

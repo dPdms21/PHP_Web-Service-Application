@@ -1,6 +1,6 @@
-# PHP Web Service & AI Projects
+# Web Service & AI Projects
 
-[2025-2] Web Service Application
+[2025-2] PHP_Web Service Application
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -11,11 +11,14 @@
 
 > Web Service Development, Data Analysis, and Multimodal AI Projects Portfolio
 
+<br>
+
 웹 서비스 개발과 AI 기반 데이터 분석, 멀티모달 인식 시스템 프로젝트를 정리한 저장소입니다.
 
 이 저장소는 **웹 애플리케이션 개발**, **데이터 분석**, **멀티모달 딥러닝 연구 실험**을 포함한 프로젝트들로 구성되어 있습니다.
 
-특히 Multimodal Human Activity Recognition (HAR) 프로젝트를 중심으로 AI 기반 연구 및 개발 경험을 정리했습니다.
+특히 Multimodal Human Activity Recognition (HAR) 프로젝트를 중심으로   
+AI 기반 연구 및 개발 경험을 정리한 저장소입니다.
 
 ---
 
@@ -150,9 +153,3 @@ Anyang University
 Department of Information, Electrical and Electronic Engineering
 
 GitHub: [DevLucia-21](https://github.com/DevLucia-21)
-
----
-
-## License
-
-License: Not specified yet
