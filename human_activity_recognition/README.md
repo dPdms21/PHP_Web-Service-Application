@@ -364,7 +364,7 @@ Web Dashboard 조회
 * HTML
 * CSS
 
-<br>
+---
 
 ## Author
 
