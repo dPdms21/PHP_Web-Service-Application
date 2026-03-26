@@ -165,8 +165,22 @@ new Chart(document.getElementById('f1Chart'), {
     responsive: true,
     maintainAspectRatio: false,
     scales: {
-      x: { ticks: { color: ticksColor }, grid: { color: gridColor } },
-      y: { beginAtZero: true, max: 1, ticks: { color: ticksColor }, grid: { color: gridColor } }
+      x: {
+        ticks: {
+          color: ticksColor,
+          font: { size: 25, weight: '400' }
+        },
+        grid: { color: gridColor }
+      },
+      y: {
+        beginAtZero: true,
+        max: 1,
+        ticks: {
+          color: ticksColor,
+          font: { size: 22, weight: '400' }
+        },
+        grid: { color: gridColor }
+      }
     },
     plugins: {
       legend: { display: false },
@@ -181,17 +195,33 @@ new Chart(document.getElementById('overallChart'), {
   data: {
     labels: ['Accuracy', 'Macro-F1'],
     datasets: [{
-      label: 'Performance',
-      data: [acc, macro],
-      backgroundColor: ['rgba(16,185,129,0.85)', 'rgba(99,102,241,0.85)']
+      label: 'F1-score',
+      data: [0.874, 0.842, 0.737, 0.941, 0.765],
+      backgroundColor: ['rgba(16,185,129,0.85)', 'rgba(99,102,241,0.85)'],
+      categoryPercentage: 0.65,
+      barPercentage: 0.75
     }]
   },
   options: {
     responsive: true,
     maintainAspectRatio: false,
     scales: {
-      y: { beginAtZero: true, max: 1, ticks: { color: ticksColor }, grid: { color: gridColor } },
-      x: { ticks: { color: ticksColor }, grid: { display: false } }
+      y: {
+        beginAtZero: true,
+        max: 1,
+        ticks: {
+          color: ticksColor,
+          font: { size: 22, weight: '400' }
+        },
+        grid: { color: gridColor }
+      },
+      x: {
+        ticks: {
+          color: ticksColor,
+          font: { size: 25, weight: '400' }
+        },
+        grid: { display: false }
+      }
     },
     plugins: {
       legend: { display: false },
